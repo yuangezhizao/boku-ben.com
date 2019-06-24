@@ -1,0 +1,167 @@
+@charset "UTF-8";
+.content_inner.staffcast {
+  padding-bottom: 300px;
+}
+
+.content_inner.staffcast .staffcast_box {
+  position: relative;
+  padding: 45px 0 30px;
+}
+
+.content_inner.staffcast .staffcast_box.cast .deco_item li:first-child {
+  display: none;
+}
+
+.content_inner.staffcast .staffcast_box .staff_catch {
+  padding-bottom: 35px;
+  font-weight: 600;
+  font-size: 36px;
+  font-family: "Montserrat", sans-serif;
+  letter-spacing: .075em;
+}
+
+.content_inner.staffcast .staffcast_box .staff_list {
+  padding: 0 0 0 18px;
+  font-size: 0;
+  letter-spacing: -.4em;
+}
+
+.content_inner.staffcast .staffcast_box .staff_list li {
+  display: inline-block;
+  margin-bottom: 36px;
+  font-size: 0;
+  letter-spacing: -.4em;
+}
+
+.content_inner.staffcast .staffcast_box .staff_list li .staff_position {
+  padding-bottom: 10px;
+  color: #f5588b;
+  font-weight: 500;
+  font-size: 15px;
+  letter-spacing: normal;
+}
+
+.content_inner.staffcast .staffcast_box .staff_list li .name_comment_wrap {
+  display: inline-block;
+  position: relative;
+}
+
+.content_inner.staffcast .staffcast_box .staff_list li .name_comment_wrap .staff_comment {
+  position: absolute;
+  top: 50%;
+  right: -35px;
+  width: 24px;
+  height: 24px;
+  margin-top: -12px;
+  background: url(../img/staff/icon_balloon.svg) center center no-repeat;
+  background-size: contain;
+  cursor: pointer;
+}
+
+.content_inner.staffcast .staffcast_box .staff_list li .staff_name {
+  font-size: 0;
+  letter-spacing: -.4em;
+}
+
+.content_inner.staffcast .staffcast_box .staff_list li .staff_name p {
+  display: inline-block;
+  width: 39px;
+  margin-bottom: 0;
+  padding: 5.5px 0;
+  background: #fff;
+  border: 3px solid #ececec;
+  vertical-align: top;
+  font-weight: 700;
+  font-size: 22px;
+  font-family: "Noto Sans JP", "游ゴシック", YuGothic, "Helvetica", "ヒラギノ角ゴ ProN W3", "Hiragino Kaku Gothic ProN", "メイリオ", Meiryo, "Helvetica Neue", Arial, sans-serif;
+  letter-spacing: normal;
+  text-align: center;
+
+  border-right: none;
+}
+
+.content_inner.staffcast .staffcast_box .staff_list li .staff_name p:last-child {
+  border-right: 3px solid #ececec;
+}
+
+.content_inner.staffcast .staffcast_box .staff_list li .staff_supplement {
+  padding-top: 8px;
+  font-size: 12px;
+  letter-spacing: .03em;
+}
+
+@media screen and (min-width: 769px) {
+  .content_inner.staffcast .staffcast_box .staff_list li.is-big {
+    width: 100%;
+  }
+  .content_inner.staffcast .staffcast_box .staff_list li.is-small {
+    width: 50%;
+  }
+}
+
+@media screen and (max-width: 768px) {
+  .content_inner.staffcast {
+    padding-bottom: 94px;
+  }
+  .content_inner.staffcast .staffcast_box {
+    padding: 23px 0 25px;
+  }
+  .content_inner.staffcast .staffcast_box.cast {
+    padding: 28px 0 5px;
+  }
+  .content_inner.staffcast .staffcast_box .staff_catch {
+    padding-bottom: 23px;
+    font-size: 26px;
+    letter-spacing: .05em;
+  }
+  .content_inner.staffcast .staffcast_box .staff_list {
+    padding: 0 4.5%;
+  }
+  .content_inner.staffcast .staffcast_box .staff_list li {
+    width: 100%;
+    margin-bottom: 21.75px;
+  }
+  .content_inner.staffcast .staffcast_box .staff_list li .staff_position {
+    padding-bottom: 8px;
+    font-size: 13px;
+  }
+  .content_inner.staffcast .staffcast_box .staff_list li .name_comment_wrap .staff_comment {
+    width: 20px;
+    height: 20px;
+    margin-top: -10px;
+  }
+  .content_inner.staffcast .staffcast_box .staff_list li .staff_name {
+    border-left: 1.5px solid #ececec;
+  }
+  .content_inner.staffcast .staffcast_box .staff_list li .staff_name.sp_hasbr p:nth-child(n+8) {
+    border-top: 1.5px solid #ececec;
+  }
+  .content_inner.staffcast .staffcast_box .staff_list li .staff_name.sp_hasbr p:nth-child(-n+7) {
+    border-bottom: none;
+  }
+  .content_inner.staffcast .staffcast_box .staff_list li .staff_name p {
+    width: 8.15vw;
+    padding: 1.56vw 0;
+    border: 1.5px solid #ececec;
+    font-size: 16px;
+
+    border-left: none;
+  }
+  .content_inner.staffcast .staffcast_box .staff_list li .staff_name p:nth-child(n+11) {
+    border-top: none;
+  }
+  .content_inner.staffcast .staffcast_box .staff_list li .staff_name p:last-child {
+    border-right: 1.5px solid #ececec;
+  }
+  .content_inner.staffcast .staffcast_box .staff_list li .staff_supplement {
+    font-size: 11px;
+    letter-spacing: .05em;
+  }
+}
+
+@media screen and (max-width: 321px) {
+  .content_inner.staffcast .staffcast_box .staff_list li .staff_name p {
+    width: 7.5vw;
+    font-size: 14px;
+  }
+}

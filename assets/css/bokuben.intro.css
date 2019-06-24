@@ -1,0 +1,197 @@
+.content_inner.story {
+  width: 895px;
+  padding-bottom: 316px;
+}
+
+.content_inner.story .story_content {
+  position: relative;
+  width: 845px;
+  margin-left: 10px;
+}
+
+.content_inner.story .story_content::before {
+  content: "";
+  -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=70)";
+  opacity: .7;
+  position: absolute;
+  top: 20px;
+  left: 20px;
+  width: 100%;
+  height: 100%;
+  background: #ffff4f;
+}
+
+.content_inner.story .story_content.active .story_box .story_inner .has_line::before {
+  -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=100)";
+  opacity: 1;
+  width: 100%;
+  -webkit-transition: all .5s cubic-bezier(.215, .61, .355, 1) .8s;
+  transition: all .5s cubic-bezier(.215, .61, .355, 1) .8s;
+}
+
+.content_inner.story .story_box {
+  position: relative;
+  padding: 15px 0;
+  background: #fff;
+  border: 5px solid #000;
+}
+
+.content_inner.story .story_box .story_inner {
+  position: relative;
+  padding: 42px 0 55px 65px;
+  font-weight: 600;
+  font-size: 20px;
+  line-height: 48px;
+  letter-spacing: .075em;
+}
+
+.content_inner.story .story_box .story_inner .has_line {
+  display: inline-block;
+  position: relative;
+  vertical-align: top;
+}
+
+.content_inner.story .story_box .story_inner .has_line::before {
+  content: "";
+  -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=0)";
+  opacity: 0;
+  position: absolute;
+  bottom: 6px;
+  left: 0;
+  width: 0;
+  height: 5px;
+  background: #ffff4f;
+  border: 1px solid #000;
+}
+
+.content_inner.story .story_box .story_inner .has_line.is_big {
+  font-size: 40px;
+  line-height: 66px;
+}
+
+.content_inner.story .story_box .story_inner::before {
+  content: "";
+  position: absolute;
+  top: 50%;
+  left: -18px;
+  -webkit-transform: translateY(-50%);
+          transform: translateY(-50%);
+  width: 36px;
+  height: 95%;
+  background: url(../img/chara/bg_note_repeat.svg) top left repeat-y;
+  background-size: contain;
+}
+
+
+.story_category {
+  margin-bottom: 30px;
+  text-align: center;
+}
+.story_category ul li {
+  position: relative;
+  display: inline-block;
+  vertical-align: top;
+  letter-spacing: normal;
+}
+.story_category ul li::before {
+  content: "";
+  -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=0)";
+  opacity: 0;
+  position: absolute;
+  bottom: -6px;
+  left: -2.5px;
+  width: 100%;
+  width: 0;
+  height: 2px;
+  background: #ffff4f;
+  border: 2px solid #000;
+  line-height: 1px;
+  -webkit-transition: all 0.7s cubic-bezier(0.23, 1, 0.32, 1);
+  transition: all 0.7s cubic-bezier(0.23, 1, 0.32, 1);
+}
+.story_category ul li:hover::before {
+  opacity: 1;
+  width: 100%;
+}
+.story_category ul li.nav_intro::before {
+  -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=100)";
+  opacity: 1;
+  width: 100%;
+  -webkit-transition: all 0.7s cubic-bezier(0.23, 1, 0.32, 1);
+  transition: all 0.7s cubic-bezier(0.23, 1, 0.32, 1);
+}
+.story_category ul li + li {
+  margin-left: 29px;
+}
+.story_category ul li a {
+  display: block;
+  width: 100%;
+  height: 100%;
+  color: #000;
+  font-weight: 600;
+  font-size: 16px;
+  font-family: "Montserrat", sans-serif;
+  letter-spacing: .13em;
+  text-decoration: none;
+}
+
+
+@media screen and (max-width: 768px) {
+  .content_inner.story {
+    width: 90%;
+    padding-bottom: 142px;
+  }
+  .content_inner.story .content_title {
+    margin-bottom: 29px;
+  }
+  .content_inner.story .story_content {
+    width: calc(100% - 30px);
+    margin-left: 10px;
+  }
+  .content_inner.story .story_box {
+    padding: 8px 0;
+    border: 3px solid #000;
+  }
+  .content_inner.story .story_box .story_inner {
+    position: relative;
+    padding: 30px 3% 38px 12%;
+    font-weight: 600;
+    font-size: 13px;
+    line-height: 30px;
+    letter-spacing: .05em;
+  }
+  .content_inner.story .story_box .story_inner .has_line::before {
+    bottom: -4px;
+    height: 4px;
+  }
+  .content_inner.story .story_box .story_inner .has_line.is_big {
+    font-size: 25px;
+    line-height: 45px;
+  }
+  .content_inner.story .story_box .story_inner::before {
+    left: -12px;
+    width: 32px;
+    height: 97%;
+  }
+
+  .story_category {
+    margin-bottom: 18px;
+    text-align: center;
+  }
+  .story_category ul li {
+    margin: 0 2% 16px 2% !important;
+  }
+  .story_category ul li a {
+    font-size: 14px;
+    font-size: 3.7333333333vw;
+    letter-spacing: .075em;
+  }
+}
+
+@media screen and (max-width: 321px) {
+  .content_inner.story .story_box .story_inner {
+    font-size: 11px;
+    line-height: 26px;
+    letter-spacing: .03em;
+  }
+}

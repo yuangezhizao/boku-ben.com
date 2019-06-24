@@ -1,0 +1,224 @@
+.l-loading {
+  position: fixed;
+  top: 0;
+  left: 0;
+  z-index: 999;
+  width: 100%;
+  min-width: 1200px;
+  height: 100%;
+  min-height: 850px;
+  background: #ffff4f;
+}
+
+.l-loading::before {
+  content: "";
+  position: absolute;
+  top: 50%;
+  left: 0;
+  -webkit-transform: translate(0, -50%);
+          transform: translate(0, -50%);
+  width: 0;
+  height: 10px;
+  background: #fff;
+}
+
+.l-loading.active::before {
+  width: 100%;
+  -webkit-transition: width 2s cubic-bezier(.23, 1, .32, 1);
+  transition: width 2s cubic-bezier(.23, 1, .32, 1);
+}
+
+.l-loading .c-loading_inner {
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  left: 50%;
+  width: 1200px;
+  margin-left: -600px;
+}
+
+.l-loading .loading_logo {
+  -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=0)";
+  opacity: 0;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  -webkit-transform: translate(-50%, -50%);
+          transform: translate(-50%, -50%);
+  width: 200px;
+  height: 91px;
+}
+
+.l-loading .loading_logo.active {
+  -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=100)";
+  opacity: 1;
+  -webkit-transition: opacity 1s ease-out;
+  transition: opacity 1s ease-out;
+}
+
+.l-loading .loading_chara li {
+  -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=0)";
+  opacity: 0;
+  position: absolute;
+  width: 50%;
+  max-width: 550px;
+}
+
+.l-loading .loading_chara li.active {
+  -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=100)";
+  opacity: 1;
+  -webkit-transition: all .3s cubic-bezier(.68, -.55, .265, 1.55);
+  transition: all .3s cubic-bezier(.68, -.55, .265, 1.55);
+}
+
+.l-loading .loading_chara li.chara_nariyuki {
+  bottom: -10%;
+  left: 50%;
+  -webkit-transform: translate(-40%, 50px);
+          transform: translate(-40%, 50px);
+}
+
+.l-loading .loading_chara li.chara_nariyuki.active {
+  -webkit-transform: translate(-40%, 0px);
+          transform: translate(-40%, 0px);
+}
+
+.l-loading .loading_chara li.chara_fumino {
+  bottom: -30%;
+  left: -10%;
+  -webkit-transform: rotate(20deg) translateY(50px);
+          transform: rotate(20deg) translateY(50px);
+}
+
+.l-loading .loading_chara li.chara_fumino.active {
+  -webkit-transform: rotate(20deg) translateY(0px);
+          transform: rotate(20deg) translateY(0px);
+}
+
+.l-loading .loading_chara li.chara_rizu {
+  right: -7.5%;
+  bottom: -30%;
+  -webkit-transform: rotate(-25deg) translateY(50px);
+          transform: rotate(-25deg) translateY(50px);
+}
+
+.l-loading .loading_chara li.chara_rizu.active {
+  -webkit-transform: rotate(-25deg) translateY(0px);
+          transform: rotate(-25deg) translateY(0px);
+}
+
+.l-loading .loading_chara li.chara_mafuyu {
+  top: 10%;
+  left: -18%;
+  -webkit-transform: rotate(60deg) translateY(50px);
+          transform: rotate(60deg) translateY(50px);
+}
+
+.l-loading .loading_chara li.chara_mafuyu.active {
+  -webkit-transform: rotate(60deg) translateY(0px);
+          transform: rotate(60deg) translateY(0px);
+}
+
+.l-loading .loading_chara li.chara_uruka {
+  top: -45%;
+  right: 10%;
+  -webkit-transform: rotate(160deg) translateY(50px);
+          transform: rotate(160deg) translateY(50px);
+}
+
+.l-loading .loading_chara li.chara_uruka.active {
+  -webkit-transform: rotate(160deg) translateY(0px);
+          transform: rotate(160deg) translateY(0px);
+}
+
+.l-loading .loading_chara li.chara_asumi {
+  top: -45%;
+  left: 22%;
+  -webkit-transform: rotate(200deg) translateY(50px);
+          transform: rotate(200deg) translateY(50px);
+}
+
+.l-loading .loading_chara li.chara_asumi.active {
+  -webkit-transform: rotate(200deg) translateY(0px);
+          transform: rotate(200deg) translateY(0px);
+}
+
+@media all and (-ms-high-contrast: none) {
+  .l-loading .loading_logo img {
+    width: 200px;
+    height: 91px;
+  }
+}
+
+@media screen and (max-width: 768px) {
+  .l-loading {
+    position: fixed;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    min-width: 100%;
+    min-height: 100%;
+  }
+  .l-loading::before {
+    height: 5px;
+  }
+  .l-loading .c-loading_inner {
+    width: 100%;
+    margin-left: -50%;
+  }
+  .l-loading .loading_logo {
+    width: 125px;
+    height: auto;
+  }
+  .l-loading .loading_chara li {
+    width: 65%;
+  }
+  .l-loading .loading_chara li.chara_nariyuki {
+    bottom: -5%;
+  }
+  .l-loading .loading_chara li.chara_fumino {
+    bottom: -5%;
+    left: -25%;
+    -webkit-transform: rotate(35deg) translateY(50px);
+            transform: rotate(35deg) translateY(50px);
+  }
+  .l-loading .loading_chara li.chara_fumino.active {
+    -webkit-transform: rotate(35deg) translateY(0px);
+            transform: rotate(35deg) translateY(0px);
+  }
+  .l-loading .loading_chara li.chara_rizu {
+    right: -10%;
+    bottom: 0%;
+    -webkit-transform: rotate(-25deg) translateY(50px);
+            transform: rotate(-25deg) translateY(50px);
+  }
+  .l-loading .loading_chara li.chara_rizu.active {
+    -webkit-transform: rotate(-25deg) translateY(0px);
+            transform: rotate(-25deg) translateY(0px);
+  }
+  .l-loading .loading_chara li.chara_mafuyu {
+    top: 15%;
+    left: -20%;
+    -webkit-transform: rotate(60deg) translateY(50px);
+            transform: rotate(60deg) translateY(50px);
+  }
+  .l-loading .loading_chara li.chara_mafuyu.active {
+    -webkit-transform: rotate(60deg) translateY(0px);
+            transform: rotate(60deg) translateY(0px);
+  }
+  .l-loading .loading_chara li.chara_uruka {
+    top: -15%;
+    right: -30%;
+    -webkit-transform: rotate(225deg) translateY(50px);
+            transform: rotate(225deg) translateY(50px);
+  }
+  .l-loading .loading_chara li.chara_uruka.active {
+    -webkit-transform: rotate(225deg) translateY(0px);
+            transform: rotate(225deg) translateY(0px);
+  }
+  .l-loading .loading_chara li.chara_asumi {
+    top: -28.5%;
+    left: 30%;
+  }
+}
