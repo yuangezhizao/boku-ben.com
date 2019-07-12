@@ -1,4 +1,4 @@
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  <!DOCTYPE html>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                <!DOCTYPE html>
 <html lang="ja">
 <head prefix="og: http://ogp.me/ns# fb: http://ogp.me/ns/fb# article: http://ogp.me/ns/article#">
 <meta charset="UTF-8">
@@ -38,13 +38,22 @@
 <link rel="stylesheet" href="../assets/css/bokuben.news.css">
 <!-- Google Tag Manager -->
 <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
-  new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
-  j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
-  'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
-  })(window,document,'script','dataLayer','GTM-MMCNZT5');</script>
-  <!-- End Google Tag Manager --></head>
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-M9889B');</script>
+
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-MMCNZT5');</script>
+<!-- End Google Tag Manager --></head>
 <body data-menu=".m-news">
   <!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-M9889B"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+
 <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-MMCNZT5"
 height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 <!-- End Google Tag Manager (noscript) --><div class="l-wrapper">
@@ -79,7 +88,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
     <div class="c-header_menu">
       <div class="is-pc menu_logo">
         <a href="../index.html?from_lower">
-          <img src="../assets/img/common/logo.svg" alt="ぼくたちは勉強ができない">
+          <img src="../assets/img/common/logo02.svg" alt="ぼくたちは勉強ができない">
       </a>
       </div>
       <ul class="is-pc deco_item">
@@ -130,147 +139,147 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                         <ul class="list_item">
                             <li>
                 <div class="item_left">
-                  <div class="thumb" style="background-image: url(SYS/CONTENTS/news_50689_photo_1)">
+                  <div class="thumb" style="background-image: url(SYS/CONTENTS/2019061214545675184044/w776)">
                   </div>
                 </div>
                 <div class="item_right">
                   <p class="date">
-                    2019.05.27
+                    2019.06.12
                   </p>
                   <div class="title">
-                    LINEアイコン配布！
+                    Studyミニアルバム『PROGRESSIVE』ジャケット写真公開！
                   </div>
                   <div class="text">
-                    &nbsp;<br/>作中で文乃とうるかが使用しているLINEのアイコンを配布いたします！<br/>ぜひ使ってみてくださいね。<br/>⇒<a title="" href="../special/icon4/index.html" target="">https://boku-ben.com/special/icon4/</a><br/>
+                    7月24日発売Study初のミニアルバム『PROGRESSIVE』のジャケット写真を公開いたしました！<br/>こちらを使用した店舗別特典も運用が決定！<br/>是非詳細は商品ページをご確認ください！<br/>&nbsp;<br/>■Study『PROGRESSIVE』ジャケット写真<br/><img src="SYS/CONTENTS/2019061214545675184044/w776" width="776"/><br/>&nbsp;<br/>▼商品ページ▼<br/><a href="../study/music/a_01.html"><u><font color="#0066cc">https://boku-ben.com/study/music/a_01.html</font></u></a><br/>
                   </div>
                 </div>
-                <a href="index.html?id=50689"></a>
+                <a href="index.html?id=50845"></a>
               </li>
                             <li>
                 <div class="item_left">
-                  <div class="thumb" style="background-image: url(SYS/CONTENTS/2019051813391429883344/w776)">
+                  <div class="thumb" style="background-image: url(../assets/img/news/img_noimg.jpg)">
                   </div>
                 </div>
                 <div class="item_right">
                   <p class="date">
-                    2019.05.18
+                    2019.06.09
                   </p>
                   <div class="title">
-                    『Study』活動レポート ≪ニコ生1限目≫更新！
+                    【ミニアルバム楽曲公開第2弾♬】「すべてが [ｘ] の世界線」試聴音源公開！
                   </div>
                   <div class="text">
-                    ■『ぼくたちは勉強ができない』ニコ生特番 ready STUDY go!1限目レポート<br/><img src="SYS/CONTENTS/2019051813391429883344/w776" width="776"/><br/>2019年4月16日、TVアニメ『ぼくたちは勉強ができない』から生まれた音楽ユニット・Studyによるニコニコ生放送「『ぼくたちは勉強ができない』ニコ生特番 ready STUDY go!」が配信された。白石晴香さん（古橋文乃役）、富田美憂さん（緒方理珠役）、鈴代紗弓さん（武本うるか役）から成るStudyがMCを務め、アニメ『ぼく勉』やStudyの魅力を紹介していく番組で、この日は記念すべき“1限目”。『ぼく勉』らしく授業の始まりを告げるチャイムとともに番組はスタートした。3月5日放送のお披露目ニコ生特番では、中山信宏プロデューサーや唯我成幸役の逢坂亮太さんから、MCの3人がいろいろ学んでいくという内容だったが、今回からは3人だけのオープニングということもあり、女子会的な雰囲気となっていた。<br/>　3月のお披露目から“AnimeJapan 2019”、そして特別先行上映会を軽く振り返ったオープニング・トークのあと、最初のコーナーは鈴代さんMCによる「アニメ『ぼくたちは勉強ができない』裏トーク」。これはすでに放送されたTVアニメ第1、2話のなかから、Studyの3人がチョイスした“ベストカット”をもとにトークしつつ、またスタッフこだわりのカットも紹介していくというもの。<br/>　まず第1話では白石さんが「ぽけーっと空を見上げる文乃」、富田さんが「成幸にボードゲームで負けて、ぐでる理珠」、鈴代さんは「文乃のいい匂いにドキドキする成幸」と、それぞれがラブコメらしくコミカルなカットをチョイス。またこうしたデフォルメされたキャラなどが出てくるコミカルなシーンは、アドリブを入れやすいらしく、アフレコでも1話からバンバンとアドリブが飛び交っていたそう。<br/>　続いて第2話では、白石さんは「口から魂が出ている文乃」、富田さんは「暗いところを怖がる理珠」、鈴代さんは「廊下で成幸を待つうるかの乙女なアイキャッチ」をそれぞれチョイス。この回はうるかがフィーチャーされただけに「毎回お当番回というものがあるから、回によって“この子が好き！”ってなる」（富田）とのこと。<br/>　Study3人のベストカットを紹介したあとは、アニメスタッフこだわりのカットを紹介ということで、今回は話題を呼んだオープニング・アニメから。通常のオープニング・アニメの3倍近いという驚愕の動画枚数だけあって、ヒロインたちの細かい動きにも注目が集まるなか、今回紹介したのはヒロインたちが書いているノートの中身。これもただ適当に文字を羅列しているわけではなく、例えば理珠のノートは万葉集（古文）、うるかは英語とそれぞれの不得意科目やキャラクターを打ち出した内容となっているところがポイント。また第2話では、文乃の小論文が見えるシーンがあるが、そこもちゃんと小論文の内容になっている。そこで、その論文を富田さんが読み上げてみると、たしかに先生が号泣するほど（？）、しっかりまとまった文章になっていた。こうした細かいこだわりひとつひとつが『ぼく勉』のアニメーションには盛り込まれているのだ。<br/>　ちなみに、小論文を見事読み上げた富田さんには、ご褒美に劇中でも登場する理珠の実家「緒方うどん」のどんぶりに入ったうどんが…出ず、エアでうどんを食べるエアうどんを披露いただいた。このどんぶりは底にSDの理珠の顔が描かれているもので、通信販売サイト「ANIPLEX＋」にて受注生産販売されるとのこと。急いでチェックしよう。<br/>　さて、続いてのコーナーは『ぼく勉』になぞらえて、Studyの3人が勉強するというコーナー。ここではあの“クイズ王”古川洋平氏を招いて、クイズ形式で3人がスタディしていくようだ。まさかのビッグネーム登場にスタジオはざわつきつつも、クイズ王はまず3人がどれだけ勉強ができるか、中学生までに学ぶ範囲の一般常識的学問からの問題を早押しクイズ形式でチェックしていく。中学生レベルとタカを括っていた3人だったが、最初の問題で「発明王と呼ばれたアメリカの科学者の名前は？」という問いに対して、鈴代さんが即座に「ニーチェ！」とハイブロウな回答を繰り出す。<br/>　このように、中学生レベルの問題に苦戦を強いられ、なかなかの接戦となったクイズ大会。それを見事制したのは、早押しでも抜群の瞬発力を見せた白石さん。このクイズコーナーはレギュラー化されるようで、次回からは事前にテーマを用意して3人は挑む模様。気になる次回のテーマはズバリ、『ぼくたちは勉強できない』に決定。珍回答も続出するこのクイズコーナー、次回も目が離せないところだ。<br/>　次は富田さんが司会となるゲームコーナー「Studyと[X]はゲームを楽しむ」。これは“AnimeJapan”2日目のイベントでも好評を博した、アナログゲームをみんなで遊ぼうというコーナーだ。今回はStudyの3人にクイズ王を加えて「ニムト」をプレイ。ニムトとはドイツで生まれた、幅広いプレイ人数とシンプルながら奥深いルールで大人気のカードゲーム。詳しいルールは割愛するが、運だけあるいは技術だけで左右されるルールではなく、いわば4人の実力は拮抗した状態でゲームはスタートした。しかし、最終的にビリになったのは……アナログゲームが苦手な劇中の理珠と同じく富田さん。さすがにショックの色の隠せない富田さんが次回リベンジを果たせるのか、また次回のゲームにも期待したいところだ。<br/>　さて、長らく続いた番組もエンディング・コーナーへ。Studyのデビュー・シングル「セイシュンゼミナール／Never Give It Up!!」リリースを記念して、発売日の5月29日前後に各種イベントの開催が発表された。またこの日は「セイシュンゼミナール」MVのフル・バージョンも公開され、いよいよ約1ヶ月後と迫ったStudyの“[X]デイ”に向けての気運も高まっているようだ。<br/>　さて、この日はクイズにゲームで競ったStudyの3人。まだまだ伸び代があるということを強調していたが、勉強も時には反省も必要。というわけで番組最後には2競技ともに最下位だった富田さんとクイズ王による“補修”がボーナストラック的に行われた。次回この席に座るのは果たして誰なのか？　「『ぼくたちは勉強ができない』ニコ生特番 ready STUDY Go!」2限目もお楽しみに！<br/>番組を終えたキャストからのコメントも紹介いたします！<br/><br/>■古橋文乃役　白石晴香さん<br/>今回は古川ティーチャーのクイズに挑戦したり、作中でりずりんがやっているアナログゲームをやったりと、盛りだくさんで楽しかったです。<br/>始まる前は古川ティーチャーのクイズにちゃんと答えられるか不安だったのですが、ヒントをもらいみんなで切磋琢磨しながら答え、何とか正解できたので、安心しました。<br/>次回は「ぼく勉」からの出題という事なので、宿題・予習をしないと…！！<br/>ニムト初挑戦だったのですが、あまりにも楽しくて、アナログゲームにハマってしまいそうです。<br/>次回もみんなで楽しく成長出来るように頑張ります。<br/>&nbsp;<br/>■緒方理珠役　富田美憂さん<br/>初めての月イチニコ生ということで3人で古川ティーチャーからのクイズに挑戦したのですが結果は、、、汗<br/>そしてニムトではリハーサルでも負け、本番でも圧倒的な負け札の数でした。まるで1話の理珠のようでした、、、！<br/>クイズもゲームも自分の伸びしろを信じて頑張りたいと思います！<br/>これからのニコ生でたくさんのクイズ、ゲームに挑戦していきますので、<br/>ティーチャーのみなさんも私達と一緒に考えながら楽しんでいただけたらと思います！<br/>あらためてどうぞよろしくお願いします！<br/>&nbsp;<br/>■武元うるか役　鈴代紗弓さん<br/>一限目から内容盛りだくさんで、本当に楽しかったです！！<br/>古川さんには初めてお会いしたのですが「おさゆ」とあだ名で呼んでくださったり「古川ティーチャー」と呼ばせていただいたり。<br/>私の支離滅裂な言葉もちゃんと拾って面白くしてくださりました…そんなお優しい古川ティーチャーからのクイズも大盛り上がりで、質問内容や答えなどを聞いて懐かしい感じもしました。<br/>ニムトもとても面白かったのでオススメですし、1話、2話の振り返りもみんなで出来て良かったです！二限目はどんな勉強ができるのか今からワクワク…！補修にならないように次回も頑張ります！<br/><br/>&nbsp;<br/>
+                    7月24日の発売に先駆けて毎週1曲ずつStudy ミニアルバム「PROGRESSIVE」の試聴音源を公開！<br/>&nbsp;<br/>今回は作詞こだまさおりさん、 作曲・編曲a2c(MintJam)さんで<br/>「すべてが [ｘ] の世界線」を一足先にお届け！<br/>こだまさおりさん、a2cさんからのコメントも到着！<br/>&nbsp;<br/>商品ページにてご確認いただけます！<br/><a href="../study/music/a_01.html"><u><font color="#0066cc">https://boku-ben.com/study/music/a_01.html</font></u></a>&nbsp;<br/>
                   </div>
                 </div>
-                <a href="index.html?id=50660"></a>
+                <a href="index.html?id=50808"></a>
               </li>
                             <li>
                 <div class="item_left">
-                  <div class="thumb" style="background-image: url(SYS/CONTENTS/2019041615042378510027/w642)">
+                  <div class="thumb" style="background-image: url(../assets/img/news/img_noimg.jpg)">
                   </div>
                 </div>
                 <div class="item_right">
                   <p class="date">
-                    2019.05.16
+                    2019.06.08
                   </p>
                   <div class="title">
-                    「セイシュンゼミナール/Never Give It Up!!」応援店特典「Study」L判ブロマイド絵柄公開！
+                    OPEDリミックス音源試聴開始！
                   </div>
                   <div class="text">
-                    主題歌CD「セイシュンゼミナール/Never Give It Up!!」の応援店特典「Study」L判ブロマイドの絵柄を公開しました！<br/><br/>【対象店舗】<br/>アニメイト、 ゲーマーズ、 ソフマップ(CD取り扱い店舗のみ)、 とらのあな(一部店舗除く)、 Amazon(【Amazon.co.jp限定】商品のみ対象)、 タワーレコード、 HMV、 WonderGOO/新星堂、 ANIPLEX+<br/><br/><img src="SYS/CONTENTS/2019041615042378510027/w642" width="642"/><br/>
+                    好評発売中の「セイシュンゼミナール／Never Give It Up!!」から<br/>吟（BUSTED ROSE）によるリミックスバージョンのOPEDの試聴音源を公開いたしました！<br/><br/>一味違ったこの2曲を是非ご確認ください！<br/>&nbsp;<br/>▼試聴ページ▼<br/><a href="../study/music/s_01.html">https://boku-ben.com/study/music/s_01.html</a><br/>
                   </div>
                 </div>
-                <a href="index.html?id=50451"></a>
+                <a href="index.html?id=50804"></a>
               </li>
                             <li>
                 <div class="item_left">
-                  <div class="thumb" style="background-image: url(SYS/CONTENTS/2019051511204797091978/w400)">
+                  <div class="thumb" style="background-image: url(SYS/CONTENTS/2019060718091632246124/w776)">
                   </div>
                 </div>
                 <div class="item_right">
                   <p class="date">
-                    2019.05.15
+                    2019.06.07
                   </p>
                   <div class="title">
-                    「セイシュンゼミナール／Never Give It Up!!」応援店特典対象店舗解禁！
+                    ぼく勉学生証メーカー開始！
                   </div>
                   <div class="text">
-                    5月29日発売「セイシュンゼミナール／Never Give It Up!!」の応援店特典対象店舗を公開いたしました！<br/>&nbsp;<br/>商品情報等詳細はMUSICページにて！<br/><a href="../study/music/index.html"><u><font color="#0066cc">https://boku-ben.com/study/music/</font></u></a><br/>&nbsp;<br/>描き下ろしA4サイズクリアファイル (古橋文乃、緒方理珠、武元うるか)<br/><img src="SYS/CONTENTS/2019051511204797091978/w400" width="400"/><br/><br/>【対象店舗】<br/>・アニメイト全店(オンラインショップ含む)<br/>・ANIPLEX+(オンライン)<br/>・Amazon(【Amazon.co.jp限定】商品のみ)<br/>・あみあみ<br/>・今井書店　吉成店サウンドスタジアム<br/>・HMV(オンライン含む) 札幌ステラプレイス／イオンモール川口前川／イオンモール羽生／大宮アルシェ／イオンモール千葉ニュータウン／イオンモール成田／ららぽーと豊洲／ラゾーナ川崎／ららぽーと横浜／イオンモール太田／イオンモール高崎／エソラ池袋／イオンモール各務原／イオンモール扶桑／イオンモール木曽川／イオンモール岡崎<br/>・ゲーマーズ(全国、オンライン含む)<br/>・新星堂 横浜ジョイナス／上大岡店／天王寺ミオ店／イオンモール宮崎店／八戸ニュータウン店／武蔵境ヨーカドー店／難波店／Tea for Two R.立川店／水戸店／海老名店／アピタ松任店／新越谷駅ビル店／葛西ヨーカドー店／アピタ長久手店／大和鶴間ヨーカドー店／鶴岡店／立場ヨーカドー店／ゆめタウン光の森店／レスポック四街道店／サンリブシティ小倉店／アトレ吉祥寺店／湘南台ヨーカドー店／ｶﾙﾁｪ5柏／国分寺<br/>・ソフマップ(CD取り扱い店及びドットコム)<br/>・タワーレコード 新宿店／渋谷店／梅田大阪マルビル店／秋葉原店／梅田ＮＵ茶屋町店／津田沼店／町田店／八王子店／静岡店／難波店苫小牧店／札幌ピヴォ店／横浜ビブレ店／仙台パルコ店／川﨑店／池袋店／新潟店／金沢フォーラス店／名古屋近鉄パッセ店／名古屋パルコ店／京都店／神戸店／あべのHoop店／イオンレイクタウン店／イオンモール倉敷店／東浦店／鈴鹿店／若松店／橿原店／上田店／アリオ亀有店／モレラ岐阜店／ららぽｰと磐田店／ららぽｰとTOKYO-BAY店／大高店／アリオ倉敷店／アリオ八尾店／タワーミニ　ららぽｰと甲子園店／グランツリー武蔵小杉店／錦糸町パルコ店／高崎オーパ店／福岡パルコ店／明石店／下田店／香椎浜店／北花田店／アリオモール蘇我店／アリオ橋本店／西武高槻店／タワーミニ 汐留店／アリオ川口店／高松丸亀町店／タワーミニ アリオ仙台泉店<br/>・TSUTAYA RECORDS(一部店舗除く、オンライン含む)<br/>・ディスクピア 日本橋店<br/>・とらのあな(一部店舗除く)<br/>・ブックスミスミ　オプシア<br/>・ヨドバシカメラ マルチメディアAkiba／マルチメディア梅田／新宿西口マルチメディア館／マルチメディア横浜／マルチメディア川崎ルフロン／マルチメディア錦糸町／マルチメディア町田／マルチメディア吉祥寺／マルチメディア京急上大岡店／マルチメディア仙台／マルチメディア京都／ヨドバシ・ドット・コム<br/>・WonderGOO ひたちなか店／茂原店／鹿島店／那珂店／ひたち野うしく店／古河店／竜ヶ崎店／守谷店常陸大宮店／下館店／高崎店／つくば店／友部店／真岡店／石下店／東金店／足利店／鹿沼店／石岡店／大穂店／高萩店／水戸笠原店／小山店／鎌ヶ谷店／千代田店／鉾田店／日立中央店／伊勢崎店／越谷店／旭店／江戸崎店／大田原店／入間店／千葉ニュータウン店／八街店／東店／富岡店／境FiSS店／三郷店／北茨城店／館林店／いわき鹿島店／加須店／富里店成東店／日立田尻店／本庄店／八千代店下野店／藤岡店／苫小牧店／十和田店／つがる柏店／奥州水沢店<br/>※先着特典となります。各店舗ともなくなり次第終了となります。予めご了承ください。<br/>
+                    &nbsp;<br/><img src="SYS/CONTENTS/2019060718091632246124/w776" width="776"/><br/>&nbsp;<br/>「ぼくたちは勉強ができない」の作品内にでてくる学生証が作れちゃう！？<br/>画像も名前も好きにアレンジ可能！<br/>自分用だけのオリジナルの学生証を作って、君も一ノ瀬学園高等学校の学生になろう！<br/>&nbsp;<br/>特設サイトはこちらから<br/>⇒<a title="" href="../special/card/index.html" target="">https://boku-ben.com/special/card/</a><br/>
                   </div>
                 </div>
-                <a href="index.html?id=50637"></a>
+                <a href="index.html?id=50798"></a>
               </li>
                             <li>
                 <div class="item_left">
-                  <div class="thumb" style="background-image: url(SYS/CONTENTS/2019051313174293832645/w500)">
+                  <div class="thumb" style="background-image: url(SYS/CONTENTS/2019060710211239084264/w776)">
                   </div>
                 </div>
                 <div class="item_right">
                   <p class="date">
-                    2019.05.14
+                    2019.06.07
                   </p>
                   <div class="title">
-                    「ぼくたちは勉強ができない」第14巻　アニメBD同梱版発売決定！
+                    真冬先生からの直々指導！Blu-ray/DVD第1巻リリースイベント決定！
                   </div>
                   <div class="text">
-                    「ぼくたちは勉強ができない」第14巻とオリジナルアニメがセットになった限定版の制作が決定しました！　メインスタッフ、キャストはもちろんTVシリーズそのまま！　しかも豪華封入特典付きです！　限定版ですので、今すぐ予約しよう！<br/><br/>＜収録エピソード＞<br/>読者から大好評だった原作エピソード2話をアニメ化！<br/><u>★原作コミックス第6巻　問48．渚に失せものありて先人は艶然と[x]する</u><br/><img src="SYS/CONTENTS/2019051313174293832645/w500" width="500"/><br/>（あらすじ）<br/>恋人のフリをするため、夏の海でラブラブ写真を撮影する成幸とあすみ。突然の大波で、あすみの水着が流されてしまい…!?<br/><br/><u>★原作コミックス第6巻　問49．それは九死の前任者に唯一[x]させるものである<br/></u><img src="SYS/CONTENTS/2019051313175274445944/w500" width="500"/><br/>（あらすじ）<br/>あすみの騒動もひと段落し、成幸は岩陰で着替えようとするが…そこには水着を流されてうずくまる真冬が!!<br/><br/>＜封入特典＞<br/>①&nbsp;筒井大志先生描き下ろし漫画<br/>②&nbsp;プレシャスメモリーズ「ぼくたちは勉強ができない」限定イラストパラレルカード<br/>【「ぼくたちは勉強ができない」第14巻アニメBD同梱版】<br/>【予約締切日】8月26日（月）<br/>【発売予定日】11月1日（金）<br/>【商品内容】「ぼくたちは勉強ができない」第14巻／アニメBD「ぼくたちは勉強ができない」／封入特典<br/>【BD収録時間】　約25分予定（原作エピソード2話相当収録）<br/>【予価】4,040円（税抜）<br/>※「ぼくたちは勉強ができない」第14巻通常版も11月1日（金）同日発売です。<br/><br/>ネット書店でも絶賛予約受付中！<br/>（amazon）<br/><a href="https://www.amazon.co.jp/dp/4089083591/" target="_blank"><u><font color="#0000ff">https://www.amazon.co.jp/dp/4089083591/</font></u></a><br/>（楽天ブックス）<br/><a href="https://books.rakuten.co.jp/rb/15915687/" target="_blank"><u><font color="#0000ff">https://books.rakuten.co.jp/rb/15915687/</font></u></a><br/>（セブンネットショッピング）<br/><a href="https://7net.omni7.jp/detail/1106989824" target="_blank"><u><font color="#0000ff">https://7net.omni7.jp/detail/1106989824</font></u></a><br/>&nbsp;<br/>
+                    2019年6月26日発売 TVアニメ「ぼくたちは勉強ができない」<br/>Blu-ray/DVD第1巻のリリースイベントの開催が決定いたしました!<br/><br/>&nbsp;<br/><img src="SYS/CONTENTS/2019060710211239084264/w776" width="776"/><br/>&nbsp;<br/>今回は真冬先生のスペシャルイベントとなります。<br/>皆さまのご来場をお待ちしています！<br/>&nbsp;<br/>▼イベント実施日時：2019年6月27日(木)<br/>集合18:45 開場 18:45&nbsp; 開始 19:30　<br/>○場所：アニメイト池袋本店&nbsp; 9Fイベントホール<br/>○イベント:真冬先生からの直々指導！スペシャルマル秘ブロマイドお渡し会<br/>〇出演：Lynnさん (桐須真冬役)<br/><br/>☆イベント内容&nbsp;&nbsp;<br/>〇「スペシャルマル秘ブロマイド」お渡し会時に、下記の「熟語」から貴方が<br/>「真冬先生」に言って欲しい言葉を真冬先生(Lynnさん)が目の前で言ってくれます。<br/>お渡し会登壇時に言って欲しい言葉を選んでお伝えください。<br/>&nbsp;<br/>【真冬先生からのお言葉】<br/>凡庸 /<font color="#ffffff">&nbsp;</font>怠慢<font color="#ffffff">&nbsp;</font>/<font color="#ffffff">&nbsp;</font>笑死 / 不埒 /<font color="#ffffff">&nbsp;</font>疑問 / 無為 / 不覚 / 不愉快 / 不潔 / 心外 / 不許可<br/>完勝 / 笑止千万 / 火急 / 疲弊 / 論外 / 屈辱 / 余裕 / 無念 / 困惑 / 不可抗力<br/>無論 / 当然 / 再戦 / 些細 / 有限 / 杞憂 / 恐縮 / 誤謬 / 破廉恥 / 犯罪 / 憤懣<br/>喧噪 / 愚行 / 辛辣 / 不可解<br/><br/>※必ず上記の中からお選びください。それ以外は「却下」いたします。<br/>&nbsp;<br/>☆イベント参加方法<br/>下記対象店舗にて下記対象商品のいずれかを全額内金にてご予約、もしくは、ご購入くださいました<br/>お客様に先着でイベント参加券をお渡しいたします。<br/>※対象商品一枚ご予約・ご購入につき一枚のイベント参加券をお渡しします。<br/>※詳細はイベント詳細ページまたは店舗へ直接お問い合わせください。<br/>&nbsp;<br/>☆イベント参加券配布店舗<br/>アニメイト新宿、アニメイト池袋本店、アニメイト秋葉原本館、アニメイト横浜ビブレ<br/>&nbsp;<br/>☆対象商品<br/>2019年6月26日発売<br/>「ぼくたちは勉強ができない」 1巻<br/>ANZX-14461～14462&nbsp; \6,800(+税)<br/>ANZB-14461～14462&nbsp; \5,800(+税)<br/>&nbsp;<br/>☆注意事項<br/>・お一人様、一回の参加とさせていただきます。ループでのご参加は出来ませんので予めご了解ください。<br/>・イベント当日、開場時に席番の抽選を行います。<br/>・参加券の数には限りがございます。<br/>・店舗での予約状況により、情報掲載時には配布が終了している場合がございます。<br/>・参加券の配布状況につきましては、お手数ですが配布対象店舗までお問い合わせください。<br/>・参加券は店頭にて先着順でのお渡しとなります。<br/>・参加券のお取り置きには応じられませんので、予めご了承ください。<br/>・参加券を紛失/盗難/破損された場合、再発行はいたしませんのでご注意ください。<br/>・参加券の転売（ネットオークションへの出品等も含む）は厳禁となります。転売されたイベント参加券は無効となり、ご入場をお断りいたします。あらかじめご了承ください。<br/>・イベント中は、いかなる機材においても録音/録画/撮影は禁止となっております。<br/>・本イベントの参加にあたり、必要となる交通費、宿泊費などの費用は参加者のご負担となります。<br/>・会場内にロッカーやクロークはございません。手荷物の管理は自己責任にてお願い致します。<br/>・会場周辺での徹夜等の行為は、固くお断りしております。<br/>・会場内での飲食は禁止となっております。<br/>・都合によりイベントの内容変更や中止がある場合がございます。あらかじめご了承ください。<br/>・参加券1枚につき、お一人のご招待となります。<br/>・安全面・防犯面・警備強化の為、開場時にお客様のお荷物検査をさせて頂く場合がございます。皆様のご理解とご協力をお願いいたします。<br/>・イベント会場内外で発生した事故・盗難等には主催者・会場・出演者は一切責任を負いません。貴重品は各自で管理してください。<br/>・当日会場では、スタッフからの指示にご理解とご協力をよろしくお願い致します。当日スタッフの指示に従って頂けない場合はイベントの中止もしくはご退場を頂く場合がございます。予めご了承の上ご参加ください。<br/>・プレゼント・ファンレターは事前にスタッフにお渡しいただくか、プレゼントボックスをご利用ください。<br/>・注意事項、及びお客様へのご案内事項は追加・変更する場合がございます。<br/>
                   </div>
                 </div>
-                <a href="index.html?id=50618"></a>
+                <a href="index.html?id=50783"></a>
               </li>
                             <li>
                 <div class="item_left">
-                  <div class="thumb" style="background-image: url(SYS/CONTENTS/news_50610_photo_1)">
+                  <div class="thumb" style="background-image: url(../assets/img/news/img_noimg.jpg)">
                   </div>
                 </div>
                 <div class="item_right">
                   <p class="date">
-                    2019.05.13
+                    2019.06.02
                   </p>
                   <div class="title">
-                    ニコニコ生放送での一挙決定！
+                    【ミニアルバム楽曲公開第1弾♬】「トゥインクルにおける[x]の現象」試聴音源公開！
                   </div>
                   <div class="text">
-                    ニコニコ生放送での一挙が決定しました。<br/>日時：5月25日　21：30～　#1-#7振り返り上映会　<br/>URL：<a href="https://live.nicovideo.jp/watch/lv319963128" target="" title="">https://live.nicovideo.jp/watch/lv319963128</a><br/>
+                    7月24日の発売に先駆けて毎週1曲ずつStudy ミニアルバム「PROGRESSIVE」の試聴音源を公開！<br/>&nbsp;<br/>今回は作詞・くまのきよみさん、<br/>作曲・編曲の菊地 創(eufonius)さんで<br/>「トゥインクルにおける［x］の現象」を一足先にお届け！<br/>くまのきよみさん、菊地 創さんからのコメントも到着！<br/>&nbsp;<br/>商品ページにてご確認いただけます！<br/><a href="../study/music/a_01.html"><u><font color="#0066cc">https://boku-ben.com/study/music/a_01.html</font></u></a>&nbsp;<br/>
                   </div>
                 </div>
-                <a href="index.html?id=50610"></a>
+                <a href="index.html?id=50770"></a>
               </li>
                             <li>
                 <div class="item_left">
-                  <div class="thumb" style="background-image: url(SYS/CONTENTS/news_50608_photo_1)">
+                  <div class="thumb" style="background-image: url(../assets/img/news/img_noimg.jpg)">
                   </div>
                 </div>
                 <div class="item_right">
                   <p class="date">
-                    2019.05.10
+                    2019.05.29
                   </p>
                   <div class="title">
-                    AbemaTVでの振り返り一挙が決定！
+                    TikTok映像公開！
                   </div>
                   <div class="text">
-                    AbemaTVにて初速ランキング上位作品として、「ぼく勉」の一挙配信が決定いたしました！<br/>日時：5月12日19：30～　#1～#6<br/>
+                    &nbsp;<br/>ユニット Studyから白石晴香・富田美憂・鈴代紗弓による<br/>「セイシュンゼミナール」の振り付けはこちらから！<br/>⇒<a title="" href="http://vt.tiktok.com/JADW69/" target="">http://vt.tiktok.com/JADW69/</a><br/>
                   </div>
                 </div>
-                <a href="index.html?id=50608"></a>
+                <a href="index.html?id=50653"></a>
               </li>
                             <li>
                 <div class="item_left">
-                  <div class="thumb" style="background-image: url(SYS/CONTENTS/news_50602_photo_1)">
+                  <div class="thumb" style="background-image: url(../assets/img/news/img_noimg.jpg)">
                   </div>
                 </div>
                 <div class="item_right">
                   <p class="date">
-                    2019.05.09
+                    2019.05.29
                   </p>
                   <div class="title">
-                    BD/DVD1巻のジャケット画像・デジパック・店舗共通購入特典公開！
+                    9月に横浜・大阪でStudy初のワンマンライブ開催！
                   </div>
                   <div class="text">
-                    &nbsp;<br/><img src="SYS/CONTENTS/2019050922361569589310/w256" width="256"/><br/>&nbsp;<br/>■「ぼくたちは勉強ができない」パッケージ商品概要<br/>ぼくたちは勉強ができない vol.1<br/>発売日：2019年6月26日(水) 発売<br/>Blu-ray完全生産限定版￥6,800+税<br/>ANZB-14461～14462 DVD完全生産限定版￥5,800+税<br/>ANZX-14461～14462 収録話1話、2話収録<br/>&nbsp;<br/>◆完全生産限定版特典<br/>キャラクターデザイン・佐々木政勝 描き下ろし三方背ケース<br/>アニメ版権描き下ろしデジパック<br/>特典CD：オリジナル・サウンドトラック<br/>特製ブックレット<br/>オーディオコメンタリー<br/>アニメ版権描き下ろし全巻収納ボックス<br/>&nbsp;<br/>■アニメ版権描き下ろしデジパック<br/><img src="SYS/CONTENTS/2019050922363330799586/w393" width="393"/><br/>&nbsp;<br/>■第1巻店舗共通購入特典<br/>描き下ろしA4サイズクリアファイル(古橋文乃、緒方理珠、武元うるか)<br/>&nbsp;<br/><img src="SYS/CONTENTS/2019050922370847885708/w378" width="378"/><br/><br/>※特典はなくなり次第終了となります。詳細は対象各店舗までお問い合わせください。<br/>&nbsp;<br/>
+                    9月15日に神奈川県・YOKOHAMA Bay Hallにて、9月22日には大阪府・Banana HallにてStudy初のワンマンライブを開催！優先販売申込券はミニアルバム「PROGRESSIVE」に封入！是非皆様ご予約ください！<br/>(イベント情報：<a href="../study/event/index.html" rel="nofollow" target="_blank">https://boku-ben.com/study/event/</a>)<br/>&nbsp;<br/>
                   </div>
                 </div>
-                <a href="index.html?id=50602"></a>
+                <a href="index.html?id=50724"></a>
               </li>
                           </ul>
                         

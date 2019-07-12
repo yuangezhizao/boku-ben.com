@@ -1,0 +1,585 @@
+@charset "UTF-8";
+.wrapper {
+  position: relative;
+}
+.wrapper .att_list li {
+  text-indent: -1em;
+  padding-left: 1em;
+  font-size: 12px;
+  font-weight: 600;
+  line-height: 1.7;
+}
+
+.main_cont h1 {
+  width: 842px;
+  margin: 102px auto 38px;
+}
+.main_cont h2.sub_ttl {
+  width: 980px;
+  margin: 0 auto 42px;
+}
+
+.form .shop_list {
+  width: 980px;
+  margin: auto;
+}
+.form .shop_list li {
+  position: relative;
+  z-index: 5;
+  float: left;
+  width: 230px;
+  margin: 0 20px 60px 0;
+  font-weight: 600;
+}
+.form .shop_list li .thumb {
+  cursor: pointer;
+  margin: 0 0 10px;
+  -webkit-transition: all 0.2s cubic-bezier(0.23, 1, 0.32, 1);
+  transition: all 0.2s cubic-bezier(0.23, 1, 0.32, 1);
+}
+.form .shop_list li .thumb p {
+  height: 230px;
+  border: 2px solid #ddd;
+  background: no-repeat center;
+  -webkit-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+.form .shop_list li .thumb p img {
+  opacity: 0;
+  width: 100%;
+}
+.form .shop_list li hr {
+  width: 100%;
+  height: 3px;
+  padding: 0;
+  margin: 0 auto 18px;
+  background: #B5EFE0;
+  border: 0;
+  border-top: 4px solid #000;
+  border-bottom: 2px solid #000;
+}
+.form .shop_list li .prefectures {
+  margin-bottom: 4px;
+  font-size: 15px;
+}
+.form .shop_list li .shop_name {
+  margin-bottom: 12px;
+  font-size: 18px;
+  line-height: 1.3;
+}
+.form .shop_list li .btn_shop input[type=radio] {
+  display: none;
+}
+.form .shop_list li .btn_shop label {
+  cursor: pointer;
+  position: relative;
+  display: inline-block;
+  width: 180px;
+  height: 42px;
+  line-height: 41px;
+  background: #9ce8f5;
+  font-weight: 600;
+  font-size: 18px;
+  -webkit-border-radius: 10px;
+  border-radius: 10px;
+  -webkit-transition: all 0.2s cubic-bezier(0.23, 1, 0.32, 1);
+  transition: all 0.2s cubic-bezier(0.23, 1, 0.32, 1);
+}
+.form .shop_list li .btn_shop label:before {
+  content: "";
+  position: absolute;
+  top: 4px;
+  left: 4px;
+  display: block;
+  width: 100%;
+  height: 100%;
+  background: #000;
+  -webkit-border-radius: 12px;
+  border-radius: 12px;
+  z-index: -1;
+  -webkit-transition: all 0.2s cubic-bezier(0.23, 1, 0.32, 1);
+  transition: all 0.2s cubic-bezier(0.23, 1, 0.32, 1);
+}
+.form .shop_list li .btn_shop input[type=radio]:checked + label {
+  background: #ffff4f;
+}
+.form .form_main {
+  display: none;
+  padding: 80px 0 46px;
+  background: url("../img/bg_grid_repeat.jpg");
+}
+.form .form_main h4 {
+  font-size: 16px;
+  font-weight: 600;
+  line-height: 1.7;
+}
+.form .form_main .form_in {
+  width: 776px;
+  margin: 26px auto 44px;
+  padding: 70px 0 70px 54px;
+  background: #FFF;
+  text-align: left;
+  font-weight: 500;
+  letter-spacing: -.4em;
+}
+.form .form_main .form_in dl {
+  display: inline-block;
+  letter-spacing: normal;
+}
+.form .form_main .form_in dl:nth-child(2), .form .form_main .form_in dl:nth-child(3) {
+  margin-right: 30px;
+}
+.form .form_main .form_in dl dt {
+  margin-bottom: 15px;
+  font-size: 16px;
+}
+.form .form_main .form_in dl dt .must {
+  color: #f5588b;
+}
+.form .form_main .form_in dl dd {
+  margin-bottom: 34px;
+  font-size: 14px;
+}
+.form .form_main .form_in dl dd .form_txt {
+  padding: 0.7em 0 0.5em;
+}
+.form .form_main .form_in dl dd input[type="text"], .form .form_main .form_in dl dd select, .form .form_main .form_in dl dd textarea {
+  font-family: YakuHanJP,"Noto Sans JP", "游ゴシック", YuGothic, "Helvetica", "ヒラギノ角ゴ ProN W3", "Hiragino Kaku Gothic ProN", "メイリオ", Meiryo, "Helvetica Neue", Arial, sans-serif;
+  width: 100%;
+  border: 1px solid #d2d2d2;
+  padding: 12px;
+  font-weight: 100;
+  -webkit-transition: all 0.2s cubic-bezier(0.23, 1, 0.32, 1);
+  transition: all 0.2s cubic-bezier(0.23, 1, 0.32, 1);
+}
+.form .form_main .form_in dl dd input[type="text"]:focus, .form .form_main .form_in dl dd select:focus, .form .form_main .form_in dl dd textarea:focus {
+  border: 1px solid #f5588b;
+}
+.form .form_main .form_in dl dd input.elem_fullname_1, .form .form_main .form_in dl dd input.elem_fullname_2 {
+  width: 260px;
+}
+.form .form_main .form_in dl dd input.elem_zipcode_1 {
+  width: 69px;
+}
+.form .form_main .form_in dl dd input.elem_zipcode_2 {
+  width: 100px;
+}
+.form .form_main .form_in dl dd input.elem_address {
+  width: 696px;
+}
+.form .form_main .form_in dl dd input.elem_tel_1, .form .form_main .form_in dl dd input.elem_tel_2, .form .form_main .form_in dl dd input.elem_tel_3 {
+  width: 70px;
+}
+.form .form_main .form_in dl dd input.elem_email {
+  width: 696px;
+}
+.form .form_main .form_in dl dd select.elem_prefecture {
+  width: 170px;
+}
+.form .form_main .form_in dl dd textarea {
+  width: 696px;
+}
+.form .form_main .attention {
+  width: 830px;
+  margin: auto;
+  text-align: left;
+}
+.form .form_main .attention h5 {
+  margin: 26px 0 8px;
+  font-size: 15px;
+  font-weight: 600;
+}
+.form .form_main .attention ul li {
+  padding-left: 1em;
+  text-indent: -1em;
+  font-size: 12px;
+  line-height: 1.7;
+}
+.form .form_main .checkgroup {
+  margin-top: 58px;
+  font-size: 15px;
+  font-weight: 600;
+}
+.form .form_main .checkgroup label input[type=checkbox] {
+  position: relative;
+  display: none;
+}
+.form .form_main .checkgroup label input[type=checkbox]:checked + span:before {
+  opacity: 1;
+}
+.form .form_main .checkgroup label input[type=checkbox] + span {
+  position: relative;
+  vertical-align: middle;
+}
+.form .form_main .checkgroup label input[type=checkbox] + span:after {
+  -webkit-transition: border-color 0.2s linear;
+  transition: border-color 0.2s linear;
+  position: absolute;
+  top: 0;
+  left: -26px;
+  display: block;
+  width: 15px;
+  height: 15px;
+  border: 2px solid #d9d9d9;
+  -webkit-border-radius: 5px;
+  border-radius: 5px;
+  background: #fff;
+  content: '';
+}
+.form .form_main .checkgroup label input[type=checkbox] + span:before {
+  -webkit-transition: opacity 0.2s linear;
+  transition: opacity 0.2s linear;
+  position: absolute;
+  top: 27%;
+  left: -22px;
+  display: block;
+  content: '';
+  opacity: 0;
+  z-index: 5;
+  width: 8px;
+  height: 3px;
+  border-left: 2px solid #000;
+  border-bottom: 2px solid #000;
+  -webkit-transform: rotate(-45deg);
+  transform: rotate(-45deg);
+}
+.form .form_main .submit {
+  position: relative;
+  display: inline-block;
+  width: 180px;
+  height: 42px;
+  margin-top: 28px;
+  z-index: 1;
+}
+.form .form_main .submit button[type=submit] {
+  cursor: pointer;
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  top: 0;
+  left: 0;
+  z-index: 10;
+  font-weight: 600;
+  font-size: 18px;
+  font-family: YakuHanJP,"Noto Sans JP", "游ゴシック", YuGothic, "Helvetica", "ヒラギノ角ゴ ProN W3", "Hiragino Kaku Gothic ProN", "メイリオ", Meiryo, "Helvetica Neue", Arial, sans-serif;
+  line-height: 1;
+}
+.form .form_main .submit button[type=submit]:before {
+  content: "";
+  position: absolute;
+  top: 4px;
+  left: 4px;
+  display: block;
+  width: 100%;
+  height: 100%;
+  background: #000;
+  -webkit-border-radius: 12px;
+  border-radius: 12px;
+  z-index: 0;
+  -webkit-transition: all 0.2s cubic-bezier(0.23, 1, 0.32, 1);
+  transition: all 0.2s cubic-bezier(0.23, 1, 0.32, 1);
+}
+.form .form_main .submit button[type=submit] span {
+  position: relative;
+  display: inline-block;
+  width: 180px;
+  height: 42px;
+  z-index: 2;
+}
+.form .form_main .submit button[type=submit] span:after {
+  content: "";
+  position: absolute;
+  top: 0;
+  left: 0;
+  display: block;
+  width: 100%;
+  height: 100%;
+  background: #9ce8f5;
+  -webkit-border-radius: 10px;
+  border-radius: 10px;
+  z-index: -1;
+}
+.form .form_main .submit button[type=submit] strong {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  line-height: 42px;
+  z-index: 50;
+}
+
+.detail_back {
+  position: relative;
+  width: 285px;
+  height: 40px;
+  margin: 40px auto 0;
+}
+.detail_back a {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+}
+.detail_back a::before {
+  content: "";
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 25px;
+  height: 100%;
+  background: url("../../../../assets/img/common/arrow_left.svg") center right no-repeat;
+  background-size: 15px auto;
+}
+.detail_back .back_shadow, .detail_back .back_color {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  border-radius: 10px;
+}
+.detail_back .back_shadow {
+  top: 2px;
+  left: 2px;
+  background: #000;
+}
+.detail_back .back_color {
+  background: #9ce8f5;
+}
+.detail_back .back_text {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  -webkit-transform: translate(-50%, -50%);
+  transform: translate(-50%, -50%);
+  width: 100%;
+  font-weight: 700;
+  font-size: 18px;
+  font-family: "Montserrat", sans-serif;
+  letter-spacing: .075em;
+  text-align: center;
+}
+
+@media screen and (min-width: 769px) {
+  .form .shop_list li:nth-child(4n) {
+    margin-right: 0;
+  }
+  .form .shop_list li .btn_shop label:hover:before {
+    top: 0;
+    left: 0;
+  }
+
+  .thumb:hover {
+    opacity: 0.7;
+  }
+
+  .submit:hover button[type=submit]:hover:before {
+    top: 0;
+    left: 0;
+  }
+}
+@media only screen and (max-width: 768px) {
+  .wrapper .att_list li {
+    font-size: 11px;
+    font-size: 2.9333333333vw;
+    letter-spacing: -0.01em;
+  }
+
+  .main_cont h1 {
+    width: 88.2%;
+    margin: 17px auto 26px;
+  }
+  .main_cont h2.sub_ttl {
+    width: 100%;
+    margin: 0 auto 30px;
+  }
+
+  .form .shop_list {
+    width: 89.3%;
+  }
+  .form .shop_list li {
+    width: 47.7%;
+    margin: 0 4.6% 30px 0;
+  }
+  .form .shop_list li:nth-child(even) {
+    margin-right: 0;
+  }
+  .form .shop_list li .thumb {
+    padding-bottom: 5px;
+    border-bottom: 1px solid #ddd;
+    margin: 0 0 0px;
+  }
+  .form .shop_list li .thumb p {
+    height: 100%;
+    border: 1px solid #ddd;
+  }
+  .form .shop_list li hr {
+    height: 2px;
+    margin: 0 auto 10px;
+    border-top: 2px solid #000;
+    border-bottom: 1px solid #000;
+  }
+  .form .shop_list li .prefectures {
+    margin-bottom: 2px;
+    font-size: 12px;
+    font-size: 3.2vw;
+  }
+  .form .shop_list li .shop_name {
+    margin-bottom: 12px;
+    font-size: 14px;
+    font-size: 3.7333333333vw;
+  }
+  .form .shop_list li .btn_shop label {
+    width: 100%;
+    height: 32px;
+    line-height: 31px;
+    font-size: 15px;
+    font-size: 4vw;
+  }
+  .form .shop_list li .btn_shop label:before {
+    top: 2px;
+    left: 2px;
+  }
+  .form .form_main {
+    padding: 70px 0 46px;
+  }
+  .form .form_main h4 {
+    font-size: 14px;
+    font-size: 3.7333333333vw;
+  }
+  .form .form_main .form_in {
+    width: 81.3%;
+    margin: 26px auto 44px;
+    padding: 44px 4% 1px;
+  }
+  .form .form_main .form_in dl {
+    display: block;
+  }
+  .form .form_main .form_in dl:nth-child(1), .form .form_main .form_in dl:nth-child(3), .form .form_main .form_in dl:nth-child(5) {
+    margin-right: 0;
+  }
+  .form .form_main .form_in dl dt {
+    margin-bottom: 14px;
+    font-size: 14px;
+    font-size: 3.7333333333vw;
+  }
+  .form .form_main .form_in dl dd {
+    margin-bottom: 38px;
+    font-size: 12px;
+    font-size: 3.2vw;
+  }
+  .form .form_main .form_in dl dd input[type="text"], .form .form_main .form_in dl dd select, .form .form_main .form_in dl dd textarea {
+    width: 92%;
+    padding: 6px 4%;
+    font-weight: 100;
+  }
+  .form .form_main .form_in dl dd input.elem_fullname_1, .form .form_main .form_in dl dd input.elem_fullname_2 {
+    width: 33.5%;
+  }
+  .form .form_main .form_in dl dd input.elem_zipcode_1 {
+    width: 20%;
+  }
+  .form .form_main .form_in dl dd input.elem_zipcode_2 {
+    width: 30%;
+  }
+  .form .form_main .form_in dl dd input.elem_address {
+    width: 92%;
+  }
+  .form .form_main .form_in dl dd input.elem_tel_1, .form .form_main .form_in dl dd input.elem_tel_2, .form .form_main .form_in dl dd input.elem_tel_3 {
+    width: 20%;
+  }
+  .form .form_main .form_in dl dd input.elem_email {
+    width: 92%;
+  }
+  .form .form_main .form_in dl dd select.elem_prefecture {
+    width: 60%;
+  }
+  .form .form_main .form_in dl dd textarea {
+    width: 92%;
+  }
+  .form .form_main .attention {
+    width: 89.3%;
+  }
+  .form .form_main .attention h5 {
+    margin: 30px 0 12px;
+    font-size: 13px;
+    font-size: 3.4666666667vw;
+  }
+  .form .form_main .attention ul li {
+    font-size: 11px;
+    font-size: 2.9333333333vw;
+  }
+  .form .form_main .checkgroup {
+    margin-top: 36px;
+    font-size: 14px;
+    font-size: 3.7333333333vw;
+  }
+  .form .form_main .checkgroup label input[type=checkbox] + span {
+    display: inline-block;
+    text-align: left;
+    line-height: 1.3;
+  }
+  .form .form_main .checkgroup label input[type=checkbox] + span:after {
+    top: 50%;
+    left: -26px;
+    width: 15px;
+    height: 15px;
+    border: 2px solid #d9d9d9;
+    -webkit-transform: translateY(-50%);
+    transform: translateY(-50%);
+  }
+  .form .form_main .checkgroup label input[type=checkbox] + span:before {
+    top: 36%;
+    left: -22px;
+    width: 8px;
+    height: 3px;
+    border-left: 2px solid #000;
+    border-bottom: 2px solid #000;
+  }
+  .form .form_main .submit {
+    width: 77.6%;
+    height: 52px;
+    margin-top: 22px;
+    z-index: 1;
+  }
+  .form .form_main .submit button[type=submit] {
+    font-size: 16px;
+    font-size: 4.2666666667vw;
+    letter-spacing: 0.1em;
+  }
+  .form .form_main .submit button[type=submit]:before {
+    top: 2px;
+    left: 2px;
+  }
+  .form .form_main .submit button[type=submit] span {
+    width: 100%;
+    height: 52px;
+  }
+  .form .form_main .submit button[type=submit] strong {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    line-height: 52px;
+    z-index: 50;
+  }
+
+  .detail_back {
+    width: 75%;
+    height: 35px;
+    margin: 32px auto 0;
+  }
+  .detail_back a::before {
+    width: 20px;
+    background-size: 14px auto;
+  }
+  .detail_back .back_shadow, .detail_back .back_color {
+    border-radius: 5px;
+  }
+  .detail_back .back_text {
+    font-size: 15px;
+    letter-spacing: .1em;
+  }
+}

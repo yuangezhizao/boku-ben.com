@@ -1,4 +1,4 @@
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      
                                                         <!DOCTYPE html>
 <html lang="ja">
 <head prefix="og: http://ogp.me/ns# fb: http://ogp.me/ns/fb# article: http://ogp.me/ns/article#">
@@ -42,13 +42,22 @@
 <link rel="stylesheet" href="../assets/css/bokuben.news.css">
 <!-- Google Tag Manager -->
 <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
-  new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
-  j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
-  'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
-  })(window,document,'script','dataLayer','GTM-MMCNZT5');</script>
-  <!-- End Google Tag Manager --></head>
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-M9889B');</script>
+
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-MMCNZT5');</script>
+<!-- End Google Tag Manager --></head>
 <body data-menu=".m-news">
   <!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-M9889B"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+
 <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-MMCNZT5"
 height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 <!-- End Google Tag Manager (noscript) --><div class="l-wrapper">
@@ -83,7 +92,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
     <div class="c-header_menu">
       <div class="is-pc menu_logo">
         <a href="../index.html?from_lower">
-          <img src="../assets/img/common/logo.svg" alt="ぼくたちは勉強ができない">
+          <img src="../assets/img/common/logo02.svg" alt="ぼくたちは勉強ができない">
       </a>
       </div>
       <ul class="is-pc deco_item">
@@ -142,7 +151,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
             <div class="back_shadow"></div>
             <div class="back_color"></div>
             <p class="back_text">BACK TO LIST</p>
-            <a href="index.html?p=5"></a>
+            <a href="index.html?p=6"></a>
           </div>
       </div>
       </div>

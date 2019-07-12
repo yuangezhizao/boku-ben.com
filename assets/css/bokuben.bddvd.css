@@ -295,7 +295,7 @@
 .bddvd_item ul.main_list {
   padding: 0 32px;
 }
-.bddvd_item ul.main_list li {
+.bddvd_item ul.main_list > li {
   position: relative;
   margin: 0 0 24px;
   padding-left: 32px;
@@ -303,7 +303,7 @@
   font-size: 18px;
   line-height: 1.6;
 }
-.bddvd_item ul.main_list li:before {
+.bddvd_item ul.main_list > li:before {
   content: "";
   position: absolute;
   top: 5px;
@@ -338,6 +338,10 @@
   display: block;
   padding-left: 1em;
   text-indent: -1em;
+  font-size: 13px;
+}
+.bddvd_item ul.main_list li .att_2 {
+  display: block;
   font-size: 13px;
 }
 .bddvd_item ul.caution li {
@@ -549,7 +553,7 @@
   .bddvd_item ul.main_list {
     padding: 0 5.9%;
   }
-  .bddvd_item ul.main_list li {
+  .bddvd_item ul.main_list > li {
     margin: 0 0 12px;
     padding-left: 23px;
     font-size: 13px;
@@ -574,6 +578,10 @@
     font-size: 3.4666666667vw;
   }
   .bddvd_item ul.main_list li .att {
+    font-size: 10px;
+    font-size: 2.6666666667vw;
+  }
+    .bddvd_item ul.main_list li .att_2 {
     font-size: 10px;
     font-size: 2.6666666667vw;
   }

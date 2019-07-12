@@ -1,4 +1,4 @@
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        
                                                         <!DOCTYPE html>
 <html lang="ja">
 <head prefix="og: http://ogp.me/ns# fb: http://ogp.me/ns/fb# article: http://ogp.me/ns/article#">
@@ -55,6 +55,7 @@
 					<li><a href="../music/index.html">Music</a></li>
 					<li><a href="../event/index.html">Event</a></li>
 					<li><a href="../movie/index.html">Movie</a></li>
+					<li><a href="../special/index.html">Special</a></li>
 					<li><a href="https://twitter.com/bokuben_anime" target="_blank">Twitter</a></li>
 				</ul>
 			</nav>

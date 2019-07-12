@@ -11,3 +11,9 @@ $(function(){
 	});
 
 });
+
+$(function () {
+	$('.store_tgl_ttl').on('click', function () {
+	  $(this).toggleClass("open").next().slideToggle();
+	});
+});
