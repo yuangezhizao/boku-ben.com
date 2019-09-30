@@ -21,7 +21,7 @@ var CharaSlide = new Swiper('.swiper-container', {
     el: '.slide_pagination',
     clickable: true,
     renderBullet: function (index, className) {
-      return '<div class="hover_bounce ' + className + '"><p class="thumb_img"><img src="../assets/img/chara/img_tmb_' + Img[index] + '.png" alt="' + Name[index] + '"></p><p class="thumb_name">' + Name[index] + '</p></div>';
+      return '<div class="hover_bounce ' + className + '"><p class="thumb_img"><img src="../assets/img/chara/img_tmb_' + Img[index] + '.png" alt="' + Name[index] + '"></p><p class="thumb_name c-color_shadow">' + Name[index] + '</p></div>';
     },
   },
   navigation: {

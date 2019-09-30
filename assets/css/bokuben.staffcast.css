@@ -5,7 +5,7 @@
 
 .content_inner.staffcast .staffcast_box {
   position: relative;
-  padding: 45px 0 30px;
+  padding: 45px 0px 30px;
 }
 
 .content_inner.staffcast .staffcast_box.cast .deco_item li:first-child {
@@ -104,7 +104,7 @@
     padding-bottom: 94px;
   }
   .content_inner.staffcast .staffcast_box {
-    padding: 23px 0 25px;
+    padding: 23px 0% 25px;
   }
   .content_inner.staffcast .staffcast_box.cast {
     padding: 28px 0 5px;

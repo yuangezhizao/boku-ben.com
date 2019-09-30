@@ -71,7 +71,7 @@
 }
 .event_index .index_cont .event_list li .event_info dl dt {
   width: 10%;
-  width: 75px;
+  width: 105px;
   display: inline-block;
   letter-spacing: normal;
   vertical-align: top;
@@ -79,7 +79,7 @@
 .event_index .index_cont .event_list li .event_info dl dd {
   width: 89%;
   width: calc(100% - 80px);
-  width: -webkit-calc(100% - 80px);
+  width: -webkit-calc(100% - 130px);
   display: inline-block;
   letter-spacing: normal;
 }
@@ -134,10 +134,10 @@
     font-size: 2.6666666667vw;
   }
   .event_index .index_cont .event_list li .event_info dl dt {
-    width: 18%;
+    width: 26%;
   }
   .event_index .index_cont .event_list li .event_info dl dd {
-    width: 81%;
+    width: 74%;
   }
   .event_index .index_cont .event_list li a {
     position: absolute;

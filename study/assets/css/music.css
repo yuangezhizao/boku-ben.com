@@ -279,7 +279,7 @@
   border: 1px solid #c63156;
 }
 .privilege .privilege_name {
-  max-width: 400px;
+  max-width: 480px;
   margin: 15px auto 0;
   font-weight: bold;
   font-size: 18px;
@@ -616,7 +616,7 @@
     margin: 20px auto 35px;
   }
   .privilege .privilege_name {
-    font-size: 15px;
+    font-size: 14px;
   }
   .privilege .privilege_store {
     text-align: left;

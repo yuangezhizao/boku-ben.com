@@ -496,7 +496,7 @@ a:hover {
   }
   .header .g_nav ul li {
     display: inline-block;
-    margin-right: 21px;
+    margin-right: 12px;
   }
   .header .g_nav ul li a:hover:before {
     -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=100)";

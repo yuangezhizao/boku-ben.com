@@ -1,26 +1,28 @@
-                                                                                                                            <!DOCTYPE html>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    
+<!DOCTYPE html>
 <html lang="ja">
+
 <head prefix="og: http://ogp.me/ns# fb: http://ogp.me/ns/fb# article: http://ogp.me/ns/article#">
-<meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, user-scalable=no">
-<meta name="robots" content="ALL">
-<!-- noindex,nofollow -->
-<!--[if IE]><meta http-equiv="X-UA-Compatible" content="IE=edge"><![endif]-->
-<title>NEWS | TVアニメ「ぼくたちは勉強ができない」公式サイト</title>
-<!-- meta -->
-<meta name="description" content="TVアニメ「ぼくたちは勉強ができない」2019年4月6日(土)24:30より放送開始！">
-<meta name="keywords" content="ぼくたちは勉強ができない, 筒井大志, ジャンプ, 週刊少年ジャンプ, ぼく勉, アニメ, 集英社, アニプレックス, ANIPLEX" />
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, user-scalable=no">
+  <meta name="robots" content="ALL">
+  <!-- noindex,nofollow -->
+  <!--[if IE]><meta http-equiv="X-UA-Compatible" content="IE=edge"><![endif]-->
+  <title>NEWS | TVアニメ「ぼくたちは勉強ができない」公式サイト</title>
+  <!-- meta -->
+  <meta name="description" content="TVアニメ「ぼくたちは勉強ができない！」2019年10月5日(土)24:30より放送開始">
+<meta name="keywords" content="ぼくたちは勉強ができない, ぼくたちは勉強ができない！, 筒井大志, ジャンプ, 週刊少年ジャンプ, ぼく勉, アニメ, 集英社, アニプレックス, ANIPLEX" />
 <meta name="format-detection" content="telephone=no,address=no,email=no">
-<meta property="og:title" content="TVアニメ「ぼくたちは勉強ができない」公式サイト">
+<meta property="og:title" content="TVアニメ「ぼくたちは勉強ができない！」公式サイト">
 <meta property="og:type" content="website">
 <!-- website, blog -->
 <meta property="og:url" content="https://boku-ben.com/">
-<meta property="og:image" content="https://boku-ben.com/og.png">
-<meta property="og:site_name" content="TVアニメ「ぼくたちは勉強ができない」公式サイト">
-<meta property="og:description" content="TVアニメ「ぼくたちは勉強ができない」2019年4月6日(土)24:30より放送開始！">
+<meta property="og:image" content="https://boku-ben.com/ogp.png">
+<meta property="og:site_name" content="TVアニメ「ぼくたちは勉強ができない！」公式サイト">
+<meta property="og:description" content="TVアニメ「ぼくたちは勉強ができない！」2019年10月5日(土)24:30より放送開始">
 <meta property="og:locale" content="ja_JP">
 <meta name="twitter:card" content="summary_large_image">
-<meta name="twitter:image" content="https://boku-ben.com/og_1904.png">
+<meta name="twitter:image" content="https://boku-ben.com/ogp.png">
 <meta property="twitter:site" content="@bokuben_anime">
 <link rel="icon" href="../favicon.ico">
 <link rel="apple-touch-icon" sizes="57x57" href="../apple-touch-icon-57x57.png">
@@ -34,9 +36,9 @@
 <meta name="apple-mobile-web-app-capable" content="no">
 <meta name="mobile-web-app-capable" content="no">
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/yakuhanjp@3.0.0/dist/css/yakuhanjp.min.css">
-<link rel="stylesheet" href="../assets/css/bokuben.common.css"><!-- meta -->
-<link rel="stylesheet" href="../assets/css/bokuben.news.css">
-<!-- Google Tag Manager -->
+<link rel="stylesheet" href="../assets/css/bokuben.common.css">  <!-- meta -->
+  <link rel="stylesheet" href="../assets/css/bokuben.news.css">
+  <!-- Google Tag Manager -->
 <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
 new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
 j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
@@ -49,52 +51,51 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
 })(window,document,'script','dataLayer','GTM-MMCNZT5');</script>
 <!-- End Google Tag Manager --></head>
-<body data-menu=".m-news">
+
+<body data-menu=".m-news" class="c-bg_rizu">
   <!-- Google Tag Manager (noscript) -->
 <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-M9889B"
 height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
 <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-MMCNZT5"
 height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
-<!-- End Google Tag Manager (noscript) --><div class="l-wrapper">
-  <!-- bg -->
-  <ul class="l-bg">
-  <li class="bg_1 parallax_up"><img src="../assets/img/common/bg_1.png" alt=""></li>
-  <li class="bg_2 parallax_down"><img src="../assets/img/common/bg_2.png" alt=""></li>
-  <li class="bg_3 parallax_up"><img src="../assets/img/common/bg_3.png" alt=""></li>
-  <li class="bg_4 parallax_down"><img src="../assets/img/common/bg_4_new.png" alt=""></li>
-  <li class="bg_5 parallax_up"><img src="../assets/img/common/bg_5.png" alt=""></li>
-</ul>  <!-- bg -->
-  <!-- header -->
-  <header class="l-header">
-    <div class="c-header_sp is-sp">
-      <div class="header_logo">
-        <a href="../index.html?from__lower">
-          <img src="../assets/img/common/logo.svg" alt="ぼくたちは勉強ができない">
-        </a>
-      </div>
-      <div class="header_btn">
-        <div class="btn_shadow">
-        </div>
-        <div class="btn_color">
-        </div>
-        <ul class="btn_line">
-          <li></li>
-          <li></li>
-          <li></li>
-        </ul>
-      </div>
-    </div>
-    <div class="c-header_menu">
-      <div class="is-pc menu_logo">
-        <a href="../index.html?from_lower">
-          <img src="../assets/img/common/logo02.svg" alt="ぼくたちは勉強ができない">
+<!-- End Google Tag Manager (noscript) -->  <div class="l-wrapper">
+    <!-- bg -->
+    <div class="l-bg">
+    <canvas id="bgCanvas" width="2000" height="2000" data-color="29"></canvas>
+  </div>    <!-- bg -->
+    <!-- header -->
+    <header class="l-header">
+  <div class="c-header_sp is-sp">
+    <div class="header_logo">
+      <a href="../index.html?from__lower">
+        <img src="../assets/img/common/logo.svg" alt="ぼくたちは勉強ができない">
       </a>
+    </div>
+    <div class="header_btn">
+      <div class="btn_color">
       </div>
-      <ul class="is-pc deco_item">
+      <ul class="btn_line">
+        <li></li>
         <li></li>
         <li></li>
       </ul>
+    </div>
+  </div>
+  <div class="c-header_menu c-color_shadow">
+    <div class="is-pc menu_logo">
+      <a href="../index.html?from_lower">
+        <img src="../assets/img/common/logo02.svg" alt="ぼくたちは勉強ができない">
+      </a>
+    </div>
+    <div class="is-pc menu_onair">
+      <img src="../assets/img/top/txt_2nd_pc.png" alt="第2期　10月5日より放送開始！">
+    </div>
+    <ul class="is-pc deco_item">
+      <li></li>
+      <li></li>
+    </ul>
+    <div class="menu_wrap">
       <ul class="menu_list">
         <li class="m-top"><a href="../index.html?from__lower">TOP<span></span></a></li>
         <li class="m-news"><a href="index.html">NEWS<span></span></a></li>
@@ -103,7 +104,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
         <li class="m-staffcast"><a href="../staffcast/index.html">STAFF/CAST<span></span></a></li>
         <li class="m-character"><a href="../character/index.html">CHARACTER<span></span></a></li>
         <li class="m-study"><a href="../study/index.html" target="_blank">"Study"<span></span></a></li>
-        <li class="m-music"><a href="../study/music/index.html" target="_blank">MUSIC<span></span></a></li>
+        <li class="m-music"><a href="../music/index.html">MUSIC<span></span></a></li>
         <li class="m-movie"><a href="../movie/index.html">MOVIE<span></span></a></li>
         <li class="m-special"><a href="../special/index.html">SPECIAL<span></span></a></li>
         <li class="m-comics"><a href="../comics/index.html">COMICS<span></span></a></li>
@@ -112,75 +113,211 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
         <li class="m-twitter"><a href="https://twitter.com/bokuben_anime" target="_blank">Twitter<span></span></a></li>
       </ul>
     </div>
-  </header>  <!-- header -->
-  <div class="l-content">
-    <div class="c-content_wrap">
-      <div class="content_inner news">
-        <div class="content_title effect_item">
-          <h2>NEWS</h2>
-        </div>
-        <!-- ニュースリスト -->
-        <div class="content_box effect_item">
-          <div class="news_head">
-            <div class="news_category">
-              <ul>
-                <li ><a href="index.html" data-page>ALL</a></li>
-                <li ><a href="index.html?category=Anime" data-page>Anime</a></li>
-                <li ><a href="index.html?category=Study" data-page>Study</a></li>
-                <li class="cate_now"><a href="index.html?category=Event" data-page>Event</a></li>
-              </ul>
-            </div>
+  </div>
+</header>    <!-- header -->
+    <div class="l-content">
+      <div class="c-content_wrap">
+        <div class="content_inner news">
+          <div class="content_title effect_item">
+            <h2>NEWS</h2>
           </div>
-          <div class="c-news_list">
-            <ul class="deco_item">
-              <li></li>
-              <li></li>
-            </ul>
-                        <ul class="list_item">
-                            <li>
-                <div class="item_left">
-                  <div class="thumb" style="background-image: url(SYS/CONTENTS/2019041513323615388190/w500)">
+          <!-- ニュースリスト -->
+          <div class="content_box effect_item">
+            <div class="news_head">
+              <div class="news_category">
+                <ul>
+                  <li class=" c-color_shadow"><a href="index.html"
+                      data-page>ALL</a></li>
+                  <li class=" c-color_shadow"><a
+                      href="index.html?category=Anime" data-page>Anime</a></li>
+                  <li class=" c-color_shadow"><a
+                      href="index.html?category=Study" data-page>Study</a></li>
+                  <li class="cate_now c-color_shadow"><a
+                      href="index.html?category=Event" data-page>Event</a></li>
+                </ul>
+              </div>
+            </div>
+            <div class="c-news_list">
+              <ul class="deco_item">
+                <li class="c-color_bg"></li>
+                <li class="c-color_bg"></li>
+              </ul>
+                            <ul class="list_item">
+                                <li>
+                  <div class="item_left">
+                    <div class="thumb" style="background-image: url(SYS/CONTENTS/2019091519120090785081/w776)">
+                    </div>
                   </div>
-                </div>
-                <div class="item_right">
-                  <p class="date">
-                    2019.04.16
-                  </p>
-                  <div class="title">
-                    集って! ティーチャー!! Study「セイシュンゼミナール/Never Give It Up!!」リリースイベントのご案内
+                  <div class="item_right">
+                    <p class="date">
+                      2019.09.15
+                    </p>
+                    <div class="title">
+                      【Study】Lynnさんと朝日奈さんが加わり5人で活動決定！
+                    </div>
+                    <div class="text">
+                      これまで活動していた白石晴香・富田美憂・鈴代紗弓に加え、新たにLynn（桐須真冬役）・朝日奈丸佳（小美浪あすみ役）も「Study」として活動開始することが決定いたしました！<br/>アーティスト写真も一新！合わせてOP主題歌「Can now, Can now」のジャケット写真や応援店特典クリアファイル絵柄も公開いたしました。Study5人からのコメントも到着しております。<br/>&nbsp;<br/>引き続きよりパワーアップして活動を続ける「Study」の応援よろしくお願いいたします！<br/>&nbsp;<br/>詳しくはStudy公式ページをご確認ください！<br/><u><font color="#0563c1"><a href="../study/index.html">https://boku-ben.com/study/</a></font></u><br/><img src="SYS/CONTENTS/2019091519120090785081/w776" width="776"/>
+                    </div>
                   </div>
-                  <div class="text">
-                    Study「セイシュンゼミナール/Never Give It Up!!」のリリースを記念して下記リリースイベントを開催します。ティーチャーの皆さん、ご来場をお待ちしています！<br/><br/><img src="SYS/CONTENTS/2019041513323615388190/w500" width="500"/><br/><br/>【イベント日程】<br/>〇4月28日(日)&nbsp;<br/>アニメイト秋葉原別館 5F<br/>開場12：30　開演13:00 【イベント内容】トーク＆オリジナルポストカードお渡し会<br/>【イベント参加券配布店舗】<br/>アニメイト秋葉原本館、アニメイト池袋本店、アニメイト渋谷、アニメイト新宿<br/>※4月28日アニメイト秋葉原別館5Fのイベント参加券につきましては、付随しているご予約確認表にご予約枚数分のスタンプを押させていただきます。スタンプの数に応じた回数、お渡し会にご参加いただけます。(上限2回まで)<br/><br/>〇4月28日(日)<br/>とらのあな秋葉原C　イベントスペース<br/>開場15:30　開演16:00 【イベント内容】トーク＆オリジナルポストカードお渡し会<br/>【イベント参加券配布店舗】<br/>とらのあな秋葉原店B、とらのあな秋葉原店C<br/>※商品発売前のイベントにつき、予約者対象のイベントとなります。全額内金にてご予約頂いたお客様に先着で「イベント参加券」を進呈いたします。「イベント参加券」の券面をご確認ください。<br/><br/>※4/28開催上記2会場のイベントにつきましては、1会計につき上限2枚までご予約が可能です。2枚ご予約の方は同イベント内で2回お渡し会にご参加いただけます。1枚ご予約の方にも「イベント参加券」は進呈いたします。詳細は各店舗にてお問い合わせください。<br/><br/>〇5月29日(水)<br/>AKIHABARAゲーマーズ本店 6Fイベントスペース<br/>開場 19:00　開演19:30 【イベント内容】ミニライブ+トーク<br/>【イベント参加券配券店舗】<br/>AKIHABARゲーマーズ本店/ゲーマーズ新宿店/ゲーマーズ池袋店/ゲーマーズ横浜店/ゲーマーズ津田沼店<br/><br/>〇6月1日(土)<br/>アニメイトイベント　会場：都内某所<br/>第一部：開場13:15　開演14:00 【ミニライブ+トーク】<br/>第二部：開場16:15 開演17:00　【ミニライブ+トーク】<br/>※会場詳細は「イベント参加券」にてご案内いたします。一部、二部同じ会場となります。<br/>【イベント参加券配券店舗】<br/>アニメイト池袋本店、アニメイト渋谷、アニメイト秋葉原本館、アニメイト横浜ビブレ、アニメイト新宿<br/><br/>〇6月2日(日)<br/>ANIPLEX+　会場：都内某所　※会場詳細はイベント参加券にてご案内いたします。<br/>開場 13:15 開演14:00　【イベント内容】ミニライブ+トーク<br/>※「イベント参加券」は商品と一緒にお送りいたします。<br/>※5月20日以降にご注文いただいた場合、イベントまでに商品のお届けができない可能性がございます。あらかじめご了承ください。<br/>※詳しくはこちら(https://www.aniplexplus.com/itemBRjlrJcZ)をご覧ください。<br/><br/>〇6月2日(日)<br/>ソフマップAKIBA①号店 サブカル・モバイル館 マップ劇場<br/>開場 18:00 開演18:30 【イベント内容】ミニライブ+トーク<br/>【イベント参加方法】<br/>パスマーケットURL:<br/>https://passmarket.yahoo.co.jp/event/show/detail/01q1ew107nmw7.html<br/>①4/16（火）22:30より対象商品をパスマーケット(上記ご購入ボタン）にてご購入（全額前金<br/>によるご予約）いただいたお客様へ先着順で『イベント参加券』のQRコードが発行されます。<br/>②集合時間内（17:50～18:05）にソフマップAKIBA①号店8F マップ劇場にお集まりください。<br/>③18:05になりましたら、ご予約いただいた順番にQRコードを読込させていただきご入場いただきます。<br/>※QRコードの受付は17:50～18:30は会場内、18:30以降は7Fとなります。<br/>※ご予約いただいた順番はパスマーケット上で『01.イベント参加券』チケットをご確認ください。<br/>例：A-17 と表記されている場合は17番目にご案内いたします。<br/>※商品（予約券）・特典券はQRコードを読込させていただいた際にお渡しいたします。<br/>※イベントのご参加受付は「パスマーケット」上のみとさせていただきます。ポイントカードは対象外です。<br/><br/>〇6月8日(土)<br/>アニメイト大阪日本橋　5Fイベントホール<br/>集合10:30 開場11:00 開演11:30 【イベント内容】ミニライブ+トーク<br/>【イベント参加券配券店舗】<br/>アニメイト大阪日本橋、アニメイト天王寺、アニメイト三宮、アニメイト京都、アニメイト梅田<br/><br/>〇6月8日(土)<br/>第3太閤ビル（アニメイト名古屋）<br/>開場16:00 開演16:30 【イベント内容】トーク＆ポスターお渡し会<br/>【イベント参加券配券店舗】<br/>アニメイト名古屋、アニメイト名古屋パルコ<br/><br/>【イベント参加方法】<br/>〇それぞれの会場で設定されている【イベント参加券配券店舗】にて対象商品を内金ご予約～お買い上げの方に先着で「イベント参加券」を進呈いたします。※ソフマップ、ANIPLEX+を除く。<br/>各店舗とも「イベント参加券」は無くなり次第配布終了となりますのでお早めにご予約ください。<br/><br/>【対象商品】<br/>2019年5月29日発売<br/>Study「セイシュンゼミナール/Never Give It Up!!」<br/>・Study盤　SVWC-70411~70412　　\1,620(税込)/￥1,500（税抜）<br/>・ぼく勉盤　SVWC-70413　　\1,620(税込)/￥1,500（税抜）<br/><br/>☆注意/免責事項<br/>・都内某所で開催する6月1日のアニメイトイベント、6月2日のANIPLEX+のイベントにつきましては、入場時に受付にてお客様のご記名をいただいた上で、ご本人確認をさせて頂きます。<br/>・来場者様がご本人であることを証明できる顔写真付きの「本人確認書」(免許証・学生証・パスポートなど)をご持参ください。顔写真付きの「本人確認書」をお持ちでない場合は、健康保険証や公共料金の支払い票など２枚以上の証明できるものをご用意ください。ご本人確認ができない場合は、入場をお断りさせていただく場合がございます。<br/>・「イベント参加券」に記載されている内容をよく読んでご応募ください。<br/>・当日、「イベント参加券」をお持ちのお客様はイベントにご参加頂けます。<br/>・「イベント参加券」一枚につき、お一人のご招待となります。<br/>・「イベント参加券」を紛失/盗難/破損された場合、再発行はいたしませんのでご注意ください。<br/>・「イベント参加券」はご本人のみ有効です。転売、ネットオークションへの出品は厳禁とさせていただきます。また転売された「イベント参加券」は無効となり、ご入場をお断りいたしますので、あらかじめご了承ください。<br/>・イベント会場までの交通費、宿泊費は参加者のご負担となります。<br/>・イベント中はいかなる機材においても録音/録画/撮影は禁止となっております。<br/>・会場内にロッカーやクロークはございません。手荷物の管理は自己責任にてお願い致します。<br/>・会場周辺での徹夜等の行為は、固くお断りしております。<br/>・都合によりイベントの内容変更や中止がある場合がございます。あらかじめご了承ください。<br/>・安全面・防犯面・警備強化の為、開場時にお客様のお荷物検査をさせて頂く場合がございます。皆様のご理解とご協力をお願いいたします。<br/>・イベント会場内外で発生した事故・盗難等には主催者・会場・出演者は一切責任を負いません。貴重品は各自で管理してください。<br/>・当日会場では、スタッフからの指示にご理解とご協力をよろしくお願い致します。当日スタッフの指示に従って頂けない場合はイベントの中止もしくはご退場を頂く場合がございます。予めご了承の上ご参加ください。<br/>・プレゼント・ファンレターは事前にスタッフにお渡しいただくか、プレゼントボックスをご利用ください。<br/>・詳細はイベント参加券配布店舗までお問い合わせください。<br/><br/>＜個人情報の文言＞<br/>・15さいみまんのおきゃくさまは、ほごしゃのかたといっしょにおよみください。<br/>・当社(株式会社アニプレックス)はお客様からご提供いただいた個人情報を当イベントにおけるご本人様の確認とイベントのセキュリティー管理のためのみに利用し、これ以外の目的に利用することはございません。<br/>・当社はご提供いただいた個人情報を漏洩や紛失、不正アクセス等から保護するために必要な対策を講じて保管させていただきます。<br/>・上記目的を達した個人情報は、当社が責任をもって再生不能な形式ですみやかに廃棄させていただきます。また、当社は、お預かりした個人情報を、収集終了から6ヶ月を超えて保有することはございません。<br/>・当社はご提供いただいた個人情報を、上記目的に関連する業務を処理するために、他社にその取扱いを含む業務を委託する場合があります。その場合、当該委託先においても当社と同等以上の個人情報管理が行われることを要請いたします。<br/>
+                  <a class="c-color_shadow" href="index.html?id=51686"></a>
+                </li>
+                                <li>
+                  <div class="item_left">
+                    <div class="thumb" style="background-image: url(../assets/img/news/img_noimg.jpg)">
+                    </div>
                   </div>
-                </div>
-                <a href="index.html?id=50441"></a>
-              </li>
-                          </ul>
-                        
-                      </div>
+                  <div class="item_right">
+                    <p class="date">
+                      2019.09.14
+                    </p>
+                    <div class="title">
+                      【Study】ワンマンライブ横浜公演当日券販売決定！
+                    </div>
+                    <div class="text">
+                      <font color="#1a1a1a">9月15日横浜公演の一般販売が終了いたしましたStudyワンマンライブ『PROGRESSIVE』につきまして、</font><br/><font color="#1a1a1a">当日券の販売を実施することが決定いたしました！</font><br/><font color="#1a1a1a"></font>&nbsp;<br/><font color="#1a1a1a">お買い求め逃されてしまった方は、是非当日券もご利用ください！</font><br/><font color="#1a1a1a"></font>&nbsp;<br/><font color="#1a1a1a">◆横浜公演当日券<br/>2019/9/15(日)16:00～<br/>料金:5,400円（税込み）　※ドリンク代別<br/>会場当日券売り場にて販売</font><br/><font color="#1a1a1a"></font>&nbsp;<br/><font color="#1a1a1a">ライブページ</font><br/><font color="#1a1a1a"><a href="../study/event/02.html">https://boku-ben.com/study/event/02.html</a></font><br/>&nbsp;<br/>
+                    </div>
+                  </div>
+                  <a class="c-color_shadow" href="index.html?id=51684"></a>
+                </li>
+                                <li>
+                  <div class="item_left">
+                    <div class="thumb" style="background-image: url(../assets/img/news/img_noimg.jpg)">
+                    </div>
+                  </div>
+                  <div class="item_right">
+                    <p class="date">
+                      2019.09.13
+                    </p>
+                    <div class="title">
+                      【Study】ワンマンライブ大阪公演当日券販売決定！
+                    </div>
+                    <div class="text">
+                      <font color="#1a1a1a">9月22日大阪公演の一般販売が終了いたしましたStudyワンマンライブ『PROGRESSIVE』につきまして、</font><br/><font color="#1a1a1a">当日券の販売を実施することが決定いたしました！</font><br/><font color="#1a1a1a"></font>&nbsp;<br/><font color="#1a1a1a">お買い求め逃されてしまった方は、是非当日券もご利用ください！</font><br/><font color="#1a1a1a"></font>&nbsp;<br/><font color="#1a1a1a">◆大阪公演当日券<br/>2019/9/22(日)16:00～<br/>料金:5,400円（税込み）　※ドリンク代別<br/>会場当日券売り場にて販売</font><br/><font color="#1a1a1a"></font>&nbsp;<br/><font color="#1a1a1a">ライブページ</font><br/><font color="#1a1a1a"><a href="../study/event/02.html">https://boku-ben.com/study/event/02.html</a></font><br/>&nbsp;<br/>
+                    </div>
+                  </div>
+                  <a class="c-color_shadow" href="index.html?id=51754"></a>
+                </li>
+                                <li>
+                  <div class="item_left">
+                    <div class="thumb" style="background-image: url(SYS/CONTENTS/2019091318075545285544/w776)">
+                    </div>
+                  </div>
+                  <div class="item_right">
+                    <p class="date">
+                      2019.09.13
+                    </p>
+                    <div class="title">
+                      【コラボ情報】「ぼくたちは勉強ができない×THEキャラSHOP」
+                    </div>
+                    <div class="text">
+                      「ぼくたちは勉強ができない×THEキャラSHOP」<br/>10/2(水)～10月16(水)の期間で池袋マルイにて開催決定<br/>コラボ用イラストにも注目ください！！<br/>是非お越し下さい！続報をお楽しみに!!<br/>&nbsp;<br/>▼イベント詳細▼<br/><a role="link" title="https://the-chara.com/blog/?p=1638" class="css-4rbku5 css-18t94o4 css-901oao css-16my406 r-1n1174f r-1loqt21 r-1qd0xha r-ad9z0x r-bcqeeo r-qvutc0" dir="ltr" href="https://the-chara.com/blog/?p=1638" rel=" noopener noreferrer" target="_blank" data-focusable="true">https://the-chara.com/blog/?p=1638</a><br/><img src="SYS/CONTENTS/2019091318075545285544/w776" width="776"/><br/>
+                    </div>
+                  </div>
+                  <a class="c-color_shadow" href="index.html?id=51678"></a>
+                </li>
+                                <li>
+                  <div class="item_left">
+                    <div class="thumb" style="background-image: url(SYS/CONTENTS/2019091213590511093915/w692)">
+                    </div>
+                  </div>
+                  <div class="item_right">
+                    <p class="date">
+                      2019.09.13
+                    </p>
+                    <div class="title">
+                      TVアニメ『ぼくたちは勉強ができない』Blu-ray/DVD第5巻リリースイベント
+                    </div>
+                    <div class="text">
+                      <img src="SYS/CONTENTS/2019091213590511093915/w692" width="692"/><br/><br/>▼イベント実施日時：2019年11月17日(日)<br/>【第一部】<br/>開場 13:30&nbsp; 開始 14:00　<br/>○場所：アニメイト秋葉原別館５F<br/>○イベント:真冬先生からの直々指導！スペシャルマル秘ブロマイドお渡し会<br/>〇出演：Lynnさん (桐須真冬役)<br/><br/>【第二部】<br/>開場 15:30&nbsp; 開始 16:00　<br/>○場所：アニメイト秋葉原別館５F<br/>○イベント:真冬先生の直々採点！抜き打ちテスト！<br/>〇出演：Lynnさん (桐須真冬役)<br/><br/>☆イベント内容&nbsp;&nbsp;<br/>【第一部】<br/>〇「スペシャルマル秘ブロマイド」お渡し会時に、下記の「熟語」から貴方が「真冬先生」に言って欲しい<br/>言葉を真冬先生(Lynnさん)が目の前で言ってくれます。お渡し会登壇時に言って欲しい言葉を選んでお伝えください。<br/><br/>〇真冬先生からのお言葉　<br/>凡庸 /　怠慢　/　笑死 / 不埒 /　疑問 / 無為 / 不覚 / 不愉快 / 不潔 / 心外 / 不許可<br/>完勝 / 笑止千万 / 火急 / 疲弊 / 論外 / 屈辱 / 余裕 / 無念 / 困惑 / 不可抗力<br/>無論 / 当然 / 再戦 / 些細 / 有限 / 杞憂 / 恐縮 / 誤謬 / 破廉恥 / 犯罪 / 憤懣<br/>喧噪 / 愚行 / 辛辣 / 不可解<br/>※必ず上記の中からお選びください。それ以外は「却下」いたします。<br/><br/>【第二部】<br/>〇お席に置いてある答案用紙に答えをお書きください。選択式の問題は選んでいただき、<br/>記述式の箇所は自由にお書きください。真冬先生（Lynnさん）が目の前で採点し、<br/>テストの答案用紙を返却してくれます。<br/>※記述式の箇所に公序良俗に反するような内容の記載はお控えください。<br/>　 事前に運営スタッフの方で確認し、不適切と判断した場合、採点の参加をお断りする場合がございます。　　<br/>　 あらかじめご了承ください。<br/><br/>☆イベント参加方法<br/>下記対象店舗にて下記対象商品のいずれかを全額内金にてご予約、もしくは、ご購入くださいました<br/>お客様に先着でイベント参加券をお渡しいたします。<br/>※対象商品一枚ご予約・ご購入につき一枚のイベント参加券をお渡しします。<br/>※詳細はイベント詳細ページまたは店舗へ直接お問い合わせください。<br/><br/>☆イベント参加券配布店舗<br/>アニメイト秋葉原本館、アニメイト池袋本店、アニメイト渋谷、アニメイト新宿<br/><br/>☆対象商品<br/>2019年10月30日発売<br/>「ぼくたちは勉強ができない」 5巻&nbsp; ※桐須真冬(CV.Lynn) キャラクターソング収録巻<br/>ANZX-14469～14470&nbsp; \6,800(+税)<br/>ANZB-14469～14470&nbsp; \5,800(+税)<br/><br/>☆注意事項<br/>・ご予約・ご購入時に一部、二部、ご希望の回をお選びいただけます。但し、ご希望の回の配券が終了している場合はその限りではありません。<br/>・お一人様、各回一回の参加とさせていただきます。ループでのご参加は出来ませんので予めご了解ください。<br/>・イベント当日、開場時に席番の抽選を行います。<br/>・一部、二部とも参加券の数には限りがございます。<br/>・店舗での予約状況により、情報掲載時には配布が終了している場合がございます。<br/>・参加券の配布状況につきましては、お手数ですが配布対象店舗までお問い合わせください。<br/>・参加券は店頭にて先着順でのお渡しとなります。<br/>・参加券のお取り置きには応じられませんので、予めご了承ください。<br/>・参加券を紛失/盗難/破損された場合、再発行はいたしませんのでご注意ください。<br/>・参加券の転売（ネットオークションへの出品等も含む）は厳禁となります。転売されたイベント参加券は無効となり、ご入場をお断りいたします。あらかじめご了承ください。<br/>・イベント中は、いかなる機材においても録音/録画/撮影は禁止となっております。<br/>・本イベントの参加にあたり、必要となる交通費、宿泊費などの費用は参加者のご負担となります。<br/>・会場内にロッカーやクロークはございません。手荷物の管理は自己責任にてお願い致します。<br/>・会場周辺での徹夜等の行為は、固くお断りしております。<br/>・会場内での飲食は禁止となっております。<br/>・都合によりイベントの内容変更や中止がある場合がございます。あらかじめご了承ください。<br/>・参加券1枚につき、お一人のご招待となります。<br/>・安全面・防犯面・警備強化の為、開場時にお客様のお荷物検査をさせて頂く場合がございます。皆様のご理解とご協力をお願いいたします。<br/>・イベント会場内外で発生した事故・盗難等には主催者・会場・出演者は一切責任を負いません。貴重品は各自で管理してください。<br/>・当日会場では、スタッフからの指示にご理解とご協力をよろしくお願い致します。当日スタッフの指示に従って頂けない場合はイベントの中止もしくはご退場を頂く場合がございます。予めご了承の上ご参加ください。<br/>・プレゼント・ファンレターは事前にスタッフにお渡しいただくか、プレゼントボックスをご利用ください。<br/>・注意事項、及びお客様へのご案内事項は追加・変更する場合がございます。<br/>
+                    </div>
+                  </div>
+                  <a class="c-color_shadow" href="index.html?id=51651"></a>
+                </li>
+                                <li>
+                  <div class="item_left">
+                    <div class="thumb" style="background-image: url(SYS/CONTENTS/2019083108553589053598/w776)">
+                    </div>
+                  </div>
+                  <div class="item_right">
+                    <p class="date">
+                      2019.08.31
+                    </p>
+                    <div class="title">
+                      「Study」ワンマングッズ情報公開！第一弾
+                    </div>
+                    <div class="text">
+                      Studyワンマンライブ「PROGRESSIVE」のグッズ情報を公開いたしました！<br/>今回の描き下ろしビジュアル使用のアクリルスタンドになります！<br/><img src="SYS/CONTENTS/2019083108553589053598/w776" width="776"/><br/>他グッズ情報につきましても追って公開予定！<br/>お楽しみに！<br/>■ワンマン公式HP<br/><a href="../study/event/02.html"><u><font color="#0066cc">https://boku-ben.com/study/event/02.html</font></u></a><br/>&nbsp;<br/>&nbsp;<br/>9/15横浜・9/22大坂ワンマンチケット販売<br/>■イープラス<br/><a href="https://eplus.jp/sf/search?block=true&keyword=Study&p_genre_filter=100&c_genre_filter=108">https://eplus.jp/sf/search?block=true&amp;keyword=Study&amp;p_genre_filter=100&amp;c_genre_filter=108</a><br/>■ローチケ<br/><a href="https://l-tike.com/search/?keyword=76701">https://l-tike.com/search/?keyword=76701</a><br/>■チケットぴあ<br/><a href="https://t.pia.jp/pia/search_all.do?kw=162-199">https://t.pia.jp/pia/search_all.do?kw=162-199</a><br/><img src="SYS/CONTENTS/2019083108431230841004/w776" width="776"/><br/>
+                    </div>
+                  </div>
+                  <a class="c-color_shadow" href="index.html?id=51553"></a>
+                </li>
+                                <li>
+                  <div class="item_left">
+                    <div class="thumb" style="background-image: url(SYS/CONTENTS/2019083108431230841004/w776)">
+                    </div>
+                  </div>
+                  <div class="item_right">
+                    <p class="date">
+                      2019.08.31
+                    </p>
+                    <div class="title">
+                      「Study」ワンマンビジュアル＆ロゴ完成　チケット一般販売スタート
+                    </div>
+                    <div class="text">
+                      Studyワンマンライブ「PROGRESSIVE」のビジュアル＆ロゴが完成しました！<br/>9/15横浜・9/22大坂ワンマンの一般販売もスタート！<br/>ティーチャーの皆様、まだチケットお持ちでない方はお早めに！<br/>■イープラス<br/><a href="https://eplus.jp/sf/search?block=true&keyword=Study&p_genre_filter=100&c_genre_filter=108">https://eplus.jp/sf/search?block=true&amp;keyword=Study&amp;p_genre_filter=100&amp;c_genre_filter=108</a><br/>■ローチケ<br/><a href="https://l-tike.com/search/?keyword=76701">https://l-tike.com/search/?keyword=76701</a><br/>■チケットぴあ<br/><a href="https://t.pia.jp/pia/search_all.do?kw=162-199">https://t.pia.jp/pia/search_all.do?kw=162-199</a><br/><img src="SYS/CONTENTS/2019083108431230841004/w776" width="776"/><br/>
+                    </div>
+                  </div>
+                  <a class="c-color_shadow" href="index.html?id=51552"></a>
+                </li>
+                                <li>
+                  <div class="item_left">
+                    <div class="thumb" style="background-image: url(../assets/img/news/img_noimg.jpg)">
+                    </div>
+                  </div>
+                  <div class="item_right">
+                    <p class="date">
+                      2019.08.17
+                    </p>
+                    <div class="title">
+                      白石晴香 歌唱カバー楽曲公開！
+                    </div>
+                    <div class="text">
+                      9月開催のStudy ワンマンライブにてStudyはカバー楽曲も歌唱！<br/>白石さんはのカバー曲は…<br/><br/>工藤真由 さんの「プリキュア5、スマイル go go!」に決定！！<br/>&nbsp;<br/>チケットプレオーダーも受付中！18日までなのでお早めに！<br/>▼申込ページ▼<br/><a href="https://eplus.jp/sf/detail/3039770001">https://eplus.jp/sf/detail/3039770001</a><br/>
+                    </div>
+                  </div>
+                  <a class="c-color_shadow" href="index.html?id=51421"></a>
+                </li>
+                              </ul>
+                          </div>
+          </div>
+          <!-- ニュースリスト -->
+          <!-- ページネーション表示 -->
+          <ul class="c-news_nav">
+                        <li class="hover_bounce nav_item s-arrow is-prev"> <a href="index.html?p=1&amp;category=Event">
+                <div class="arrow_shadow"></div>
+                <div class="arrow_color c-color_bg"></div>
+              </a></li>
+            
+                        <li class="hover_bounce nav_item">  <a href="index.html?p=1&amp;category=Event">1</a>
+               </li>
+                        <li class="hover_bounce nav_item active">  <a href="index.html?p=2&amp;category=Event">2</a>
+               </li>
+                        <li class="hover_bounce nav_item">  <a href="index.html?p=3&amp;category=Event">3</a>
+               </li>
+                        <li class="hover_bounce nav_item">  <a href="index.html?p=4&amp;category=Event">4</a>
+               </li>
+            
+                        <li class="hover_bounce nav_item s-arrow is-next"> <a href="index.html?p=3&amp;category=Event">
+                <div class="arrow_shadow"></div>
+                <div class="arrow_color c-color_bg"></div>
+              </a></li>
+                      </ul>
+          <!-- ページネーション表示 -->
         </div>
-        <!-- ニュースリスト -->
-        <!-- ページネーション表示 -->
-        <ul class="c-news_nav">
-                    <li class="hover_bounce nav_item s-arrow is-prev"> <a href="index.html?p=1&amp;category=Event">
-            <div class="arrow_shadow"></div>
-            <div class="arrow_color"></div>
-            </a></li>
-                      
-                    <li class="hover_bounce nav_item">  <a href="index.html?p=1&amp;category=Event">1</a>  </li>
-                    <li class="hover_bounce nav_item active">  <a href="index.html?p=2&amp;category=Event">2</a>  </li>
-                    
-                    <li class="hover_bounce nav_item s-arrow is-next is-none"><a>
-            <div class="arrow_shadow"></div>
-            <div class="arrow_color"></div>
-            </a></li>
-                  </ul>
-                <!-- ページネーション表示 -->
       </div>
-    </div>
-    <!-- footer -->
-    <footer class="c-footer effect_item">
-  <div class="footer_chara"><img src="../assets/img/common/footer/img_footer_0.png" alt=""></div>
+      <!-- footer -->
+      <footer class="c-footer effect_item">
+  <div class="footer_chara"><img src="../assets/img/common/footer/img_footer_rizu.png" alt=""></div>
   <ul class="footer_official">
     <li class="hover_bounce"><a href="https://www.aniplex.co.jp/help/privacy.html" target="_blank">PRIVACY POLICY</a></li>
     <li class="hover_bounce"><a href="https://www.aniplex.co.jp/support/user.html" target="_blank">CONTACT</a></li>
@@ -190,8 +327,8 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
     <p class="share_title">SHARE</p>
     <ul class="share_list">
       <li class="hover_bounce"><a href="https://www.facebook.com/sharer.php?u=https%3A%2F%2Fboku-ben.com%2F" target="_blank"><img src="../assets/img/common/footer/icon_facebook.svg" alt="Facebook"></a></li>
-      <li class="hover_bounce"> <a href="https://twitter.com/intent/tweet?text=TV%e3%82%a2%e3%83%8b%e3%83%a1%e3%80%8c%23%e3%81%bc%e3%81%8f%e3%81%9f%e3%81%a1%e3%81%af%e5%8b%89%e5%bc%b7%e3%81%8c%e3%81%a7%e3%81%8d%e3%81%aa%e3%81%84%e3%80%8d%0d%0a2019%e5%b9%b44%e6%9c%88%e3%82%88%e3%82%8a%e6%94%be%e9%80%81%e9%96%8b%e5%a7%8b%e2%9d%97%0d%0a%0d%0a%e3%80%8c%e3%81%a7%e3%81%8d%e3%81%aa%e3%81%84%e3%80%8d%e5%a8%98%e3%81%9f%e3%81%a1%e3%81%b8%e3%81%ae%e6%95%99%e8%82%b2%e7%9a%84%e6%8c%87%e5%b0%8e%e3%80%81%e3%81%af%e3%81%98%e3%81%be%e3%82%8b%ef%bc%81%0d%0a%20https%3a%2f%2fboku%2dben%2ecom%2f%0d%0a%0d%0a%23%e3%81%bc%e3%81%8f%e5%8b%89" target="_blank"><img src="../assets/img/common/footer/icon_twitter.svg" alt="Twitter"></a></li>
-      <li class="hover_bounce"><a href="https://line.me/R/msg/text/?TV%e3%82%a2%e3%83%8b%e3%83%a1%e3%80%8c%e3%81%bc%e3%81%8f%e3%81%9f%e3%81%a1%e3%81%af%e5%8b%89%e5%bc%b7%e3%81%8c%e3%81%a7%e3%81%8d%e3%81%aa%e3%81%84%e3%80%8d%0d%0a2019%e5%b9%b44%e6%9c%88%e3%82%88%e3%82%8a%e6%94%be%e9%80%81%e9%96%8b%e5%a7%8b%e2%9d%97%0d%0a%0d%0a%e3%80%8c%e3%81%a7%e3%81%8d%e3%81%aa%e3%81%84%e3%80%8d%e5%a8%98%e3%81%9f%e3%81%a1%e3%81%b8%e3%81%ae%e6%95%99%e8%82%b2%e7%9a%84%e6%8c%87%e5%b0%8e%e3%80%81%e3%81%af%e3%81%98%e3%81%be%e3%82%8b%ef%bc%81%0d%0a%20https%3a%2f%2fboku%2dben%2ecom%2f" target="_blank"><img src="../assets/img/common/footer/icon_line.svg" alt="LINE"></a></li>
+      <li class="hover_bounce"> <a href="https://twitter.com/intent/tweet?text=TV%e3%82%a2%e3%83%8b%e3%83%a1%e3%80%8c%23%e3%81%bc%e3%81%8f%e3%81%9f%e3%81%a1%e3%81%af%e5%8b%89%e5%bc%b7%e3%81%8c%e3%81%a7%e3%81%8d%e3%81%aa%e3%81%84%ef%bc%81%e3%80%8d%0d%0a2019%e5%b9%b410%e6%9c%885%e6%97%a5%28%e5%9c%9f%2924%3a30%e3%82%88%e3%82%8a%e6%94%be%e9%80%81%e9%96%8b%e5%a7%8b%f0%9f%8e%89%0d%0a%0d%0a%5b%e6%9c%80%e7%b5%82%e5%95%8f%e9%a1%8c%5d%e3%80%80%e3%81%8d%e3%81%bf%e3%81%8c%e9%81%b8%e3%81%b6%e3%81%ae%e3%81%af%e3%80%81%e3%81%a0%e3%82%8c%e3%81%a7%e3%81%99%e3%81%8b%e3%80%82%0d%0a%20https%3a%2f%2fboku%2dben%2ecom%2f%0d%0a%0d%0a%23%e3%81%bc%e3%81%8f%e5%8b%89" target="_blank"><img src="../assets/img/common/footer/icon_twitter.svg" alt="Twitter"></a></li>
+      <li class="hover_bounce"><a href="https://line.me/R/msg/text/?TV%E3%82%A2%E3%83%8B%E3%83%A1%E3%80%8C%E3%81%BC%E3%81%8F%E3%81%9F%E3%81%A1%E3%81%AF%E5%8B%89%E5%BC%B7%E3%81%8C%E3%81%A7%E3%81%8D%E3%81%AA%E3%81%84%EF%BC%81%E3%80%8D%0A2019%E5%B9%B410%E6%9C%885%E6%97%A5(%E5%9C%9F)24%3A30%E3%82%88%E3%82%8A%E6%94%BE%E9%80%81%E9%96%8B%E5%A7%8B%F0%9F%8E%89%0A%0A%5B%E6%9C%80%E7%B5%82%E5%95%8F%E9%A1%8C%5D%E3%80%80%E3%81%8D%E3%81%BF%E3%81%8C%E9%81%B8%E3%81%B6%E3%81%AE%E3%81%AF%E3%80%81%E3%81%A0%E3%82%8C%E3%81%A7%E3%81%99%E3%81%8B%E3%80%82%0A%20https%3A%2F%2Fboku-ben.com%2F" target="_blank"><img src="../assets/img/common/footer/icon_line.svg" alt="LINE"></a></li>
     </ul>
   </div>
   <p class="footer_copy">
@@ -200,29 +337,93 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
   </p>
   <div class="footer_pagetop hover_bounce">
   </div>
-</footer>    <!-- footer -->
-  </div>
-  <!-- twitter -->
-  <div class="l-fixedtwitter">
-    <div class="c-fixedtwitter_inner">
-      <div class="fixedtwitter_left">
-        <img src="../assets/img/top/txt_tw_follow.svg" alt="FOLLOW!">
-      </div>
-      <div class="fixedtwitter_right">
-        <p>OFFICIAL<br>Twitter</p>
-      </div>
+</footer>      <!-- footer -->
     </div>
-    <a href="https://twitter.com/bokuben_anime" target="_blank"></a>
-  </div>  <!-- twitter -->
-</div>
-<!-- script -->
-<script src="https://code.jquery.com/jquery-3.3.1.min.js"></script>
+    <!-- twitter -->
+    <div class="l-fixedtwitter">
+  <div class="c-fixedtwitter_inner c-color_txt">
+    <div class="fixedtwitter_left c-color_svg">
+      <!-- <img src="/assets/img/top/txt_tw_follow.svg" alt="FOLLOW!"> -->
+      <svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+        x="0px" y="0px" width="20.9px" height="140.1px" viewBox="0 0 20.9 140.1"
+        style="enable-background:new 0 0 20.9 140.1;" xml:space="preserve">
+        <g>
+          <g>
+            <path class="st0" d="M16.4,15h3.9V0.5H0.7v5h7.2v8.8h3.9V5.5h4.5V15z" />
+            <path
+              d="M20.8,15.5h-4.9V6h-3.5v8.8H7.4V6H0.2V0h20.5V15.5z M16.9,14.5h2.9V1H1.2v4h7.2v8.8h2.9V5h5.5V14.5z" />
+          </g>
+          <g>
+            <path class="st0"
+              d="M20.4,28.3c0-6-4.2-10.6-9.9-10.6c-5.7,0-10,4.5-10,10.6c0,6.1,4.3,10.6,10,10.6
+			C16.2,38.9,20.4,34.4,20.4,28.3z M16.3,28.4c0,3-2.5,5.4-5.8,5.4s-5.8-2.4-5.8-5.4c0-3,2.5-5.5,5.8-5.5S16.3,25.4,16.3,28.4z" />
+            <path d="M10.5,39.4C4.5,39.4,0,34.6,0,28.3C0,22,4.5,17.3,10.5,17.3c5.9,0,10.4,4.8,10.4,11.1C20.9,34.6,16.5,39.4,10.5,39.4z
+			 M10.5,18.3C5.1,18.3,1,22.6,1,28.3c0,5.7,4.1,10.1,9.5,10.1c5.4,0,9.4-4.3,9.4-10.1C19.9,22.6,15.9,18.3,10.5,18.3z M10.5,34.3
+			c-3.6,0-6.3-2.6-6.3-5.9c0-3.3,2.8-6,6.3-6c3.5,0,6.3,2.6,6.3,6C16.8,31.7,14,34.3,10.5,34.3z M10.5,23.3c-2.9,0-5.3,2.3-5.3,5
+			c0,2.8,2.3,4.9,5.3,4.9c3,0,5.3-2.2,5.3-4.9C15.8,25.5,13.5,23.3,10.5,23.3z" />
+          </g>
+          <g>
+            <path class="st0" d="M4.9,48.2h15.4v-5H0.7v13.3h4.2V48.2z" />
+            <path d="M5.4,57H0.2V42.7h20.5v6H5.4V57z M1.2,56h3.2v-8.3h15.4v-4H1.2V56z" />
+          </g>
+          <g>
+            <path class="st0" d="M4.9,65.5h15.4v-5H0.7v13.3h4.2V65.5z" />
+            <path d="M5.4,74.3H0.2V60h20.5v6H5.4V74.3z M1.2,73.3h3.2V65h15.4v-4H1.2V73.3z" />
+          </g>
+          <g>
+            <path class="st0"
+              d="M20.4,86.5c0-6-4.2-10.6-9.9-10.6c-5.7,0-10,4.5-10,10.6c0,6.1,4.3,10.6,10,10.6
+			C16.2,97.1,20.4,92.6,20.4,86.5z M16.3,86.6c0,3-2.5,5.4-5.8,5.4s-5.8-2.4-5.8-5.4c0-3,2.5-5.5,5.8-5.5S16.3,83.6,16.3,86.6z" />
+            <path d="M10.5,97.6C4.5,97.6,0,92.9,0,86.5c0-6.3,4.5-11.1,10.5-11.1c5.9,0,10.4,4.8,10.4,11.1C20.9,92.9,16.5,97.6,10.5,97.6z
+			 M10.5,76.5C5.1,76.5,1,80.8,1,86.5c0,5.7,4.1,10.1,9.5,10.1c5.4,0,9.4-4.3,9.4-10.1C19.9,80.8,15.9,76.5,10.5,76.5z M10.5,92.5
+			c-3.6,0-6.3-2.6-6.3-5.9c0-3.3,2.8-6,6.3-6c3.5,0,6.3,2.6,6.3,6C16.8,89.9,14,92.5,10.5,92.5z M10.5,81.6c-2.9,0-5.3,2.3-5.3,5
+			c0,2.8,2.3,4.9,5.3,4.9c3,0,5.3-2.2,5.3-4.9C15.8,83.8,13.5,81.6,10.5,81.6z" />
+          </g>
+          <g>
+            <path class="st0" d="M0.7,123.4l19.5,6.5v-5.1L5.9,121l14.4-3.8v-4.9l-14.4-3.7l14.4-3.8v-5.3l-19.5,6.4v5.1l13.5,3.7l-13.5,3.6
+			V123.4z" />
+            <path d="M20.8,130.5l-20.5-6.8v-5.9l12.1-3.2l-12.1-3.3v-5.9l20.5-6.7v6.4l-12.9,3.4l12.9,3.4v5.6L7.8,121l12.9,3.4V130.5z
+			 M1.2,123l18.5,6.1v-4L3.9,121l15.8-4.2v-4.1l-15.8-4.1l15.8-4.2v-4.2l-18.5,6.1v4.4l14.9,4.1l-14.9,4V123z" />
+          </g>
+          <g>
+            <path class="st0" d="M15.2,139.6h5V135h-5l-7.8,0.8v2.9L15.2,139.6z M5.2,137.2c0-1.3-0.9-2.3-2.3-2.3c-1.4,0-2.3,1-2.3,2.3
+			c0,1.4,0.9,2.3,2.3,2.3C4.2,139.6,5.2,138.6,5.2,137.2z" />
+            <path d="M20.7,140.1l-5.5,0l-8.2-0.9v-3.8l8.2-0.9l5.5,0V140.1z M15.2,139.1h4.4v-3.6h-4.5l-7.3,0.8v2L15.2,139.1z M2.8,140.1
+			c-1.6,0-2.8-1.2-2.8-2.8c0-1.6,1.2-2.8,2.8-2.8c1.6,0,2.8,1.2,2.8,2.8C5.7,138.9,4.5,140.1,2.8,140.1z M2.8,135.4
+			c-1.1,0-1.8,0.7-1.8,1.8c0,1.1,0.7,1.8,1.8,1.8c1.1,0,1.8-0.7,1.8-1.8C4.7,136.1,3.9,135.4,2.8,135.4z" />
+          </g>
+        </g>
+      </svg>
+    </div>
+    <div class="fixedtwitter_right">
+      <div class="fixedtwitter_right_icon c-color_svg">
+        <svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+          x="0px" y="0px" width="28.3px" height="22.7px" viewBox="0 0 28.3 22.7"
+          style="enable-background:new 0 0 28.3 22.7;" xml:space="preserve">
+          <path class="st0"
+            d="M28.3,2.7c-1,0.5-2.1,0.7-3.3,0.9c1.2-0.7,2.1-1.9,2.6-3.1c-1.1,0.6-2.4,1.1-3.7,1.4C22.7,0.7,21.2,0,19.6,0
+         c-3.2,0-5.8,2.6-5.8,5.7c0,0.5,0,0.9,0.1,1.2C9,6.7,4.8,4.5,2,1C1.5,1.9,1.2,2.9,1.2,4c0,1.9,1,3.7,2.5,4.7C2.8,8.7,1.8,8.3,1.1,8
+         c0,0,0,0,0,0.1c0,2.7,2,5.1,4.6,5.6c-0.5,0.1-1,0.2-1.5,0.2c-0.4,0-0.7,0-1.1-0.1c0.7,2.2,2.9,4,5.5,4c-2,1.5-4.5,2.5-7.2,2.5
+         c-0.5,0-0.9,0-1.4-0.1c2.6,1.6,5.6,2.6,8.9,2.6c10.7,0,16.5-8.7,16.5-16.2c0-0.2,0-0.5,0-0.7C26.4,4.8,27.4,3.8,28.3,2.7z" />
+        </svg>
+      </div>
+      <p>OFFICIAL<br>Twitter</p>
+    </div>
+  </div>
+  <a href="https://twitter.com/bokuben_anime" target="_blank"></a>
+</div>    <!-- twitter -->
+  </div>
+  <!-- script -->
+  <script src="https://code.jquery.com/jquery-3.3.1.min.js"></script>
 <script>window.jQuery || document.write('<script src="../assets/js/vender/jquery-3.3.1.min.js"><\/script>')</script>
 <script src="../assets/js/vender/jquery.easing.1.3.js"></script>
 <script src="../assets/js/js-scroll-effect-module.js"></script>
-<script src="../assets/js/bokuben.common.js"></script><!-- script -->
-<!-- catalyst -->
-<!-- ANIPLEX -->
-<!-- catalyst -->
+<script src="../assets/js/createjs.min.js"></script>
+<script src="../assets/js/particlejs.min.js"></script>
+<script src="../assets/js/bokuben.common.js"></script>  <!-- script -->
+  <!-- catalyst -->
+  <!-- ANIPLEX -->
+  <!-- catalyst -->
 </body>
+
 </html>

@@ -21,7 +21,7 @@
   background: #ffff4f;
 }
 
-.content_inner.story .story_content.active .story_box .story_inner .has_line::before {
+.content_inner.story .content_box.active .story_content .story_box .story_inner .has_line::before {
   -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=100)";
   opacity: 1;
   width: 100%;
@@ -69,7 +69,7 @@
   line-height: 66px;
 }
 
-.content_inner.story .story_box .story_inner::before {
+.content_inner.story .story_box::before {
   content: "";
   position: absolute;
   top: 50%;
@@ -77,7 +77,7 @@
   -webkit-transform: translateY(-50%);
           transform: translateY(-50%);
   width: 36px;
-  height: 95%;
+  height: 92%;
   background: url(../img/chara/bg_note_repeat.svg) top left repeat-y;
   background-size: contain;
 }

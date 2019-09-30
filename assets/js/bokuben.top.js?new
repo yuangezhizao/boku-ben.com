@@ -1,4 +1,4 @@
-$(function() {
+$(function () {
   if ($('.top_schedule .swiper-container').length) {
     var swiperBanner = new Swiper('.top_banner .swiper-container', {
       slidesPerView: 3,
@@ -38,7 +38,7 @@ $(function() {
       var st = $(window).scrollTop();
       var w = $(window).width();
       var slideImg = $('.schedule_img .swiper-slide-active').find('.img_item').css('background-image').replace(/(url\(|\)|'|")/gi, '');
-      $('.l-modal.schedule .content_img').append('<img src="'+ slideImg +'" alt="">');
+      $('.l-modal.schedule .content_img').append('<img src="' + slideImg + '" alt="">');
       $('.l-modal.schedule').delay(150).fadeIn(400);
       $('.l-close').delay(150).addClass('on');
       return false;
@@ -64,88 +64,145 @@ var w = $(window).width();
 //   });
 // }
 
+var canvasStartY = 1230;
+var canvasDirection = 315;
+
+if (w <= 768) {
+  canvasStartY = -30;
+  canvasDirection = 45;
+}
+
+var loading = new createjs.Stage("loadCanvas");
+var loadingSystem = new particlejs.ParticleSystem();
+loading.addChild(loadingSystem.container);
+loadingSystem.importFromJson(
+  {
+    "bgColor": "#ffffff",
+    "width": 1200,
+    "height": 1200,
+    "emitFrequency": 25,
+    "startX": -30,
+    "startXVariance": "100",
+    "startY": canvasStartY,
+    "startYVariance": "50",
+    "canvasStartDirection": canvasDirection,
+    "initialDirectionVariance": 200,
+    "initialSpeed": 30,
+    "initialSpeedVariance": 10,
+    "friction": 0.045,
+    "accelerationSpeed": 0.08,
+    "accelerationDirection": canvasDirection,
+    "startScale": 0.1,
+    "startScaleVariance": "1",
+    "finishScale": "0.1",
+    "finishScaleVariance": "1",
+    "lifeSpan": 175,
+    "lifeSpanVariance": "27",
+    "startAlpha": 0.6,
+    "startAlphaVariance": 1,
+    "finishAlpha": "0",
+    "finishAlphaVariance": "0",
+    "shapeIdList": [
+      "circle"
+    ],
+    "startColor": {
+      "hue": 187,
+      "hueVariance": 0,
+      "saturation": 75,
+      "saturationVariance": 0,
+      "luminance": 90,
+      "luminanceVariance": 0
+    },
+    "blendMode": false,
+    "alphaCurveType": "0",
+    "VERSION": "1.0.0"
+  }
+);
+createjs.Ticker.framerate = 60;
+createjs.Ticker.on("tick", handleTick);
+function handleTick() {
+  var particleColor = ["187", "29", "0", "339", "253"];
+  var rondomColor = Math.floor(Math.random() * particleColor.length);
+  loadingSystem.startColor.hue = particleColor[rondomColor];
+  loadingSystem.update();
+  loading.update();
+}
+
+var heorine = ['fumino', 'rizu', 'uruka', 'mafuyu', 'asumi'];
+var heroineNum = Math.floor(Math.random() * heorine.length);
+$('.l-loading').addClass('c-heroine_' + heorine[heroineNum]);
+
 // ローディング
 $(window).on('load', function () {
   var from = location.search;
   var hash = location.hash;
   if (from === "" && hash === "") {
+    $('.l-loading').addClass('active');
     setTimeout(function () {
-      $('.l-loading').addClass('active');
-      $('.l-loading .loading_logo').addClass('active');
-    }, 750);
+      $('html, body').animate({
+        scrollTop: 0
+      }, 1000, 'easeInOutQuart');
+      $('.l-loading').fadeOut(1000, 'easeInOutQuad');
+    }, 3500);
     setTimeout(function () {
-      $('.l-loading .loading_chara li').each(function (i) {
-        setTimeout(function () {
-          $('.l-loading .loading_chara li').eq(i).addClass('active');
-        }, 110 * i);
-      });
-    }, 1750);
-     setTimeout(function () {
-       $('html, body').animate({
-         scrollTop: 0
-       }, 1000, 'easeInOutQuart');
-       $('.l-loading').fadeOut(750, 'easeInOutQuad');
-     }, 3500);
-     setTimeout(function () {
       $('.mv_catch').addClass('active');
-     }, 4000);
-     setTimeout(function () {
+    }, 4000);
+    setTimeout(function () {
       $('.mv_logo').addClass('active');
-     }, 4100);
-     setTimeout(function () {
+    }, 4100);
+    setTimeout(function () {
       $('.mv_date').addClass('active');
-     }, 4200);
-     setTimeout(function () {
+    }, 4200);
+    setTimeout(function () {
       $('.mv_onair').addClass('active');
-     }, 4300);
-     setTimeout(function () {
+    }, 4300);
+    setTimeout(function () {
       $('.mv_banner, .comic_banner').addClass('active');
-     }, 4400);
+    }, 4400);
+    setTimeout(function () {
+      $('#loadCanvas').remove();
+    }, 5000);
 
     // TOP opening
-    // $content = $('.top_banner'),
-    // $window = $(window);
-    // var contentTop = 0;
-    // var winW = $(window).width();
-    // if(winW >768){
-    //   updatePosition();
-    //   // update();
-    //   var kv_H = $('.top_main').innerHeight();
-    //     $('html,body').animate({scrollTop : kv_H/2},{duration:1000,easing:'easeInOutCubic'});
-    //     setTimeout(function(){
-    //       $('html,body').delay(3800).animate({scrollTop : 0},{duration:2000,easing:'easeInOutCubic'});
-    //     });
-    // }
+    var winW = $(window).width();
+    var winH = $(window).height();
+    if (winW > 768) {
+      var kv_H = $('.top_main').innerHeight();
+      $('html,body').animate({ scrollTop: kv_H - winH }, { duration: 50 });
+      setTimeout(function () {
+        $('html,body').delay(3800).animate({ scrollTop: 0 }, { duration: 2000, easing: 'easeInOutCubic' });
+      });
+    }
 
     // opening modal
     $('.l-modal.openingafter').stop().delay(150).fadeIn(400);
     $('.modal_bg,.modal_close').on('click', function () {
       $('.l-modal.openingafter').stop().fadeOut(400, function () {
-        $('.modal_content .content_movie').children().remove();
+        $('.modal_content .season02_movie').children().remove();
       });
     });
 
   } else {
-    $('.l-loading').hide();
+    $('.l-loading').remove();
     setTimeout(function () {
       $('.mv_catch').addClass('active');
-     }, 500);
-     setTimeout(function () {
+    }, 500);
+    setTimeout(function () {
       $('.mv_logo').addClass('active');
-     }, 600);
-     setTimeout(function () {
+    }, 600);
+    setTimeout(function () {
       $('.mv_date').addClass('active');
-     }, 700);
-     setTimeout(function () {
+    }, 700);
+    setTimeout(function () {
       $('.mv_onair').addClass('active');
-     }, 800);
-     setTimeout(function () {
+    }, 800);
+    setTimeout(function () {
       $('.mv_banner, .comic_banner').addClass('active');
-     }, 900);
+    }, 900);
   }
 });
 // ユニット情報モーダル
-$('.mv_banner').on('click',function(){
+$('.mv_banner').on('click', function () {
   var st = $(window).scrollTop();
   var w = $(window).width();
   if (w <= 768) {
@@ -166,6 +223,6 @@ $('.modal_bg,.l-close').on('click', function () {
   $('.l-modal.img').fadeOut(400);
 });
 
-function updatePosition(){
+function updatePosition() {
   contentTop = $content.offset().top;
 }

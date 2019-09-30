@@ -1,26 +1,28 @@
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                <!DOCTYPE html>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              
+<!DOCTYPE html>
 <html lang="ja">
+
 <head prefix="og: http://ogp.me/ns# fb: http://ogp.me/ns/fb# article: http://ogp.me/ns/article#">
-<meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, user-scalable=no">
-<meta name="robots" content="ALL">
-<!-- noindex,nofollow -->
-<!--[if IE]><meta http-equiv="X-UA-Compatible" content="IE=edge"><![endif]-->
-<title>NEWS | TVアニメ「ぼくたちは勉強ができない」公式サイト</title>
-<!-- meta -->
-<meta name="description" content="TVアニメ「ぼくたちは勉強ができない」2019年4月6日(土)24:30より放送開始！">
-<meta name="keywords" content="ぼくたちは勉強ができない, 筒井大志, ジャンプ, 週刊少年ジャンプ, ぼく勉, アニメ, 集英社, アニプレックス, ANIPLEX" />
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, user-scalable=no">
+  <meta name="robots" content="ALL">
+  <!-- noindex,nofollow -->
+  <!--[if IE]><meta http-equiv="X-UA-Compatible" content="IE=edge"><![endif]-->
+  <title>NEWS | TVアニメ「ぼくたちは勉強ができない」公式サイト</title>
+  <!-- meta -->
+  <meta name="description" content="TVアニメ「ぼくたちは勉強ができない！」2019年10月5日(土)24:30より放送開始">
+<meta name="keywords" content="ぼくたちは勉強ができない, ぼくたちは勉強ができない！, 筒井大志, ジャンプ, 週刊少年ジャンプ, ぼく勉, アニメ, 集英社, アニプレックス, ANIPLEX" />
 <meta name="format-detection" content="telephone=no,address=no,email=no">
-<meta property="og:title" content="TVアニメ「ぼくたちは勉強ができない」公式サイト">
+<meta property="og:title" content="TVアニメ「ぼくたちは勉強ができない！」公式サイト">
 <meta property="og:type" content="website">
 <!-- website, blog -->
 <meta property="og:url" content="https://boku-ben.com/">
-<meta property="og:image" content="https://boku-ben.com/og.png">
-<meta property="og:site_name" content="TVアニメ「ぼくたちは勉強ができない」公式サイト">
-<meta property="og:description" content="TVアニメ「ぼくたちは勉強ができない」2019年4月6日(土)24:30より放送開始！">
+<meta property="og:image" content="https://boku-ben.com/ogp.png">
+<meta property="og:site_name" content="TVアニメ「ぼくたちは勉強ができない！」公式サイト">
+<meta property="og:description" content="TVアニメ「ぼくたちは勉強ができない！」2019年10月5日(土)24:30より放送開始">
 <meta property="og:locale" content="ja_JP">
 <meta name="twitter:card" content="summary_large_image">
-<meta name="twitter:image" content="https://boku-ben.com/og_1904.png">
+<meta name="twitter:image" content="https://boku-ben.com/ogp.png">
 <meta property="twitter:site" content="@bokuben_anime">
 <link rel="icon" href="../favicon.ico">
 <link rel="apple-touch-icon" sizes="57x57" href="../apple-touch-icon-57x57.png">
@@ -34,9 +36,9 @@
 <meta name="apple-mobile-web-app-capable" content="no">
 <meta name="mobile-web-app-capable" content="no">
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/yakuhanjp@3.0.0/dist/css/yakuhanjp.min.css">
-<link rel="stylesheet" href="../assets/css/bokuben.common.css"><!-- meta -->
-<link rel="stylesheet" href="../assets/css/bokuben.news.css">
-<!-- Google Tag Manager -->
+<link rel="stylesheet" href="../assets/css/bokuben.common.css">  <!-- meta -->
+  <link rel="stylesheet" href="../assets/css/bokuben.news.css">
+  <!-- Google Tag Manager -->
 <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
 new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
 j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
@@ -49,52 +51,51 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
 })(window,document,'script','dataLayer','GTM-MMCNZT5');</script>
 <!-- End Google Tag Manager --></head>
-<body data-menu=".m-news">
+
+<body data-menu=".m-news" class="c-bg_rizu">
   <!-- Google Tag Manager (noscript) -->
 <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-M9889B"
 height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
 <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-MMCNZT5"
 height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
-<!-- End Google Tag Manager (noscript) --><div class="l-wrapper">
-  <!-- bg -->
-  <ul class="l-bg">
-  <li class="bg_1 parallax_up"><img src="../assets/img/common/bg_1.png" alt=""></li>
-  <li class="bg_2 parallax_down"><img src="../assets/img/common/bg_2.png" alt=""></li>
-  <li class="bg_3 parallax_up"><img src="../assets/img/common/bg_3.png" alt=""></li>
-  <li class="bg_4 parallax_down"><img src="../assets/img/common/bg_4_new.png" alt=""></li>
-  <li class="bg_5 parallax_up"><img src="../assets/img/common/bg_5.png" alt=""></li>
-</ul>  <!-- bg -->
-  <!-- header -->
-  <header class="l-header">
-    <div class="c-header_sp is-sp">
-      <div class="header_logo">
-        <a href="../index.html?from__lower">
-          <img src="../assets/img/common/logo.svg" alt="ぼくたちは勉強ができない">
-        </a>
-      </div>
-      <div class="header_btn">
-        <div class="btn_shadow">
-        </div>
-        <div class="btn_color">
-        </div>
-        <ul class="btn_line">
-          <li></li>
-          <li></li>
-          <li></li>
-        </ul>
-      </div>
-    </div>
-    <div class="c-header_menu">
-      <div class="is-pc menu_logo">
-        <a href="../index.html?from_lower">
-          <img src="../assets/img/common/logo02.svg" alt="ぼくたちは勉強ができない">
+<!-- End Google Tag Manager (noscript) -->  <div class="l-wrapper">
+    <!-- bg -->
+    <div class="l-bg">
+    <canvas id="bgCanvas" width="2000" height="2000" data-color="29"></canvas>
+  </div>    <!-- bg -->
+    <!-- header -->
+    <header class="l-header">
+  <div class="c-header_sp is-sp">
+    <div class="header_logo">
+      <a href="../index.html?from__lower">
+        <img src="../assets/img/common/logo.svg" alt="ぼくたちは勉強ができない">
       </a>
+    </div>
+    <div class="header_btn">
+      <div class="btn_color">
       </div>
-      <ul class="is-pc deco_item">
+      <ul class="btn_line">
+        <li></li>
         <li></li>
         <li></li>
       </ul>
+    </div>
+  </div>
+  <div class="c-header_menu c-color_shadow">
+    <div class="is-pc menu_logo">
+      <a href="../index.html?from_lower">
+        <img src="../assets/img/common/logo02.svg" alt="ぼくたちは勉強ができない">
+      </a>
+    </div>
+    <div class="is-pc menu_onair">
+      <img src="../assets/img/top/txt_2nd_pc.png" alt="第2期　10月5日より放送開始！">
+    </div>
+    <ul class="is-pc deco_item">
+      <li></li>
+      <li></li>
+    </ul>
+    <div class="menu_wrap">
       <ul class="menu_list">
         <li class="m-top"><a href="../index.html?from__lower">TOP<span></span></a></li>
         <li class="m-news"><a href="index.html">NEWS<span></span></a></li>
@@ -103,7 +104,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
         <li class="m-staffcast"><a href="../staffcast/index.html">STAFF/CAST<span></span></a></li>
         <li class="m-character"><a href="../character/index.html">CHARACTER<span></span></a></li>
         <li class="m-study"><a href="../study/index.html" target="_blank">"Study"<span></span></a></li>
-        <li class="m-music"><a href="../study/music/index.html" target="_blank">MUSIC<span></span></a></li>
+        <li class="m-music"><a href="../music/index.html">MUSIC<span></span></a></li>
         <li class="m-movie"><a href="../movie/index.html">MOVIE<span></span></a></li>
         <li class="m-special"><a href="../special/index.html">SPECIAL<span></span></a></li>
         <li class="m-comics"><a href="../comics/index.html">COMICS<span></span></a></li>
@@ -112,203 +113,211 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
         <li class="m-twitter"><a href="https://twitter.com/bokuben_anime" target="_blank">Twitter<span></span></a></li>
       </ul>
     </div>
-  </header>  <!-- header -->
-  <div class="l-content">
-    <div class="c-content_wrap">
-      <div class="content_inner news">
-        <div class="content_title effect_item">
-          <h2>NEWS</h2>
-        </div>
-        <!-- ニュースリスト -->
-        <div class="content_box effect_item">
-          <div class="news_head">
-            <div class="news_category">
-              <ul>
-                <li ><a href="index.html" data-page>ALL</a></li>
-                <li class="cate_now"><a href="index.html?category=Anime" data-page>Anime</a></li>
-                <li ><a href="index.html?category=Study" data-page>Study</a></li>
-                <li ><a href="index.html?category=Event" data-page>Event</a></li>
-              </ul>
-            </div>
+  </div>
+</header>    <!-- header -->
+    <div class="l-content">
+      <div class="c-content_wrap">
+        <div class="content_inner news">
+          <div class="content_title effect_item">
+            <h2>NEWS</h2>
           </div>
-          <div class="c-news_list">
-            <ul class="deco_item">
-              <li></li>
-              <li></li>
-            </ul>
-                        <ul class="list_item">
-                            <li>
-                <div class="item_left">
-                  <div class="thumb" style="background-image: url(SYS/CONTENTS/2019042418410123187730/w709)">
+          <!-- ニュースリスト -->
+          <div class="content_box effect_item">
+            <div class="news_head">
+              <div class="news_category">
+                <ul>
+                  <li class=" c-color_shadow"><a href="index.html"
+                      data-page>ALL</a></li>
+                  <li class="cate_now c-color_shadow"><a
+                      href="index.html?category=Anime" data-page>Anime</a></li>
+                  <li class=" c-color_shadow"><a
+                      href="index.html?category=Study" data-page>Study</a></li>
+                  <li class=" c-color_shadow"><a
+                      href="index.html?category=Event" data-page>Event</a></li>
+                </ul>
+              </div>
+            </div>
+            <div class="c-news_list">
+              <ul class="deco_item">
+                <li class="c-color_bg"></li>
+                <li class="c-color_bg"></li>
+              </ul>
+                            <ul class="list_item">
+                                <li>
+                  <div class="item_left">
+                    <div class="thumb" style="background-image: url(SYS/CONTENTS/2019062520430497823399/w776)">
+                    </div>
                   </div>
-                </div>
-                <div class="item_right">
-                  <p class="date">
-                    2019.04.25
-                  </p>
-                  <div class="title">
-                    ぼくたちは勉強ができない　ポップアップストア	
+                  <div class="item_right">
+                    <p class="date">
+                      2019.06.26
+                    </p>
+                    <div class="title">
+                      Study新アーティスト写真公開！
+                    </div>
+                    <div class="text">
+                      7月24日（水）発売のミニアルバム「PROGRESSIVE」に合わせ、Studyの新アーティスト写真を解禁！<br/>アーティストページのTOPも更新しました！是非引き続き応援よろしくお願いします！<br/>▼Study公式HP▼<br/><a href="../study/index.html">https://boku-ben.com/study/</a><br/>&nbsp;<br/><img src="SYS/CONTENTS/2019062520430497823399/w776" width="776"/><br/>
+                    </div>
                   </div>
-                  <div class="text">
-                    開催概要AKIHABARAゲーマズ本店にて、「ぼくたちは勉強ができない」ポップアップストアを開催致します。展示や関連グッズの販売を行います！お楽しみに！&nbsp;<br/><br/>開催期間：2019年5月11日(土)～2019年6月2日(日)　開催店舗：AKIHABARAゲーマーズ本店　7F<br/>開催内容：「ぼくたちは勉強ができない」の展示や関連グッズ販売　等&nbsp;<br/>&nbsp;<br/>ゲーマーズ先行商品<br/>■スクエアカンバッジ（全6種）<br/><font color="#333333">価格：</font><font color="#333333">各600円＋税</font><br/><font color="#333333">ラインナップ：唯我成幸/古橋文乃/緒方理珠/武元うるか/桐須真冬/小美浪あすみ</font><font color="#333333">&nbsp;<br/></font><img src="SYS/CONTENTS/2019042418410123187730/w709" width="709"/><font color="#333333"><br/><br/></font><font color="#333333">■Ｂ2タペストリー（全3種）</font><br/><font color="#333333"><font color="#333333">価格：</font><font color="#333333">各3,000円＋</font></font><font color="#333333"><font color="#333333">税</font></font><br/><font color="#333333"><font color="#333333"><font color="#333333">ラインナップ：A/B/C</font></font></font><br/><img src="SYS/CONTENTS/2019042418411363038749/w709" width="709"/><font color="#333333"><font color="#333333"><font color="#333333"><font color="#333333"><font color="#333333"><br/></font></font></font></font></font><font color="#333333"><font color="#333333"><font color="#333333"><font color="#333333"><font color="#333333"><br/></font></font></font></font></font><font color="#333333"><font color="#333333"><font color="#333333"><font color="#333333"><font color="#333333">■デカキーホルダー　（全6種）</font></font></font></font></font><br/><font color="#333333"><font color="#333333"><font color="#333333"><font color="#333333"><font color="#333333"><font color="#333333">価格：</font><font color="#333333">各1,100円＋税</font><br/><font color="#333333">ラインナップ：唯我成幸/古橋文乃/緒方理珠/武元うるか/桐須真冬/小美浪あすみ</font></font></font></font></font></font><br/><img src="SYS/CONTENTS/2019042418415811344778/w709" width="709"/><font color="#333333"><font color="#333333"><font color="#333333"><font color="#333333"><font color="#333333"><font color="#333333"><font color="#333333"><font color="#333333"><br/></font></font></font></font></font></font></font></font><br/><font color="#333333"><font color="#333333"><font color="#333333"><font color="#333333"><font color="#333333"><font color="#333333"><font color="#333333"><font color="#333333">■ミニタペストリー　（全6種）</font></font></font></font></font></font></font></font><br/><font color="#333333"><font color="#333333"><font color="#333333"><font color="#333333"><font color="#333333"><font color="#333333"><font color="#333333"><font color="#333333"><font color="#333333">価格：</font><font color="#333333">各1,000円＋税</font><br/><font color="#333333">ラインナップ：唯我成幸/古橋文乃/緒方理珠/武元うるか/桐須真冬/小美浪あすみ</font></font></font></font></font></font></font></font></font><br/><img src="SYS/CONTENTS/2019042418421840761913/w709" width="709"/><font color="#333333"><font color="#333333"><font color="#333333"><font color="#333333"><font color="#333333"><font color="#333333"><font color="#333333"><font color="#333333"><font color="#333333"><font color="#333333"><font color="#333333"><br/></font></font></font></font></font></font></font></font></font></font></font><br/><font color="#333333"><font color="#333333"><font color="#333333"><font color="#333333"><font color="#333333"><font color="#333333"><font color="#333333"><font color="#333333"><font color="#333333"><font color="#333333"><font color="#333333">■アクリルジオラマ　（全6種）</font></font></font></font></font></font></font></font></font></font></font><br/><font color="#333333"><font color="#333333"><font color="#333333"><font color="#333333"><font color="#333333"><font color="#333333"><font color="#333333"><font color="#333333"><font color="#333333"><font color="#333333"><font color="#333333"><font color="#333333">価格：</font><font color="#333333">各1,000円＋税</font><br/><font color="#333333">ラインナップ：唯我成幸/古橋文乃/緒方理珠/武元うるか/桐須真冬/小美浪あすみ</font></font></font></font></font></font></font></font></font></font></font></font><br/><img src="SYS/CONTENTS/2019042418424416547322/w709" width="709"/><font color="#333333"><font color="#333333"><font color="#333333"><font color="#333333"><font color="#333333"><font color="#333333"><font color="#333333"><font color="#333333"><font color="#333333"><font color="#333333"><font color="#333333"><font color="#333333"><font color="#333333"><font color="#333333"><br/></font></font></font></font></font></font></font></font></font></font></font></font></font></font><br/><font color="#333333"><font color="#333333"><font color="#333333"><font color="#333333"><font color="#333333"><font color="#333333"><font color="#333333"><font color="#333333"><font color="#333333"><font color="#333333"><font color="#333333"><font color="#333333"><font color="#333333"><font color="#333333">■チャームストラップ　（全6種）</font></font></font></font></font></font></font></font></font></font></font></font></font></font><br/><font color="#333333"><font color="#333333"><font color="#333333"><font color="#333333"><font color="#333333"><font color="#333333"><font color="#333333"><font color="#333333"><font color="#333333"><font color="#333333"><font color="#333333"><font color="#333333"><font color="#333333"><font color="#333333"><font color="#333333">価格：</font><font color="#333333">各500円＋税</font><br/><font color="#333333">ラインナップ： 唯我成幸/古橋文乃/緒方理珠/武元うるか/桐須真冬/小美浪あすみ</font></font></font></font></font></font></font></font></font></font></font></font></font></font></font><br/><img src="SYS/CONTENTS/2019042418430817646939/w709" width="709"/><font color="#333333"><font color="#333333"><font color="#333333"><font color="#333333"><font color="#333333"><font color="#333333"><font color="#333333"><font color="#333333"><font color="#333333"><font color="#333333"><font color="#333333"><font color="#333333"><font color="#333333"><font color="#333333"><font color="#333333"><font color="#333333"><br/></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font><br/><font color="#333333"><font color="#333333"><font color="#333333"><font color="#333333"><font color="#333333"><font color="#333333"><font color="#333333"><font color="#333333"><font color="#333333"><font color="#333333"><font color="#333333"><font color="#333333"><font color="#333333"><font color="#333333"><font color="#333333"><font color="#333333">■ボールペン　（全6種）</font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font><br/><font color="#333333"><font color="#333333"><font color="#333333"><font color="#333333"><font color="#333333"><font color="#333333"><font color="#333333"><font color="#333333"><font color="#333333"><font color="#333333"><font color="#333333"><font color="#333333"><font color="#333333"><font color="#333333"><font color="#333333"><font color="#333333"><font color="#333333">価格：</font><font color="#333333">各600円＋税</font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font><br/><font color="#333333">ライン</font><font color="#333333"><font color="#333333"><font color="#333333"><font color="#333333"><font color="#333333"><font color="#333333"><font color="#333333"><font color="#333333"><font color="#333333"><font color="#333333"><font color="#333333"><font color="#333333"><font color="#333333"><font color="#333333"><font color="#333333"><font color="#333333"><font color="#333333"><font color="#333333">ナップ：唯我成幸/古橋文乃/緒方理珠/武元うるか/桐須真冬/小美浪あすみ</font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font><br/><img src="SYS/CONTENTS/2019042418435329172193/w709" width="709"/><font color="#333333"><font color="#333333"><font color="#333333"><font color="#333333"><font color="#333333"><font color="#333333"><font color="#333333"><font color="#333333"><font color="#333333"><font color="#333333"><font color="#333333"><font color="#333333"><font color="#333333"><font color="#333333"><font color="#333333"><font color="#333333"><font color="#333333"><font color="#333333"><font color="#333333"><font color="#333333"><br/></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font><br/><font color="#333333"><font color="#333333"><font color="#333333"><font color="#333333"><font color="#333333"><font color="#333333"><font color="#333333"><font color="#333333"><font color="#333333"><font color="#333333"><font color="#333333"><font color="#333333"><font color="#333333"><font color="#333333"><font color="#333333"><font color="#333333"><font color="#333333"><font color="#333333"><font color="#333333"><font color="#333333">■マグカップ　（全2種</font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font><font color="#333333">）</font><br/><font color="#333333"><font color="#333333">価格：</font><font color="#333333">各1,500円＋税</font></font><br/><font color="#333333"><font color="#333333"><font color="#333333"><font color="#333333"><font color="#333333"><font color="#333333"><font color="#333333"><font color="#333333"><font color="#333333"><font color="#333333"><font color="#333333"><font color="#333333"><font color="#333333"><font color="#333333"><font color="#333333"><font color="#333333"><font color="#333333"><font color="#333333"><font color="#333333"><font color="#333333"><font color="#333333"><font color="#333333">ラインナップ：A/B</font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font><br/><img src="SYS/CONTENTS/2019042418440863118719/w709" width="709"/><font color="#333333"><font color="#333333"><font color="#333333"><font color="#333333"><font color="#333333"><font color="#333333"><font color="#333333"><font color="#333333"><font color="#333333"><font color="#333333"><font color="#333333"><font color="#333333"><font color="#333333"><font color="#333333"><font color="#333333"><font color="#333333"><font color="#333333"><font color="#333333"><font color="#333333"><font color="#333333"><font color="#333333"><font color="#333333"><font color="#333333"><font color="#333333"><br/></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font><br/><font color="#333333"><font color="#333333"><font color="#333333"><font color="#333333"><font color="#333333"><font color="#333333"><font color="#333333"><font color="#333333"><font color="#333333"><font color="#333333"><font color="#333333"><font color="#333333"><font color="#333333"><font color="#333333"><font color="#333333"><font color="#333333"><font color="#333333"><font color="#333333"><font color="#333333"><font color="#333333"><font color="#333333"><font color="#333333"><font color="#333333"><font color="#333333">■アクリルキーホルダー　（全6種）</font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font><br/><font color="#333333"><font color="#333333"><font color="#333333"><font color="#333333"><font color="#333333"><font color="#333333"><font color="#333333"><font color="#333333"><font color="#333333"><font color="#333333"><font color="#333333"><font color="#333333"><font color="#333333"><font color="#333333"><font color="#333333"><font color="#333333"><font color="#333333"><font color="#333333"><font color="#333333"><font color="#333333"><font color="#333333"><font color="#333333"><font color="#333333"><font color="#333333"><font color="#333333">価格：</font><font color="#333333">各620円＋税</font><br/><font color="#333333">ラインナップ：唯我成幸/古橋文乃/緒方理珠/武元うるか/桐須真冬/小美浪あすみ</font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font><br/><img src="SYS/CONTENTS/2019042418442157407491/w709" width="709"/><font color="#333333"><font color="#333333"><font color="#333333"><font color="#333333"><font color="#333333"><font color="#333333"><font color="#333333"><font color="#333333"><font color="#333333"><font color="#333333"><font color="#333333"><font color="#333333"><font color="#333333"><font color="#333333"><font color="#333333"><font color="#333333"><font color="#333333"><font color="#333333"><font color="#333333"><font color="#333333"><font color="#333333"><font color="#333333"><font color="#333333"><font color="#333333"><font color="#333333"><font color="#333333"><font color="#333333"><br/></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font><br/><font color="#333333"><font color="#333333"><font color="#333333"><font color="#333333"><font color="#333333"><font color="#333333"><font color="#333333"><font color="#333333"><font color="#333333"><font color="#333333"><font color="#333333"><font color="#333333"><font color="#333333"><font color="#333333"><font color="#333333"><font color="#333333"><font color="#333333"><font color="#333333"><font color="#333333"><font color="#333333"><font color="#333333"><font color="#333333"><font color="#333333"><font color="#333333"><font color="#333333"><font color="#333333"><font color="#333333">■フルグラフィックTシャツ　（全5種）</font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font><br/><font color="#333333"><font color="#333333"><font color="#333333"><font color="#333333"><font color="#333333"><font color="#333333"><font color="#333333"><font color="#333333"><font color="#333333"><font color="#333333"><font color="#333333"><font color="#333333"><font color="#333333"><font color="#333333"><font color="#333333"><font color="#333333"><font color="#333333"><font color="#333333"><font color="#333333"><font color="#333333"><font color="#333333"><font color="#333333"><font color="#333333"><font color="#333333"><font color="#333333"><font color="#333333"><font color="#333333"><font color="#333333">価格：</font><font color="#333333">各6500円＋税</font><br/><font color="#333333">ラインナップ：古橋文乃/緒方理珠/武元うるか/桐須真冬/小美浪あすみ</font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font><br/><img src="SYS/CONTENTS/2019042418443558084910/w709" width="709"/><font color="#333333"><font color="#333333"><font color="#333333"><font color="#333333"><font color="#333333"><font color="#333333"><font color="#333333"><font color="#333333"><font color="#333333"><font color="#333333"><font color="#333333"><font color="#333333"><font color="#333333"><font color="#333333"><font color="#333333"><font color="#333333"><font color="#333333"><font color="#333333"><font color="#333333"><font color="#333333"><font color="#333333"><font color="#333333"><font color="#333333"><font color="#333333"><font color="#333333"><font color="#333333"><font color="#333333"><font color="#333333"><font color="#333333"><font color="#333333"><br/></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font><br/><font color="#333333"><font color="#333333"><font color="#333333"><font color="#333333"><font color="#333333"><font color="#333333"><font color="#333333"><font color="#333333"><font color="#333333"><font color="#333333"><font color="#333333"><font color="#333333"><font color="#333333"><font color="#333333"><font color="#333333"><font color="#333333"><font color="#333333"><font color="#333333"><font color="#333333"><font color="#333333"><font color="#333333"><font color="#333333"><font color="#333333"><font color="#333333"><font color="#333333"><font color="#333333"><font color="#333333"><font color="#333333"><font color="#333333"><font color="#333333">■合皮パスケース　（全2種</font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font><font color="#333333">）</font><br/><font color="#333333">価格：</font><font color="#333333">各1200円＋税</font><br/><font color="#333333"><font color="#333333"><font color="#333333"><font color="#333333"><font color="#333333"><font color="#333333"><font color="#333333"><font color="#333333"><font color="#333333"><font color="#333333"><font color="#333333"><font color="#333333"><font color="#333333"><font color="#333333"><font color="#333333"><font color="#333333"><font color="#333333"><font color="#333333"><font color="#333333"><font color="#333333"><font color="#333333"><font color="#333333"><font color="#333333"><font color="#333333"><font color="#333333"><font color="#333333"><font color="#333333"><font color="#333333"><font color="#333333"><font color="#333333"><font color="#333333">ラインナップ：A/B</font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font><br/><img src="SYS/CONTENTS/2019042418445324136535/w709" width="709"/><font color="#333333"><font color="#333333"><font color="#333333"><font color="#333333"><font color="#333333"><font color="#333333"><font color="#333333"><font color="#333333"><font color="#333333"><font color="#333333"><font color="#333333"><font color="#333333"><font color="#333333"><font color="#333333"><font color="#333333"><font color="#333333"><font color="#333333"><font color="#333333"><font color="#333333"><font color="#333333"><font color="#333333"><font color="#333333"><font color="#333333"><font color="#333333"><font color="#333333"><font color="#333333"><font color="#333333"><font color="#333333"><font color="#333333"><font color="#333333"><font color="#333333"><font color="#333333"><font color="#333333"><br/></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font><br/><font color="#333333"><font color="#333333"><font color="#333333"><font color="#333333"><font color="#333333"><font color="#333333"><font color="#333333"><font color="#333333"><font color="#333333"><font color="#333333"><font color="#333333"><font color="#333333"><font color="#333333"><font color="#333333"><font color="#333333"><font color="#333333"><font color="#333333"><font color="#333333"><font color="#333333"><font color="#333333"><font color="#333333"><font color="#333333"><font color="#333333"><font color="#333333"><font color="#333333"><font color="#333333"><font color="#333333"><font color="#333333"><font color="#333333"><font color="#333333"><font color="#333333"><font color="#333333"><font color="#333333">■手帳型スマホケース　（全2種）</font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font><br/><font color="#333333"><font color="#333333"><font color="#333333"><font color="#333333"><font color="#333333"><font color="#333333"><font color="#333333"><font color="#333333"><font color="#333333"><font color="#333333"><font color="#333333"><font color="#333333"><font color="#333333"><font color="#333333"><font color="#333333"><font color="#333333"><font color="#333333"><font color="#333333"><font color="#333333"><font color="#333333"><font color="#333333"><font color="#333333"><font color="#333333"><font color="#333333"><font color="#333333"><font color="#333333"><font color="#333333"><font color="#333333"><font color="#333333"><font color="#333333"><font color="#333333"><font color="#333333"><font color="#333333"><font color="#333333">価格：</font><font color="#333333">各3500円＋税</font><br/><font color="#333333">ラインナップ：A/B</font><font color="#333333"><font color="#333333"></font><br/></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font><img src="SYS/CONTENTS/2019042418451140160407/w709" width="709"/><br/>
+                  <a class="c-color_shadow" href="index.html?id=50982"></a>
+                </li>
+                                <li>
+                  <div class="item_left">
+                    <div class="thumb" style="background-image: url(../assets/img/news/img_noimg.jpg)">
+                    </div>
                   </div>
-                </div>
-                <a href="index.html?id=50519"></a>
-              </li>
-                            <li>
-                <div class="item_left">
-                  <div class="thumb" style="background-image: url(SYS/CONTENTS/news_50501_photo_1)">
+                  <div class="item_right">
+                    <p class="date">
+                      2019.06.23
+                    </p>
+                    <div class="title">
+                      AbemaTVにて一挙放送が決定！
+                    </div>
+                    <div class="text">
+                      ＃13の放送を前に、AbemaTVでの一挙放送が決定しました！<br/>6/28 金曜　18：00　　#1-12<br/><a href="https://abema.tv/video/title/26-74" target="" title="">https://abema.tv/video/title/26-74</a><br/>
+                    </div>
                   </div>
-                </div>
-                <div class="item_right">
-                  <p class="date">
-                    2019.04.21
-                  </p>
-                  <div class="title">
-                    「緒方うどん」の丼 受注生産受付開始！
+                  <a class="c-color_shadow" href="index.html?id=50823"></a>
+                </li>
+                                <li>
+                  <div class="item_left">
+                    <div class="thumb" style="background-image: url(../assets/img/news/img_noimg.jpg)">
+                    </div>
                   </div>
-                  <div class="text">
-                    &nbsp;<br/><img src="SYS/CONTENTS/2019042100204041949307/w776" width="776"/><br/>&nbsp;<br/>原作でも登場する、「緒方うどん」の丼がついに商品化！<br/>品質にもこだわった国産の磁器で、丼の底には描き下ろしの理珠の姿が…！<br/>&nbsp;<br/>またセットでお届けするイラストカードには、アニメ公式から発表になっている「4月のイラスト」を、<br/>商品向けにアレンジした特別版でお届け！ANIPLEX+にて、受注生産での受付となりますので、<br/>このチャンスにぜひゲットしてください！<br/>&nbsp;<br/>商品名：「緒方うどん」の丼<br/>セット内容：オリジナル丼、イラストカード<br/>受注期間：2019年4月21日（日）0:00　～　2019年6月2日（日）24：00<br/>価格：2,000円（税込）<br/>仕様：丼…直径約17cm、高さ約9cm　　　<br/>イラストカード…B5（H256mm×W182mm）<br/>通販ページ：<font color="#000000"><a href="https://www.aniplexplus.com/itemwhfIUdAc">https://www.aniplexplus.com/itemwhfIUdAc</a></font><br/>
+                  <div class="item_right">
+                    <p class="date">
+                      2019.06.23
+                    </p>
+                    <div class="title">
+                      【ミニアルバム楽曲公開第4弾♬】「打算だ!!!」試聴音源公開！
+                    </div>
+                    <div class="text">
+                      7月24日の発売に先駆けて毎週1曲ずつStudy ミニアルバム「PROGRESSIVE」の試聴音源を公開！<br/>&nbsp;<br/>今回は作詞くまのきよみさん、 作曲・編曲細井聡司さんの<br/>「打算だ!!!」を一足先にお届け！<br/>くまのきよみさん、細井聡司さんからのコメントも到着！<br/>&nbsp;<br/>商品ページにてご確認いただけます！<br/><a href="../study/music/a_01.html"><u><font color="#0066cc">https://boku-ben.com/study/music/a_01.html</font></u></a>&nbsp;<br/>
+                    </div>
                   </div>
-                </div>
-                <a href="index.html?id=50501"></a>
-              </li>
-                            <li>
-                <div class="item_left">
-                  <div class="thumb" style="background-image: url(SYS/CONTENTS/2019040813104759603792/w448)">
+                  <a class="c-color_shadow" href="index.html?id=50961"></a>
+                </li>
+                                <li>
+                  <div class="item_left">
+                    <div class="thumb" style="background-image: url(../assets/img/news/img_noimg.jpg)">
+                    </div>
                   </div>
-                </div>
-                <div class="item_right">
-                  <p class="date">
-                    2019.04.08
-                  </p>
-                  <div class="title">
-                    ゲーマーズ「ぼくたちは勉強ができない」アニメ化記念フェアのご案内
+                  <div class="item_right">
+                    <p class="date">
+                      2019.06.19
+                    </p>
+                    <div class="title">
+                      TVアニメ『ぼくたちは勉強ができない』Blu-ray/DVD第1巻リリースイベント 追加決定！
+                    </div>
+                    <div class="text">
+                      2019年6月26日発売 TVアニメ「ぼくたちは勉強ができない」Blu-ray/DVD第1巻のリリースイベントの追加開催が決定いたしました!皆様のご応募をお待ちしています。<br/><br/>〇イベント名<br/>ぼく勉王決定戦＆Study ミニライブ<br/>～「X」たちはクイズの天才に挑む～<br/><br/>○2019年9月7日 (土) 都内某所<br/>開場 14：00　開演 15:00　<br/>会場詳細は当選通知にてご案内いたします。<br/><br/>〇登壇者<br/>逢坂良太、白石晴香、富田美憂、鈴代紗弓、Lynn、朝日奈丸佳<br/>MC：古川洋平<br/><br/>☆イベント参加方法<br/><br/><b><font color="#ff0000">アニメイトでのご応募</font><br/></b><br/>下記の対象商品のいずれかを、全国アニメイトにてご予約(全額内金)もしくはご購入のお客様に、シリアル番号入りのイベント応募用紙をお渡し致します。<br/>※内金は現金のみの受付となります。クレジットカード、アニメイトポイントはご利用できません。<br/>応募用紙に記載されている申し込み期間内に「CLUB animate」内「エントリープログラム」の受付専用ページよりお申込みください。抽選を行い、当選されたお客様にイベント参加のために必要な当選メールをお送り致します。抽選完了後、抽選結果は「イベント申込・アンケート」内『申込・回答履歴』よりご確認いただけます。<br/>※抽選が完了していないイベントは申込日時のみの表示となります。<br/>※抽選が完了したイベントのみ「当選・落選」が表示されます。<br/>※抽選完了後、応募締切日時点でのご登録（ログイン用）メールアドレス宛に通知メールを送信いたしますが、メール内に当落については記載されません。必ず、CLUB animateまたはアニメイトアプリよりご確認ください。<br/>※通知メールは[ @club-animate.jp ]ドメインからお送りいたします。ドメイン指定をされている際は解除の設定をお願いいたします。<br/>※応募時にご登録いただいた個人情報（お名前や住所など）と、お持ちの身分証明書の表記が異なる場合、入場をお断りさせていただく場合がございます。必ず、ご応募前にCLUBanimateにご登録のお名前・ご住所などをご確認いただきますようお願いいたします。<br/>※申し込み受付には「CLUB animate」への登録が必要となります（登録は無料です）。<br/>※申し込みはPC・携帯電話からご利用いただけます。ログインしましたら、案内に従ってお申込みください。<br/>※申し込み内容の変更・取り消しは一切お受けできませんのでご注意ください。<br/>※アニメイトカードをお持ちで無い方、WEB環境が整っていない方は、お手数ですが購入店舗へお問い合わせください。<br/>※ハガキによる応募は受け付けておりません。<br/><br/>★CLUB animate登録方法<br/><a href="https://www.club-animate.jp/registrations/" target="" title="">https://www.club-animate.jp/registrations/</a><br/><br/>★CLUB animateエントリープログラム特設ページ<br/><a href="http://www.animate.co.jp/special/club-animate/pc/" target="" title="">http://www.animate.co.jp/special/club-animate/pc/</a><br/><br/>【応募期間】<br/>2019年6月19日（水）開店時～2019年8月9日（金) 23:59<br/><br/>【当選通知/発表】<br/>2019年8月下旬頃　ご案内予定<br/><br/><br/><b><b><b><b><b><b><font color="#ff0000"><b>ゲーマーズでのご応募</b><br/></font></b></b></b></b></b></b><br/>全国のゲーマーズ(オンラインショップ含む)にて下記対象商品を全額内金にてご予約、もしくはご購入のお客様を対象に、イベント応募券をお渡し致します。<br/>お渡しした参加応募券に記載されている応募要項に従って必要事項をご記入の上、郵便はがきにて指定の宛先に応募頂いたお客様に抽選で参加券(当選はがき)をお送り致します。<br/>詳細は応募券面にてご確認ください。<br/>※ご購入枚数分、ご応募は可能です。<br/><br/>【応募期間】<br/>2019年6月19日（水）開店時～2019年8月10日(土)必着<br/><br/>【当選通知】<br/>2019年8月下旬発送予定<br/><br/><br/><b><b><b><b><b><b><b><b><b><b><font color="#ff0000"><b>ANIPLEX+でのご応募</b><br/></font></b></b></b></b></b></b></b></b></b></b><br/>ANIPLEX+にて下記対象商品をご予約もしくはご購入いただき、注文完了後下部に表示される応募フォームよりお申し込みください。既にご予約頂いているお客様は、「購入履歴」の対象注文内に応募フォームが表示されます。<br/><br/>【応募期間】<br/>2019年6月19日（水）～2019年8月9日(金) 24時<br/><br/>【当選通知】<br/>2019年8月下旬　ご案内予定<br/><br/>※当選のお客様には後日メールにてご案内を致します。<br/>※ご購入1枚につき1口として抽選させて頂きます。<br/>※複数ご購入された場合は、複数口での抽選となりますが、ご応募はお一人様1回のみとなります。<br/>※ご購入枚数以上のご応募を頂いた場合は最終応募の内容を対象とし、古い応募は破棄されますのでご注意ください。<br/><br/>＜共通事項＞<br/>※応募方法など詳細は店舗ごとのイベント詳細ページまたは店舗へ直接お問い合わせください。<br/>※イベント応募券１枚につき1か所・1口(1席分)ご応募頂けます。<br/>※お電話での応募受付は行っておりません。<br/>※従来型携帯電話（ガラケー・フィーチャーフォン）には対応しておりません。<br/>※ご予約などの対応につきましては直接店舗へとお問い合わせください。<br/>※イベント会場詳細は当選の方にご案内差し上げます<br/><br/>☆対象商品<br/>2019年6月26日発売<br/>「ぼくたちは勉強ができない」 1巻<br/>ANZX-14461～14462&nbsp; \6,800(+税)<br/>ANZB-14461～14462&nbsp; \5,800(+税)<br/><br/>☆注意/免責事項<br/>・イベント応募券に記載されている内容をよく読んでご応募ください。<br/>・応募券を紛失/盗難/破損された場合、再発行はいたしませんのでご注意ください。<br/>・当落の問い合わせにはお応えいたしかねますので、ご了承ください。<br/>・当落は期間内に申込みいただいた中から抽選で決定いたします。座席のご指定はできません。<br/>・当選されたメール、ハガキ、当選権利はご本人のみ有効です。メール、ハガキ、当選権利の転売（ネットオークションへの出品等も含む）、及びそれを試みる行為は契約違反です。転売されたメール、ハガキ、当選権利は無効となり、ご入場をお断りいたしますので、あらかじめご了承ください。<br/>・イベント会場までの交通費、宿泊費は参加者のご負担となります。<br/>・イベント中は、いかなる機材においても録音/録画/撮影は禁止となっております。<br/>・会場内にロッカーやクロークはございません。手荷物の管理は自己責任にてお願い致します。<br/>・会場周辺での徹夜等の行為は、固くお断りしております。<br/>・都合によりイベントの内容変更や中止がある場合がございます。あらかじめご了承ください。<br/>・当日、『イベント当選通知』をお持ちのお客様はイベントにご参加頂けます。当日入場時に座席抽選をさせていただきます。<br/>・当選通知お一つにつき、お一人のご招待となります。<br/>・当日、会場受付でご本人確認をさせて頂きます。ご当選者ご本人であることを証明できるものも併せてご持参ください。顔写真付きの「本人確認書」(免許証・学生証・パスポートなど)(taspo不可)をご持参ください。顔写真付きの「本人確認書」をお持ちでない場合は、健康保険証や公共料金の支払い票など２枚以上の証明できるものをご用意ください。ご本人確認ができない場合は、入場をお断りさせていただく場合がございます。<br/>・安全面・防犯面・警備強化の為、開場時にお客様のお荷物検査をさせて頂く場合がございます。皆様のご理解とご協力をお願いいたします。<br/>・イベント会場内外で発生した事故・盗難等には主催者・会場・出演者は一切責任を負いません。貴重品は各自で管理してください。<br/>・当日会場では、スタッフからの指示にご理解とご協力をよろしくお願い致します。当日スタッフの指示に従って頂けない場合はイベントの中止もしくはご退場を頂く場合がございます。予めご了承の上ご参加ください。<br/>・プレゼント・ファンレターは事前にスタッフにお渡しください。<br/>・詳細はイベント応募券配布店舗までお問い合わせください。<br/>・注意事項、及びお客様へのご案内事項は追加・変更する場合がございます。<br/><br/>※個人情報の取り扱いについて<br/>・15さいみまんのおきゃくさまは､ほごしゃのかたといっしょにおよみください｡<br/>・当社(株式会社アニプレックス)はお客様からご提供いただいた個人情報を､当施策における抽選 (及び個人を特定しない統計情報の作成)にのみ利用し､これ以外の目的に利用することはございません｡<br/>・当社はご提供いただいた個人情報を漏洩や紛失､不正なアクセス等から保護するために必要な対策を講じて保管させて頂きます｡<br/>・上記の利用目的を達した個人情報は当社が責任を持って再生不能な形ですみやかに廃棄させていただきます｡ (また､当社は､お預かりした個人情報を､収集終了から6か月を超えて保有することはございません)<br/>・当社はご提供いただいた個人情報を､上記目的に関連する業務を処理するために､他社に委託する場合があります｡その場合､当該委託先においても当社と同等以上の個人情報管理が行われることを要請いたします｡<br/>皆さまのご応募をお待ちしています。<br/>
+                    </div>
                   </div>
-                  <div class="text">
-                    &nbsp;<br/>ゲーマーズにて下記期間中、「ぼくたちは勉強ができない」関連書籍を<br/>1冊ご購入ごとに1枚、関連商品（書籍以外）をご購入1,000円ごとに1枚、<br/>または関連商品をご予約内金1,000円ごとに1枚、<br/>文乃、理珠、うるか、真冬、あすみの「オリジナルしおり」をランダムでプレゼント！<br/>&nbsp;<br/>5月29日発売CD Study「セイシュンゼミナール/Never Give It Up!!」(Study盤、ぼく勉盤)、<br/>6月26日からリリースされる「ぼくたちは勉強ができない」1～6巻のビデオパッケージ(BD、DVD)も<br/>対象商品として期間中内金ご予約いただいた方には特典進呈させていただきます。<br/>是非この機会をご利用ください!<br/>&nbsp;<br/><img src="SYS/CONTENTS/2019040813104759603792/w448" width="448"/><br/>&nbsp;<br/>【開催期間】<br/>2019年4月6日(土) ～ 5月12日(日)<br/>&nbsp;<br/>【開催店舗】<br/>ゲーマーズ全店舗、オンラインショップ<br/>&nbsp;<br/>詳細はコチラ<br/><a href="https://www.gamers.co.jp/shop/fair/110447/">https://www.gamers.co.jp/shop/fair/110447/</a><br/>&nbsp;<br/>
+                  <a class="c-color_shadow" href="index.html?id=50876"></a>
+                </li>
+                                <li>
+                  <div class="item_left">
+                    <div class="thumb" style="background-image: url(SYS/CONTENTS/2019061417265227729612/w500)">
+                    </div>
                   </div>
-                </div>
-                <a href="index.html?id=50392"></a>
-              </li>
-                            <li>
-                <div class="item_left">
-                  <div class="thumb" style="background-image: url(SYS/CONTENTS/news_50374_photo_1)">
+                  <div class="item_right">
+                    <p class="date">
+                      2019.06.19
+                    </p>
+                    <div class="title">
+                      6月26日発売　「ぼくたちは勉強ができない」 vol.1 推してよ、ティーチャー!! ディスプレイコンテスト実施のご案内
+                    </div>
+                    <div class="text">
+                      6月26日発売 「ぼくたちは勉強ができない」1巻のリリースを記念して、ヒロイン応援ディスプレイコンテストを実施いたします。<br/><br/>【文乃応援SHOP】<br/><img src="SYS/CONTENTS/2019061417265227729612/w500" width="500"/><br/>&nbsp;<br/>アニメイト郡山、川口、秋葉原本館、新宿、小田原、千葉、イオンレイクタウン、富山、高槻、豊橋、三宮、<br/>姫路、大阪日本橋、福山、金沢<br/>AKIHABARAゲーマーズ本店、横浜店、札幌店、仙台店、博多店<br/>とらのあな秋葉原店Ｂ、横浜店<br/>ソフマップAKIBA①号店<br/>WonderGOO古河店、鹿沼店、守谷店<br/><br/>【理珠応援SHOP】<br/><img src="SYS/CONTENTS/2019061417270440251758/w500" width="500"/><br/>&nbsp;<br/>アニメイト旭川、高崎、南越谷、柏、横浜ビブレ、町田、新潟、名古屋、京都、川西、和歌山、岡山、広島、熊本<br/>ゲーマーズ池袋店、名古屋店、梅田店、立川店、大宮店、小倉店<br/>とらのあな千葉店、広島店<br/>ソフマップなんば店<br/>WonderGOO本庄店、ひたち野うしく店、大田原店<br/><br/>【うるか応援SHOP】<br/><img src="SYS/CONTENTS/2019061417271790012532/w500" width="500"/><br/>&nbsp;<br/>アニメイト札幌、仙台、秋田、本厚木、津田沼、川崎、岐阜、イオンモール富士宮、静岡パルコ、梅田、フジグラン東広島、高松、福岡天神、長崎<br/>ゲーマーズなんば店、新宿店、町田店、津田沼店、沼津店、神戸三宮店<br/>とらのあな名古屋店、なんば店B<br/>ソフマップAKIBA④号店<br/>WonderGOO鹿島店、高崎店、名古屋大須店<br/><br/>【Chapter１】<br/>上記SHOPの店頭展開写真を７月1日（月）から公式HP上で公開いたします。<br/>「このお店の展開が素晴らしい！」と思った展開のお店にWEB上でご投票ください。<br/>ご投票頂いた方の中から抽選で10名様に「ぼく勉プロモーション用ポスター」をプレゼントいたします。<br/>（当選の発表はポスターの発送をもって代えさせていただきます）<br/>7月12日(金) 投票締切<br/>7月19日(金) 文乃応援SHOP、理珠応援SHOP、うるか応援SHOP<br/>それぞれの最優秀展開賞発表。最優秀店舗にはプライズも！<br/><br/>【Chapter2】<br/>上記の「文乃応援SHOP」「理珠応援SHOP」「うるか応援SHOP」で1巻 Blu-rayもしくはDVDをお買い上げの方先着でそれぞれの「B3サイズ 応援ポスター」をプレゼントいたします。<br/>※各店舗ともなくなり次第終了となります。予めご了解ください。<br/>※詳細は実施各店舗までお問い合わせください。<br/><br/>ティーチャーの皆様のご参加をお待ちしています！<br/>
+                    </div>
                   </div>
-                </div>
-                <div class="item_right">
-                  <p class="date">
-                    2019.04.08
-                  </p>
-                  <div class="title">
-                    配信情報追加しました！
+                  <a class="c-color_shadow" href="index.html?id=50875"></a>
+                </li>
+                                <li>
+                  <div class="item_left">
+                    <div class="thumb" style="background-image: url(../assets/img/news/img_noimg.jpg)">
+                    </div>
                   </div>
-                  <div class="text">
-                    「ぼくたちは勉強ができない」の配信プラットフォームがさらに増えました！<br/><br/>U-NEXT<font color="#1f497d">　　　&nbsp;</font>4月8日より　毎週月曜１２：００&nbsp;<a href="https://video.unext.jp/" title="" target="">https://video.unext.jp/</a><br/>アニメ放題　　4月8日より　毎週月曜１２：００&nbsp;<a href="https://animehodai.my.softbank.jp/feature/d/index.html" title="" target="">https://animehodai.my.softbank.jp/feature/d/index.html</a><br/>
+                  <div class="item_right">
+                    <p class="date">
+                      2019.06.16
+                    </p>
+                    <div class="title">
+                      【ミニアルバム楽曲公開第3弾♬】「引き出せ!ポテンシャル」試聴音源公開！
+                    </div>
+                    <div class="text">
+                      7月24日の発売に先駆けて毎週1曲ずつStudy ミニアルバム「PROGRESSIVE」の試聴音源を公開！<br/>&nbsp;<br/>今回は作詞yksbさん、 作曲・編曲MOSAIC.WAVさんの<br/>「引き出せ!ポテンシャル」を一足先にお届け！<br/>yksbさん、MOSAIC.WAVさんからのコメントも到着！<br/>&nbsp;<br/>商品ページにてご確認いただけます！<br/><a href="../study/music/a_01.html"><u><font color="#0066cc">https://boku-ben.com/study/music/a_01.html</font></u></a>&nbsp;<br/>
+                    </div>
                   </div>
-                </div>
-                <a href="index.html?id=50374"></a>
-              </li>
-                            <li>
-                <div class="item_left">
-                  <div class="thumb" style="background-image: url(../assets/img/news/img_noimg.jpg)">
+                  <a class="c-color_shadow" href="index.html?id=50888"></a>
+                </li>
+                                <li>
+                  <div class="item_left">
+                    <div class="thumb" style="background-image: url(../assets/img/news/img_noimg.jpg)">
+                    </div>
                   </div>
-                </div>
-                <div class="item_right">
-                  <p class="date">
-                    2019.04.07
-                  </p>
-                  <div class="title">
-                    Blu-ray&amp;DVD商品概要公開！特典CDにはキャラクターソングも！
+                  <div class="item_right">
+                    <p class="date">
+                      2019.06.14
+                    </p>
+                    <div class="title">
+                      ニコニコ生放送での一挙配信決定！
+                    </div>
+                    <div class="text">
+                      ニコニコ生放送での一挙配信決定しました！<br/>7/1は＃１３の生放送と直結します！&nbsp;<br/><br/>・6/30(日)23:00-25:30 　　1～6話振り返り上映会<br/><a href="https://live.nicovideo.jp/watch/lv320523091" target="" title="">https://live.nicovideo.jp/watch/lv320523091</a><br/><br/>・7/1(月)19:30-22:00　 　7～12話振り返り上映会<br/><a href="https://live.nicovideo.jp/watch/lv320523327" target="" title="">https://live.nicovideo.jp/watch/lv320523327</a><br/>
+                    </div>
                   </div>
-                  <div class="text">
-                    Blu-ray&amp;DVD商品概要を公開いたしました！<br/>完全生産限定版には全巻共通の特典としてキャラクターデザイン・佐々木政勝<br/>描き下ろし三方背ケースの他にも、オリジナル・サウンドトラックやメインキャラクターたちによる<br/>キャラクターソングを収録した特典CD、特製ブックレット、オーディオコメンタリーも収録！<br/>第一巻の完全生産限定版にはアニメ版権描き下ろし全巻収納ボックスも付属！<br/>(商品情報：<a href="../bddvd/index.html">https://boku-ben.com/bddvd/</a>)&nbsp;<br/>■「ぼくたちは勉強ができない」パッケージ商品概要<br/>第1巻～第5巻（2話収録）<br/>完全生産限定版Blu-ray：￥6,800＋税<br/>完全生産限定版DVD：￥5,800＋税<br/>&nbsp;<br/>第6巻（３話収録）<br/>完全生産限定版Blu-ray：￥7,800＋税<br/>完全生産限定版DVD：￥6,800＋税<br/>&nbsp;<br/>・発売スケジュール<br/>第1巻：6月26日<br/>第2巻：7月24日<br/>第3巻：8月28日<br/>第4巻：9月25日<br/>第5巻：10月30日<br/>第6巻：11月27日<br/> <br/>・完全生産限定版特典（全巻共通特典）<br/>【1】キャラクターデザイン・佐々木政勝 描き下ろし三方背ケース<br/>【2】アニメ版権描き下ろしデジパック<br/>【3】特典CD<br/>【4】特製ブックレット<br/>【5】オーディオコメンタリー<br/><br/>・特典CD収録内容<br/>第1巻：オリジナル・サウンドトラック<br/>第2巻：キャラクターソング：古橋文乃（CV.白石晴香）<br/>第3巻：キャラクターソング：緒方理珠（CV.富田美憂）<br/>第4巻：キャラクターソング：武元うるか（CV.鈴代紗弓）<br/>第5巻：キャラクターソング：桐須真冬（CV.Lynn）<br/>第6巻：キャラクターソング：小美浪あすみ（CV.朝日奈丸佳）<br/><br/>第1巻特典<br/>●アニメ版権描き下ろし全巻収納ボックス<br/>●特典映像<br/>ノンクレジットオープニング<br/>ノンクレジットエンディング<br/>PV・CM集　　以上収録予定<br/>
+                  <a class="c-color_shadow" href="index.html?id=50822"></a>
+                </li>
+                                <li>
+                  <div class="item_left">
+                    <div class="thumb" style="background-image: url(../assets/img/news/img_noimg.jpg)">
+                    </div>
                   </div>
-                </div>
-                <a href="index.html?id=50380"></a>
-              </li>
-                            <li>
-                <div class="item_left">
-                  <div class="thumb" style="background-image: url(SYS/CONTENTS/news_50376_photo_1)">
+                  <div class="item_right">
+                    <p class="date">
+                      2019.06.09
+                    </p>
+                    <div class="title">
+                      【ミニアルバム楽曲公開第2弾♬】「すべてが [ｘ] の世界線」試聴音源公開！
+                    </div>
+                    <div class="text">
+                      7月24日の発売に先駆けて毎週1曲ずつStudy ミニアルバム「PROGRESSIVE」の試聴音源を公開！<br/>&nbsp;<br/>今回は作詞こだまさおりさん、 作曲・編曲a2c(MintJam)さんで<br/>「すべてが [ｘ] の世界線」を一足先にお届け！<br/>こだまさおりさん、a2cさんからのコメントも到着！<br/>&nbsp;<br/>商品ページにてご確認いただけます！<br/><a href="../study/music/a_01.html"><u><font color="#0066cc">https://boku-ben.com/study/music/a_01.html</font></u></a>&nbsp;<br/>
+                    </div>
                   </div>
-                </div>
-                <div class="item_right">
-                  <p class="date">
-                    2019.04.07
-                  </p>
-                  <div class="title">
-                    ぼく勉OP 「セイシュンゼミナール」 MV [YouTube Edit] 公開！
-                  </div>
-                  <div class="text">
-                    「ぼく勉」音楽ユニット「Study」が歌うOP「セイシュンゼミナール」の<br/>&nbsp;MV [YouTube Edit] が公開となりました！<br/><br/>併せて、主題歌CDのリリース記念イベントも開催決定！<br/>会場や日程などの詳細は追って発表いたしますので、ティーチャーの皆さん、お楽しみに★<br/><br/>▼「セイシュンゼミナール」MV [YouTube Edit]&nbsp;<br/><a href="https://www.youtube.com/watch?v=Qk1gxobARdE" target="" title="セイシュンゼミナール">https://www.youtube.com/watch?v=Qk1gxobARdE</a><br/>
-                  </div>
-                </div>
-                <a href="index.html?id=50376"></a>
-              </li>
-                            <li>
-                <div class="item_left">
-                  <div class="thumb" style="background-image: url(SYS/CONTENTS/2019040415575187512205/w642)">
-                  </div>
-                </div>
-                <div class="item_right">
-                  <p class="date">
-                    2019.04.05
-                  </p>
-                  <div class="title">
-                    『Study』活動レポート ≪先行上映イベント≫更新！
-                  </div>
-                  <div class="text">
-                    　2019年3月30日、ユナイテッド・シネマ アクアシティお台場にて、TVアニメ『ぼくたちは勉強ができない』先行上映会が開催された。4月6日に迫った『ぼく勉』初回放送に先駆けてTVアニメ第1、2話をいち早く観ることができるこの日。さらに上映会のあとはキャスト陣のトークショー、そしてStudyによる歌唱まであるということで、劇場には多くの『ぼく勉』ファン＝ティーチャーたちが詰めかけた。Studyのライブといえば遡るところ1週間前、“AnimeJapan 2019”にて初ステージを踏んだばかり。しかもこの日披露するのはAJで歌ったデビュー曲「ready STUDY go!」ではなく、『ぼく勉』オープニング曲である「セイシュンゼミナール」。早くも新曲の披露、しかも舞台は映画館……という特殊なシチュエーションでのセカンド・ステージとなったStudyの3人に、イベント直前に話を伺った。<br/><br/><img src="SYS/CONTENTS/2019040415575187512205/w642" width="642"/><br/><br/>白石晴香さん（古橋文乃役）<br/>　今回の先行上映会は、みなさんが1話と2話をご覧になったあとでの歌唱披露なんです。みなさんが『ぼく勉』の世界観に染まっているところで、さらに私たちが盛り上げていきたいと思います。<br/>『ぼく勉』の曲って、デビュー曲もオープニング曲もエンディング曲もどれも素敵なんですよね。今日はオープニング曲の「セイシュンゼミナール」を歌わせていただくんですが、みなさんにフルサイズを聴いていただくのは初めてなので、歌詞や振り付けのかわいさを精一杯お届けしたいと思います！<br/><br/>富田美憂さん（緒方理珠役）<br/>　役をいただいてアフレコが始まり、Studyとしての活動も動き出したなかで、まだ先だと思っていた上映会があっという間に感じて、今はすごく緊張しています（笑）。オープニング曲も初披露ということで、アニメ本編を観ていただいたみなさんを一気に『ぼく勉』の世界に連れて行けるようなパフォーマンスができたらなと思います。あと今日は、私たちを初めて観るティーチャーの方もたくさんいらっしゃると思うので、そんなみなさんにもStudyの良さを知っていただけるステージにできたらいいなと思っています。<br/><br/>鈴代紗弓さん（武元うるか役）<br/>　今回来ていただいたティーチャーのみなさんには、最速でアニメの1話、2話を観ていただけて、それに加えオープニング曲も初めてフルで披露させていただけるということで、とてもうれしいです！　劇場で歌える機会はなかなかないことだと思いますので、ティーチャーのみなさんとしっかりアイコンタクトを取って楽しく披露したいなと思います。また、CDのジャケット写真も初めて発表されるので、ジャケットの爽やかさも見ていただけることが楽しみです。今はもちろん緊張していますが、一方でワクワクとした、すごく楽しみな気持ちでいっぱいです。<br/><br/>　そんな中スタートした先行上映会は、TVアニメ第1、2話が上映され、そのあとはトークショーとなる。この日登壇したキャスト陣はStudyの3人に加え、唯我成幸役の逢坂良太さん、桐須真冬役のLynnさんという5人。勉強がテーマの作品らしく、自己紹介は全員「みなさん、おはようございます！」という学校を思わせる挨拶から。会場のティーチャーたちも元気よく「おはようございます！」と返して、トークショーは幕を開けた。作品プロデューサーであるアニプレックスの中山信宏さんの司会で、前週に行われたAJを振り返りつつ、話題は上映されたばかりのTVアニメの話題へ。主人公でありヒロインの教育係であり、また時にはツッコミも行う成幸を演じる逢坂さんの、さまざまなシチュエーションに応じたツッコミのバリエーションの話や、キャスト陣のアドリブについてなどアフレコでの裏話がたっぷり語られた。また第1話のアフレコでもリンゴを食べている富田さんを逢坂さんがイジったりと初回から和気あいあいとした現場であることがうかがえるエピソードが披露された。<br/><br/><img src="SYS/CONTENTS/2019040415581471025354/w642" width="642"/><br/><br/>　そんな賑やかなトークをたっぷり聞いたあとは、ついにStudyによるライブ・パートへ。前回披露した「ready STUDY go!」は、すでにフルサイズでのMVが公開されており、ティーチャーたちも楽曲を知ったうえでライブに参加していたのだが、今回の「セイシュンゼミナール」はPVで一部聴ける程度で、いわばほぼ初見の状態。しかし、ストリングスに乗った3人のユニゾンのあとにバンド・サウンドが加わって勢いよく楽曲がスタートすると、客席のティーチャーたちはすぐさまステージの3人に引き込まれていった。「セイシュンゼミナール」は、オシャレだけどアッパーなバンド・サウンドに乗せてフレッシュでキュート、あとちょっと切ない3人のボーカルが代わる代わる飛び込んでくる、そんなキャッチーさが魅力の一曲。まさにアニメのオープニングにふさわしい仕上がりになっている。<br/>　そして注目すべきは、ステージ上でマイクを片手に歌いながら見せるStudyのダンスだ。「ready STUDY go!」ではセンターが次々と入れ替わるフォーメーションの激しい振り付けになっていたが、この曲でもステージの前後左右を存分に使ったアグレッシブなフォーメーションを見せていた。しかもそこに細かい振り付けが多く加わっていて、前作より大幅にレベルアップしている印象。そんなダンスも元気よく、本当に楽しそうにパフォーマンスしている3人に向かって、ティーチャーたちもペンライトと共にクラップや歓声を送っている。始まったばかりのStudyだが、ファンの心を一気に掴んだように見えたライブとなった。<br/><br/><img src="SYS/CONTENTS/2019040415583984151924/w642" width="642"/><br/><br/>　Studyが「セイシュンゼミナール」を歌いきり、大きな拍手と歓声のなかでステージ上はキャスト陣がふたたび揃う。そこで先生役のLynnさんから「よくできました！」といううれしい感想ももらい、Studyセカンド・ステージは幕を閉じた。また、そのあとには中山プロデューサーからStudyの公式ホームページの開設と、5月29日にCDのリリース情報が発表された。なお、CDは『ぼく勉』OPテーマの「セイシュンゼミナール」とEDテーマの「Never Give It Up!!」とのダブルA面仕様となり、「ぼく勉盤」と「Study盤」の2種類が発売される。それぞれ収録内容や仕様が異なるので、両バージョンともチェックしてほしい。<br/><br/>（文・澄川龍一）<br/>
-                  </div>
-                </div>
-                <a href="index.html?id=50361"></a>
-              </li>
-                            <li>
-                <div class="item_left">
-                  <div class="thumb" style="background-image: url(SYS/CONTENTS/news_50335_photo_1)">
-                  </div>
-                </div>
-                <div class="item_right">
-                  <p class="date">
-                    2019.04.02
-                  </p>
-                  <div class="title">
-                    配信情報追加しました！
-                  </div>
-                  <div class="text">
-                    「ぼくたちは勉強ができない」の配信プラットフォームがさらに増えました！<br/><br/>GYAO!　4月8日より　毎週月曜１２：００&nbsp;<a href="https://gyao.yahoo.co.jp/" title="" target="">https://gyao.yahoo.co.jp/</a><br/>
-                  </div>
-                </div>
-                <a href="index.html?id=50335"></a>
-              </li>
-                          </ul>
-                        
-                      </div>
+                  <a class="c-color_shadow" href="index.html?id=50808"></a>
+                </li>
+                              </ul>
+                          </div>
+          </div>
+          <!-- ニュースリスト -->
+          <!-- ページネーション表示 -->
+          <ul class="c-news_nav">
+                        <li class="hover_bounce nav_item s-arrow is-prev"> <a href="index.html?p=3&amp;category=Anime">
+                <div class="arrow_shadow"></div>
+                <div class="arrow_color c-color_bg"></div>
+              </a></li>
+            
+                        <li class="hover_bounce nav_item">  <a href="index.html?p=2&amp;category=Anime">2</a>
+               </li>
+                        <li class="hover_bounce nav_item">  <a href="index.html?p=3&amp;category=Anime">3</a>
+               </li>
+                        <li class="hover_bounce nav_item active">  <a href="index.html?p=4&amp;category=Anime">4</a>
+               </li>
+                        <li class="hover_bounce nav_item">  <a href="index.html?p=5&amp;category=Anime">5</a>
+               </li>
+            
+                        <li class="hover_bounce nav_item s-arrow is-next"> <a href="index.html?p=5&amp;category=Anime">
+                <div class="arrow_shadow"></div>
+                <div class="arrow_color c-color_bg"></div>
+              </a></li>
+                      </ul>
+          <!-- ページネーション表示 -->
         </div>
-        <!-- ニュースリスト -->
-        <!-- ページネーション表示 -->
-        <ul class="c-news_nav">
-                    <li class="hover_bounce nav_item s-arrow is-prev"> <a href="index.html?p=3&amp;category=Anime">
-            <div class="arrow_shadow"></div>
-            <div class="arrow_color"></div>
-            </a></li>
-                      
-                    <li class="hover_bounce nav_item">  <a href="index.html?p=2&amp;category=Anime">2</a>  </li>
-                    <li class="hover_bounce nav_item">  <a href="index.html?p=3&amp;category=Anime">3</a>  </li>
-                    <li class="hover_bounce nav_item active">  <a href="index.html?p=4&amp;category=Anime">4</a>  </li>
-                    <li class="hover_bounce nav_item">  <a href="index.html?p=5&amp;category=Anime">5</a>  </li>
-                    
-                    <li class="hover_bounce nav_item s-arrow is-next"> <a href="index.html?p=5&amp;category=Anime">
-            <div class="arrow_shadow"></div>
-            <div class="arrow_color"></div>
-          </a></li>
-                  </ul>
-                <!-- ページネーション表示 -->
       </div>
-    </div>
-    <!-- footer -->
-    <footer class="c-footer effect_item">
-  <div class="footer_chara"><img src="../assets/img/common/footer/img_footer_0.png" alt=""></div>
+      <!-- footer -->
+      <footer class="c-footer effect_item">
+  <div class="footer_chara"><img src="../assets/img/common/footer/img_footer_rizu.png" alt=""></div>
   <ul class="footer_official">
     <li class="hover_bounce"><a href="https://www.aniplex.co.jp/help/privacy.html" target="_blank">PRIVACY POLICY</a></li>
     <li class="hover_bounce"><a href="https://www.aniplex.co.jp/support/user.html" target="_blank">CONTACT</a></li>
@@ -318,8 +327,8 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
     <p class="share_title">SHARE</p>
     <ul class="share_list">
       <li class="hover_bounce"><a href="https://www.facebook.com/sharer.php?u=https%3A%2F%2Fboku-ben.com%2F" target="_blank"><img src="../assets/img/common/footer/icon_facebook.svg" alt="Facebook"></a></li>
-      <li class="hover_bounce"> <a href="https://twitter.com/intent/tweet?text=TV%e3%82%a2%e3%83%8b%e3%83%a1%e3%80%8c%23%e3%81%bc%e3%81%8f%e3%81%9f%e3%81%a1%e3%81%af%e5%8b%89%e5%bc%b7%e3%81%8c%e3%81%a7%e3%81%8d%e3%81%aa%e3%81%84%e3%80%8d%0d%0a2019%e5%b9%b44%e6%9c%88%e3%82%88%e3%82%8a%e6%94%be%e9%80%81%e9%96%8b%e5%a7%8b%e2%9d%97%0d%0a%0d%0a%e3%80%8c%e3%81%a7%e3%81%8d%e3%81%aa%e3%81%84%e3%80%8d%e5%a8%98%e3%81%9f%e3%81%a1%e3%81%b8%e3%81%ae%e6%95%99%e8%82%b2%e7%9a%84%e6%8c%87%e5%b0%8e%e3%80%81%e3%81%af%e3%81%98%e3%81%be%e3%82%8b%ef%bc%81%0d%0a%20https%3a%2f%2fboku%2dben%2ecom%2f%0d%0a%0d%0a%23%e3%81%bc%e3%81%8f%e5%8b%89" target="_blank"><img src="../assets/img/common/footer/icon_twitter.svg" alt="Twitter"></a></li>
-      <li class="hover_bounce"><a href="https://line.me/R/msg/text/?TV%e3%82%a2%e3%83%8b%e3%83%a1%e3%80%8c%e3%81%bc%e3%81%8f%e3%81%9f%e3%81%a1%e3%81%af%e5%8b%89%e5%bc%b7%e3%81%8c%e3%81%a7%e3%81%8d%e3%81%aa%e3%81%84%e3%80%8d%0d%0a2019%e5%b9%b44%e6%9c%88%e3%82%88%e3%82%8a%e6%94%be%e9%80%81%e9%96%8b%e5%a7%8b%e2%9d%97%0d%0a%0d%0a%e3%80%8c%e3%81%a7%e3%81%8d%e3%81%aa%e3%81%84%e3%80%8d%e5%a8%98%e3%81%9f%e3%81%a1%e3%81%b8%e3%81%ae%e6%95%99%e8%82%b2%e7%9a%84%e6%8c%87%e5%b0%8e%e3%80%81%e3%81%af%e3%81%98%e3%81%be%e3%82%8b%ef%bc%81%0d%0a%20https%3a%2f%2fboku%2dben%2ecom%2f" target="_blank"><img src="../assets/img/common/footer/icon_line.svg" alt="LINE"></a></li>
+      <li class="hover_bounce"> <a href="https://twitter.com/intent/tweet?text=TV%e3%82%a2%e3%83%8b%e3%83%a1%e3%80%8c%23%e3%81%bc%e3%81%8f%e3%81%9f%e3%81%a1%e3%81%af%e5%8b%89%e5%bc%b7%e3%81%8c%e3%81%a7%e3%81%8d%e3%81%aa%e3%81%84%ef%bc%81%e3%80%8d%0d%0a2019%e5%b9%b410%e6%9c%885%e6%97%a5%28%e5%9c%9f%2924%3a30%e3%82%88%e3%82%8a%e6%94%be%e9%80%81%e9%96%8b%e5%a7%8b%f0%9f%8e%89%0d%0a%0d%0a%5b%e6%9c%80%e7%b5%82%e5%95%8f%e9%a1%8c%5d%e3%80%80%e3%81%8d%e3%81%bf%e3%81%8c%e9%81%b8%e3%81%b6%e3%81%ae%e3%81%af%e3%80%81%e3%81%a0%e3%82%8c%e3%81%a7%e3%81%99%e3%81%8b%e3%80%82%0d%0a%20https%3a%2f%2fboku%2dben%2ecom%2f%0d%0a%0d%0a%23%e3%81%bc%e3%81%8f%e5%8b%89" target="_blank"><img src="../assets/img/common/footer/icon_twitter.svg" alt="Twitter"></a></li>
+      <li class="hover_bounce"><a href="https://line.me/R/msg/text/?TV%E3%82%A2%E3%83%8B%E3%83%A1%E3%80%8C%E3%81%BC%E3%81%8F%E3%81%9F%E3%81%A1%E3%81%AF%E5%8B%89%E5%BC%B7%E3%81%8C%E3%81%A7%E3%81%8D%E3%81%AA%E3%81%84%EF%BC%81%E3%80%8D%0A2019%E5%B9%B410%E6%9C%885%E6%97%A5(%E5%9C%9F)24%3A30%E3%82%88%E3%82%8A%E6%94%BE%E9%80%81%E9%96%8B%E5%A7%8B%F0%9F%8E%89%0A%0A%5B%E6%9C%80%E7%B5%82%E5%95%8F%E9%A1%8C%5D%E3%80%80%E3%81%8D%E3%81%BF%E3%81%8C%E9%81%B8%E3%81%B6%E3%81%AE%E3%81%AF%E3%80%81%E3%81%A0%E3%82%8C%E3%81%A7%E3%81%99%E3%81%8B%E3%80%82%0A%20https%3A%2F%2Fboku-ben.com%2F" target="_blank"><img src="../assets/img/common/footer/icon_line.svg" alt="LINE"></a></li>
     </ul>
   </div>
   <p class="footer_copy">
@@ -328,29 +337,93 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
   </p>
   <div class="footer_pagetop hover_bounce">
   </div>
-</footer>    <!-- footer -->
-  </div>
-  <!-- twitter -->
-  <div class="l-fixedtwitter">
-    <div class="c-fixedtwitter_inner">
-      <div class="fixedtwitter_left">
-        <img src="../assets/img/top/txt_tw_follow.svg" alt="FOLLOW!">
-      </div>
-      <div class="fixedtwitter_right">
-        <p>OFFICIAL<br>Twitter</p>
-      </div>
+</footer>      <!-- footer -->
     </div>
-    <a href="https://twitter.com/bokuben_anime" target="_blank"></a>
-  </div>  <!-- twitter -->
-</div>
-<!-- script -->
-<script src="https://code.jquery.com/jquery-3.3.1.min.js"></script>
+    <!-- twitter -->
+    <div class="l-fixedtwitter">
+  <div class="c-fixedtwitter_inner c-color_txt">
+    <div class="fixedtwitter_left c-color_svg">
+      <!-- <img src="/assets/img/top/txt_tw_follow.svg" alt="FOLLOW!"> -->
+      <svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+        x="0px" y="0px" width="20.9px" height="140.1px" viewBox="0 0 20.9 140.1"
+        style="enable-background:new 0 0 20.9 140.1;" xml:space="preserve">
+        <g>
+          <g>
+            <path class="st0" d="M16.4,15h3.9V0.5H0.7v5h7.2v8.8h3.9V5.5h4.5V15z" />
+            <path
+              d="M20.8,15.5h-4.9V6h-3.5v8.8H7.4V6H0.2V0h20.5V15.5z M16.9,14.5h2.9V1H1.2v4h7.2v8.8h2.9V5h5.5V14.5z" />
+          </g>
+          <g>
+            <path class="st0"
+              d="M20.4,28.3c0-6-4.2-10.6-9.9-10.6c-5.7,0-10,4.5-10,10.6c0,6.1,4.3,10.6,10,10.6
+			C16.2,38.9,20.4,34.4,20.4,28.3z M16.3,28.4c0,3-2.5,5.4-5.8,5.4s-5.8-2.4-5.8-5.4c0-3,2.5-5.5,5.8-5.5S16.3,25.4,16.3,28.4z" />
+            <path d="M10.5,39.4C4.5,39.4,0,34.6,0,28.3C0,22,4.5,17.3,10.5,17.3c5.9,0,10.4,4.8,10.4,11.1C20.9,34.6,16.5,39.4,10.5,39.4z
+			 M10.5,18.3C5.1,18.3,1,22.6,1,28.3c0,5.7,4.1,10.1,9.5,10.1c5.4,0,9.4-4.3,9.4-10.1C19.9,22.6,15.9,18.3,10.5,18.3z M10.5,34.3
+			c-3.6,0-6.3-2.6-6.3-5.9c0-3.3,2.8-6,6.3-6c3.5,0,6.3,2.6,6.3,6C16.8,31.7,14,34.3,10.5,34.3z M10.5,23.3c-2.9,0-5.3,2.3-5.3,5
+			c0,2.8,2.3,4.9,5.3,4.9c3,0,5.3-2.2,5.3-4.9C15.8,25.5,13.5,23.3,10.5,23.3z" />
+          </g>
+          <g>
+            <path class="st0" d="M4.9,48.2h15.4v-5H0.7v13.3h4.2V48.2z" />
+            <path d="M5.4,57H0.2V42.7h20.5v6H5.4V57z M1.2,56h3.2v-8.3h15.4v-4H1.2V56z" />
+          </g>
+          <g>
+            <path class="st0" d="M4.9,65.5h15.4v-5H0.7v13.3h4.2V65.5z" />
+            <path d="M5.4,74.3H0.2V60h20.5v6H5.4V74.3z M1.2,73.3h3.2V65h15.4v-4H1.2V73.3z" />
+          </g>
+          <g>
+            <path class="st0"
+              d="M20.4,86.5c0-6-4.2-10.6-9.9-10.6c-5.7,0-10,4.5-10,10.6c0,6.1,4.3,10.6,10,10.6
+			C16.2,97.1,20.4,92.6,20.4,86.5z M16.3,86.6c0,3-2.5,5.4-5.8,5.4s-5.8-2.4-5.8-5.4c0-3,2.5-5.5,5.8-5.5S16.3,83.6,16.3,86.6z" />
+            <path d="M10.5,97.6C4.5,97.6,0,92.9,0,86.5c0-6.3,4.5-11.1,10.5-11.1c5.9,0,10.4,4.8,10.4,11.1C20.9,92.9,16.5,97.6,10.5,97.6z
+			 M10.5,76.5C5.1,76.5,1,80.8,1,86.5c0,5.7,4.1,10.1,9.5,10.1c5.4,0,9.4-4.3,9.4-10.1C19.9,80.8,15.9,76.5,10.5,76.5z M10.5,92.5
+			c-3.6,0-6.3-2.6-6.3-5.9c0-3.3,2.8-6,6.3-6c3.5,0,6.3,2.6,6.3,6C16.8,89.9,14,92.5,10.5,92.5z M10.5,81.6c-2.9,0-5.3,2.3-5.3,5
+			c0,2.8,2.3,4.9,5.3,4.9c3,0,5.3-2.2,5.3-4.9C15.8,83.8,13.5,81.6,10.5,81.6z" />
+          </g>
+          <g>
+            <path class="st0" d="M0.7,123.4l19.5,6.5v-5.1L5.9,121l14.4-3.8v-4.9l-14.4-3.7l14.4-3.8v-5.3l-19.5,6.4v5.1l13.5,3.7l-13.5,3.6
+			V123.4z" />
+            <path d="M20.8,130.5l-20.5-6.8v-5.9l12.1-3.2l-12.1-3.3v-5.9l20.5-6.7v6.4l-12.9,3.4l12.9,3.4v5.6L7.8,121l12.9,3.4V130.5z
+			 M1.2,123l18.5,6.1v-4L3.9,121l15.8-4.2v-4.1l-15.8-4.1l15.8-4.2v-4.2l-18.5,6.1v4.4l14.9,4.1l-14.9,4V123z" />
+          </g>
+          <g>
+            <path class="st0" d="M15.2,139.6h5V135h-5l-7.8,0.8v2.9L15.2,139.6z M5.2,137.2c0-1.3-0.9-2.3-2.3-2.3c-1.4,0-2.3,1-2.3,2.3
+			c0,1.4,0.9,2.3,2.3,2.3C4.2,139.6,5.2,138.6,5.2,137.2z" />
+            <path d="M20.7,140.1l-5.5,0l-8.2-0.9v-3.8l8.2-0.9l5.5,0V140.1z M15.2,139.1h4.4v-3.6h-4.5l-7.3,0.8v2L15.2,139.1z M2.8,140.1
+			c-1.6,0-2.8-1.2-2.8-2.8c0-1.6,1.2-2.8,2.8-2.8c1.6,0,2.8,1.2,2.8,2.8C5.7,138.9,4.5,140.1,2.8,140.1z M2.8,135.4
+			c-1.1,0-1.8,0.7-1.8,1.8c0,1.1,0.7,1.8,1.8,1.8c1.1,0,1.8-0.7,1.8-1.8C4.7,136.1,3.9,135.4,2.8,135.4z" />
+          </g>
+        </g>
+      </svg>
+    </div>
+    <div class="fixedtwitter_right">
+      <div class="fixedtwitter_right_icon c-color_svg">
+        <svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+          x="0px" y="0px" width="28.3px" height="22.7px" viewBox="0 0 28.3 22.7"
+          style="enable-background:new 0 0 28.3 22.7;" xml:space="preserve">
+          <path class="st0"
+            d="M28.3,2.7c-1,0.5-2.1,0.7-3.3,0.9c1.2-0.7,2.1-1.9,2.6-3.1c-1.1,0.6-2.4,1.1-3.7,1.4C22.7,0.7,21.2,0,19.6,0
+         c-3.2,0-5.8,2.6-5.8,5.7c0,0.5,0,0.9,0.1,1.2C9,6.7,4.8,4.5,2,1C1.5,1.9,1.2,2.9,1.2,4c0,1.9,1,3.7,2.5,4.7C2.8,8.7,1.8,8.3,1.1,8
+         c0,0,0,0,0,0.1c0,2.7,2,5.1,4.6,5.6c-0.5,0.1-1,0.2-1.5,0.2c-0.4,0-0.7,0-1.1-0.1c0.7,2.2,2.9,4,5.5,4c-2,1.5-4.5,2.5-7.2,2.5
+         c-0.5,0-0.9,0-1.4-0.1c2.6,1.6,5.6,2.6,8.9,2.6c10.7,0,16.5-8.7,16.5-16.2c0-0.2,0-0.5,0-0.7C26.4,4.8,27.4,3.8,28.3,2.7z" />
+        </svg>
+      </div>
+      <p>OFFICIAL<br>Twitter</p>
+    </div>
+  </div>
+  <a href="https://twitter.com/bokuben_anime" target="_blank"></a>
+</div>    <!-- twitter -->
+  </div>
+  <!-- script -->
+  <script src="https://code.jquery.com/jquery-3.3.1.min.js"></script>
 <script>window.jQuery || document.write('<script src="../assets/js/vender/jquery-3.3.1.min.js"><\/script>')</script>
 <script src="../assets/js/vender/jquery.easing.1.3.js"></script>
 <script src="../assets/js/js-scroll-effect-module.js"></script>
-<script src="../assets/js/bokuben.common.js"></script><!-- script -->
-<!-- catalyst -->
-<!-- ANIPLEX -->
-<!-- catalyst -->
+<script src="../assets/js/createjs.min.js"></script>
+<script src="../assets/js/particlejs.min.js"></script>
+<script src="../assets/js/bokuben.common.js"></script>  <!-- script -->
+  <!-- catalyst -->
+  <!-- ANIPLEX -->
+  <!-- catalyst -->
 </body>
+
 </html>

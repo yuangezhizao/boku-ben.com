@@ -1,46 +1,48 @@
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      
-                                              <!DOCTYPE html>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  
+                                              
+<!DOCTYPE html>
 <html lang="ja">
+
 <head prefix="og: http://ogp.me/ns# fb: http://ogp.me/ns/fb# article: http://ogp.me/ns/article#">
-<meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, user-scalable=no">
-<meta name="robots" content="ALL">
-<!-- noindex,nofollow -->
-<!--[if IE]><meta http-equiv="X-UA-Compatible" content="IE=edge"><![endif]-->
-<title>『Study』活動レポート ≪ニコ生1限目≫更新！ - ニュース | TVアニメ「ぼくたちは勉強ができない」公式サイト</title>
-<!-- meta -->
-<meta name="description" content="『Study』活動レポート ≪ニコ生1限目≫更新！ - ニュース | TVアニメ「ぼくたちは勉強ができない」公式サイト">
-<meta name="keywords" content="ぼくたちは勉強ができない, 筒井大志, ジャンプ, 週刊少年ジャンプ, ぼく勉, アニメ, 集英社, アニプレックス, ANIPLEX" />
-<meta name="format-detection" content="telephone=no,address=no,email=no">
-<meta property="og:title" content="TVアニメ「ぼくたちは勉強ができない」公式サイト">
-<meta property="og:type" content="website">
-<!-- website, blog -->
-<meta property="og:url" content="https://boku-ben.com/news/?article_id=50660">
-<meta property="og:site_name" content="TVアニメ「ぼくたちは勉強ができない」公式サイト">
-<meta property="og:description" content="『Study』活動レポート ≪ニコ生1限目≫更新！ - ニュース | TVアニメ「ぼくたちは勉強ができない」公式サイト">
-<meta property="og:locale" content="ja_JP">
-<meta name="twitter:card" content="summary_large_image">
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, user-scalable=no">
+  <meta name="robots" content="ALL">
+  <!-- noindex,nofollow -->
+  <!--[if IE]><meta http-equiv="X-UA-Compatible" content="IE=edge"><![endif]-->
+  <title>『Study』活動レポート ≪ニコ生1限目≫更新！ - ニュース | TVアニメ「ぼくたちは勉強ができない」公式サイト</title>
+  <!-- meta -->
+  <meta name="description" content="『Study』活動レポート ≪ニコ生1限目≫更新！ - ニュース | TVアニメ「ぼくたちは勉強ができない」公式サイト">
+  <meta name="keywords" content="ぼくたちは勉強ができない, 筒井大志, ジャンプ, 週刊少年ジャンプ, ぼく勉, アニメ, 集英社, アニプレックス, ANIPLEX" />
+  <meta name="format-detection" content="telephone=no,address=no,email=no">
+  <meta property="og:title" content="TVアニメ「ぼくたちは勉強ができない」公式サイト">
+  <meta property="og:type" content="website">
+  <!-- website, blog -->
+  <meta property="og:url" content="https://boku-ben.com/news/?article_id=50660">
+  <meta property="og:site_name" content="TVアニメ「ぼくたちは勉強ができない」公式サイト">
+  <meta property="og:description" content="『Study』活動レポート ≪ニコ生1限目≫更新！ - ニュース | TVアニメ「ぼくたちは勉強ができない」公式サイト">
+  <meta property="og:locale" content="ja_JP">
+  <meta name="twitter:card" content="summary_large_image">
 
-	<meta name="twitter:image" content="https://boku-ben.com/news/SYS/CONTENTS/2019051813391429883344/w776">
-	<meta property="og:image" content="https://boku-ben.com/news/SYS/CONTENTS/2019051813391429883344/w776">
-
-<meta property="twitter:site" content="@bokuben_anime">
-<link rel="icon" href="../favicon.ico">
-<link rel="apple-touch-icon" sizes="57x57" href="../apple-touch-icon-57x57.png">
-<link rel="apple-touch-icon" sizes="72x72" href="../apple-touch-icon-72x72.png">
-<link rel="apple-touch-icon" sizes="76x76" href="../apple-touch-icon-76x76.png">
-<link rel="apple-touch-icon" sizes="114x114" href="../apple-touch-icon-114x114.png">
-<link rel="apple-touch-icon" sizes="120x120" href="../apple-touch-icon-120x120.png">
-<link rel="apple-touch-icon" sizes="144x144" href="../apple-touch-icon-144x144.png">
-<link rel="apple-touch-icon" sizes="152x152" href="../apple-touch-icon-152x152.png">
-<meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
-<meta name="apple-mobile-web-app-capable" content="no">
-<meta name="mobile-web-app-capable" content="no">
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/yakuhanjp@3.0.0/dist/css/yakuhanjp.min.css">
-<link rel="stylesheet" href="../assets/css/bokuben.common.css">
-<!-- meta -->
-<link rel="stylesheet" href="../assets/css/bokuben.news.css">
-<!-- Google Tag Manager -->
+    <meta name="twitter:image" content="https://boku-ben.com/news/SYS/CONTENTS/2019051813391429883344/w776">
+  <meta property="og:image" content="https://boku-ben.com/news/SYS/CONTENTS/2019051813391429883344/w776">
+  
+  <meta property="twitter:site" content="@bokuben_anime">
+  <link rel="icon" href="../favicon.ico">
+  <link rel="apple-touch-icon" sizes="57x57" href="../apple-touch-icon-57x57.png">
+  <link rel="apple-touch-icon" sizes="72x72" href="../apple-touch-icon-72x72.png">
+  <link rel="apple-touch-icon" sizes="76x76" href="../apple-touch-icon-76x76.png">
+  <link rel="apple-touch-icon" sizes="114x114" href="../apple-touch-icon-114x114.png">
+  <link rel="apple-touch-icon" sizes="120x120" href="../apple-touch-icon-120x120.png">
+  <link rel="apple-touch-icon" sizes="144x144" href="../apple-touch-icon-144x144.png">
+  <link rel="apple-touch-icon" sizes="152x152" href="../apple-touch-icon-152x152.png">
+  <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+  <meta name="apple-mobile-web-app-capable" content="no">
+  <meta name="mobile-web-app-capable" content="no">
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/yakuhanjp@3.0.0/dist/css/yakuhanjp.min.css">
+  <link rel="stylesheet" href="../assets/css/bokuben.common.css">
+  <!-- meta -->
+  <link rel="stylesheet" href="../assets/css/bokuben.news.css">
+  <!-- Google Tag Manager -->
 <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
 new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
 j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
@@ -53,52 +55,51 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
 })(window,document,'script','dataLayer','GTM-MMCNZT5');</script>
 <!-- End Google Tag Manager --></head>
-<body data-menu=".m-news">
+
+<body data-menu=".m-news" class="c-bg_rizu">
   <!-- Google Tag Manager (noscript) -->
 <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-M9889B"
 height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
 <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-MMCNZT5"
 height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
-<!-- End Google Tag Manager (noscript) --><div class="l-wrapper">
-  <!-- bg -->
-  <ul class="l-bg">
-  <li class="bg_1 parallax_up"><img src="../assets/img/common/bg_1.png" alt=""></li>
-  <li class="bg_2 parallax_down"><img src="../assets/img/common/bg_2.png" alt=""></li>
-  <li class="bg_3 parallax_up"><img src="../assets/img/common/bg_3.png" alt=""></li>
-  <li class="bg_4 parallax_down"><img src="../assets/img/common/bg_4_new.png" alt=""></li>
-  <li class="bg_5 parallax_up"><img src="../assets/img/common/bg_5.png" alt=""></li>
-</ul>  <!-- bg -->
-  <!-- header -->
-  <header class="l-header">
-    <div class="c-header_sp is-sp">
-      <div class="header_logo">
-        <a href="../index.html?from__lower">
-          <img src="../assets/img/common/logo.svg" alt="ぼくたちは勉強ができない">
-        </a>
-      </div>
-      <div class="header_btn">
-        <div class="btn_shadow">
-        </div>
-        <div class="btn_color">
-        </div>
-        <ul class="btn_line">
-          <li></li>
-          <li></li>
-          <li></li>
-        </ul>
-      </div>
-    </div>
-    <div class="c-header_menu">
-      <div class="is-pc menu_logo">
-        <a href="../index.html?from_lower">
-          <img src="../assets/img/common/logo02.svg" alt="ぼくたちは勉強ができない">
+<!-- End Google Tag Manager (noscript) -->  <div class="l-wrapper">
+    <!-- bg -->
+    <div class="l-bg">
+    <canvas id="bgCanvas" width="2000" height="2000" data-color="29"></canvas>
+  </div>    <!-- bg -->
+    <!-- header -->
+    <header class="l-header">
+  <div class="c-header_sp is-sp">
+    <div class="header_logo">
+      <a href="../index.html?from__lower">
+        <img src="../assets/img/common/logo.svg" alt="ぼくたちは勉強ができない">
       </a>
+    </div>
+    <div class="header_btn">
+      <div class="btn_color">
       </div>
-      <ul class="is-pc deco_item">
+      <ul class="btn_line">
+        <li></li>
         <li></li>
         <li></li>
       </ul>
+    </div>
+  </div>
+  <div class="c-header_menu c-color_shadow">
+    <div class="is-pc menu_logo">
+      <a href="../index.html?from_lower">
+        <img src="../assets/img/common/logo02.svg" alt="ぼくたちは勉強ができない">
+      </a>
+    </div>
+    <div class="is-pc menu_onair">
+      <img src="../assets/img/top/txt_2nd_pc.png" alt="第2期　10月5日より放送開始！">
+    </div>
+    <ul class="is-pc deco_item">
+      <li></li>
+      <li></li>
+    </ul>
+    <div class="menu_wrap">
       <ul class="menu_list">
         <li class="m-top"><a href="../index.html?from__lower">TOP<span></span></a></li>
         <li class="m-news"><a href="index.html">NEWS<span></span></a></li>
@@ -107,7 +108,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
         <li class="m-staffcast"><a href="../staffcast/index.html">STAFF/CAST<span></span></a></li>
         <li class="m-character"><a href="../character/index.html">CHARACTER<span></span></a></li>
         <li class="m-study"><a href="../study/index.html" target="_blank">"Study"<span></span></a></li>
-        <li class="m-music"><a href="../study/music/index.html" target="_blank">MUSIC<span></span></a></li>
+        <li class="m-music"><a href="../music/index.html">MUSIC<span></span></a></li>
         <li class="m-movie"><a href="../movie/index.html">MOVIE<span></span></a></li>
         <li class="m-special"><a href="../special/index.html">SPECIAL<span></span></a></li>
         <li class="m-comics"><a href="../comics/index.html">COMICS<span></span></a></li>
@@ -116,49 +117,50 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
         <li class="m-twitter"><a href="https://twitter.com/bokuben_anime" target="_blank">Twitter<span></span></a></li>
       </ul>
     </div>
-  </header>  <!-- header -->
-  <div class="l-content">
-    <div class="c-content_wrap">
-      <div class="content_inner news">
-        <div class="content_title effect_item content_title">
-          <h2>NEWS</h2>
-        </div>
-        <div class="c-news_detail effect_item content_box">
-          <div class="news_head">
-            <div class="news_category">
-              <ul>
-                <li><a href="index.html" data-page>ALL</a></li>
-                <li><a href="index.html?category=Anime" data-page>Anime</a></li>
-                <li><a href="index.html?category=Study" data-page>Study</a></li>
-                <li><a href="index.html?category=Event" data-page>Event</a></li>
+  </div>
+</header>    <!-- header -->
+    <div class="l-content">
+      <div class="c-content_wrap">
+        <div class="content_inner news">
+          <div class="content_title effect_item content_title">
+            <h2>NEWS</h2>
+          </div>
+          <div class="c-news_detail effect_item content_box">
+            <div class="news_head">
+              <div class="news_category">
+                <ul>
+                  <li class="c-color_shadow"><a href="index.html" data-page>ALL</a></li>
+                  <li class="c-color_shadow"><a href="index.html?category=Anime" data-page>Anime</a></li>
+                  <li class="c-color_shadow"><a href="index.html?category=Study" data-page>Study</a></li>
+                  <li class="c-color_shadow"><a href="index.html?category=Event" data-page>Event</a></li>
+                </ul>
+              </div>
+            </div>
+            <div class="detail_inner">
+              <ul class="deco_item">
+                <li class="c-color_bg"></li>
+                <li class="c-color_bg"></li>
               </ul>
+              <p class="detail_date">
+                2019.05.18
+              </p>
+              <h3 class="detail_title">『Study』活動レポート ≪ニコ生1限目≫更新！</h3>
+              <div class="detail_text">
+                ■『ぼくたちは勉強ができない』ニコ生特番 ready STUDY go!1限目レポート<br/><img src="SYS/CONTENTS/2019051813391429883344/w776" width="776"/><br/>2019年4月16日、TVアニメ『ぼくたちは勉強ができない』から生まれた音楽ユニット・Studyによるニコニコ生放送「『ぼくたちは勉強ができない』ニコ生特番 ready STUDY go!」が配信された。白石晴香さん（古橋文乃役）、富田美憂さん（緒方理珠役）、鈴代紗弓さん（武本うるか役）から成るStudyがMCを務め、アニメ『ぼく勉』やStudyの魅力を紹介していく番組で、この日は記念すべき“1限目”。『ぼく勉』らしく授業の始まりを告げるチャイムとともに番組はスタートした。3月5日放送のお披露目ニコ生特番では、中山信宏プロデューサーや唯我成幸役の逢坂亮太さんから、MCの3人がいろいろ学んでいくという内容だったが、今回からは3人だけのオープニングということもあり、女子会的な雰囲気となっていた。<br/>　3月のお披露目から“AnimeJapan 2019”、そして特別先行上映会を軽く振り返ったオープニング・トークのあと、最初のコーナーは鈴代さんMCによる「アニメ『ぼくたちは勉強ができない』裏トーク」。これはすでに放送されたTVアニメ第1、2話のなかから、Studyの3人がチョイスした“ベストカット”をもとにトークしつつ、またスタッフこだわりのカットも紹介していくというもの。<br/>　まず第1話では白石さんが「ぽけーっと空を見上げる文乃」、富田さんが「成幸にボードゲームで負けて、ぐでる理珠」、鈴代さんは「文乃のいい匂いにドキドキする成幸」と、それぞれがラブコメらしくコミカルなカットをチョイス。またこうしたデフォルメされたキャラなどが出てくるコミカルなシーンは、アドリブを入れやすいらしく、アフレコでも1話からバンバンとアドリブが飛び交っていたそう。<br/>　続いて第2話では、白石さんは「口から魂が出ている文乃」、富田さんは「暗いところを怖がる理珠」、鈴代さんは「廊下で成幸を待つうるかの乙女なアイキャッチ」をそれぞれチョイス。この回はうるかがフィーチャーされただけに「毎回お当番回というものがあるから、回によって“この子が好き！”ってなる」（富田）とのこと。<br/>　Study3人のベストカットを紹介したあとは、アニメスタッフこだわりのカットを紹介ということで、今回は話題を呼んだオープニング・アニメから。通常のオープニング・アニメの3倍近いという驚愕の動画枚数だけあって、ヒロインたちの細かい動きにも注目が集まるなか、今回紹介したのはヒロインたちが書いているノートの中身。これもただ適当に文字を羅列しているわけではなく、例えば理珠のノートは万葉集（古文）、うるかは英語とそれぞれの不得意科目やキャラクターを打ち出した内容となっているところがポイント。また第2話では、文乃の小論文が見えるシーンがあるが、そこもちゃんと小論文の内容になっている。そこで、その論文を富田さんが読み上げてみると、たしかに先生が号泣するほど（？）、しっかりまとまった文章になっていた。こうした細かいこだわりひとつひとつが『ぼく勉』のアニメーションには盛り込まれているのだ。<br/>　ちなみに、小論文を見事読み上げた富田さんには、ご褒美に劇中でも登場する理珠の実家「緒方うどん」のどんぶりに入ったうどんが…出ず、エアでうどんを食べるエアうどんを披露いただいた。このどんぶりは底にSDの理珠の顔が描かれているもので、通信販売サイト「ANIPLEX＋」にて受注生産販売されるとのこと。急いでチェックしよう。<br/>　さて、続いてのコーナーは『ぼく勉』になぞらえて、Studyの3人が勉強するというコーナー。ここではあの“クイズ王”古川洋平氏を招いて、クイズ形式で3人がスタディしていくようだ。まさかのビッグネーム登場にスタジオはざわつきつつも、クイズ王はまず3人がどれだけ勉強ができるか、中学生までに学ぶ範囲の一般常識的学問からの問題を早押しクイズ形式でチェックしていく。中学生レベルとタカを括っていた3人だったが、最初の問題で「発明王と呼ばれたアメリカの科学者の名前は？」という問いに対して、鈴代さんが即座に「ニーチェ！」とハイブロウな回答を繰り出す。<br/>　このように、中学生レベルの問題に苦戦を強いられ、なかなかの接戦となったクイズ大会。それを見事制したのは、早押しでも抜群の瞬発力を見せた白石さん。このクイズコーナーはレギュラー化されるようで、次回からは事前にテーマを用意して3人は挑む模様。気になる次回のテーマはズバリ、『ぼくたちは勉強できない』に決定。珍回答も続出するこのクイズコーナー、次回も目が離せないところだ。<br/>　次は富田さんが司会となるゲームコーナー「Studyと[X]はゲームを楽しむ」。これは“AnimeJapan”2日目のイベントでも好評を博した、アナログゲームをみんなで遊ぼうというコーナーだ。今回はStudyの3人にクイズ王を加えて「ニムト」をプレイ。ニムトとはドイツで生まれた、幅広いプレイ人数とシンプルながら奥深いルールで大人気のカードゲーム。詳しいルールは割愛するが、運だけあるいは技術だけで左右されるルールではなく、いわば4人の実力は拮抗した状態でゲームはスタートした。しかし、最終的にビリになったのは……アナログゲームが苦手な劇中の理珠と同じく富田さん。さすがにショックの色の隠せない富田さんが次回リベンジを果たせるのか、また次回のゲームにも期待したいところだ。<br/>　さて、長らく続いた番組もエンディング・コーナーへ。Studyのデビュー・シングル「セイシュンゼミナール／Never Give It Up!!」リリースを記念して、発売日の5月29日前後に各種イベントの開催が発表された。またこの日は「セイシュンゼミナール」MVのフル・バージョンも公開され、いよいよ約1ヶ月後と迫ったStudyの“[X]デイ”に向けての気運も高まっているようだ。<br/>　さて、この日はクイズにゲームで競ったStudyの3人。まだまだ伸び代があるということを強調していたが、勉強も時には反省も必要。というわけで番組最後には2競技ともに最下位だった富田さんとクイズ王による“補修”がボーナストラック的に行われた。次回この席に座るのは果たして誰なのか？　「『ぼくたちは勉強ができない』ニコ生特番 ready STUDY Go!」2限目もお楽しみに！<br/>番組を終えたキャストからのコメントも紹介いたします！<br/><br/>■古橋文乃役　白石晴香さん<br/>今回は古川ティーチャーのクイズに挑戦したり、作中でりずりんがやっているアナログゲームをやったりと、盛りだくさんで楽しかったです。<br/>始まる前は古川ティーチャーのクイズにちゃんと答えられるか不安だったのですが、ヒントをもらいみんなで切磋琢磨しながら答え、何とか正解できたので、安心しました。<br/>次回は「ぼく勉」からの出題という事なので、宿題・予習をしないと…！！<br/>ニムト初挑戦だったのですが、あまりにも楽しくて、アナログゲームにハマってしまいそうです。<br/>次回もみんなで楽しく成長出来るように頑張ります。<br/>&nbsp;<br/>■緒方理珠役　富田美憂さん<br/>初めての月イチニコ生ということで3人で古川ティーチャーからのクイズに挑戦したのですが結果は、、、汗<br/>そしてニムトではリハーサルでも負け、本番でも圧倒的な負け札の数でした。まるで1話の理珠のようでした、、、！<br/>クイズもゲームも自分の伸びしろを信じて頑張りたいと思います！<br/>これからのニコ生でたくさんのクイズ、ゲームに挑戦していきますので、<br/>ティーチャーのみなさんも私達と一緒に考えながら楽しんでいただけたらと思います！<br/>あらためてどうぞよろしくお願いします！<br/>&nbsp;<br/>■武元うるか役　鈴代紗弓さん<br/>一限目から内容盛りだくさんで、本当に楽しかったです！！<br/>古川さんには初めてお会いしたのですが「おさゆ」とあだ名で呼んでくださったり「古川ティーチャー」と呼ばせていただいたり。<br/>私の支離滅裂な言葉もちゃんと拾って面白くしてくださりました…そんなお優しい古川ティーチャーからのクイズも大盛り上がりで、質問内容や答えなどを聞いて懐かしい感じもしました。<br/>ニムトもとても面白かったのでオススメですし、1話、2話の振り返りもみんなで出来て良かったです！二限目はどんな勉強ができるのか今からワクワク…！補修にならないように次回も頑張ります！<br/><br/>&nbsp;<br/>
+              </div>
+            </div>
+            <div class="detail_back hover_bounce">
+              <div class="back_shadow"></div>
+              <div class="back_color c-color_bg"></div>
+              <p class="back_text">BACK TO LIST</p>
+              <a href="index.html?p=8"></a>
             </div>
           </div>
-          <div class="detail_inner">
-            <ul class="deco_item">
-              <li></li>
-              <li></li>
-            </ul>
-                        <p class="detail_date">
-              2019.05.18
-            </p>
-            <h3 class="detail_title">『Study』活動レポート ≪ニコ生1限目≫更新！</h3>
-                        <div class="detail_text">
-              ■『ぼくたちは勉強ができない』ニコ生特番 ready STUDY go!1限目レポート<br/><img src="SYS/CONTENTS/2019051813391429883344/w776" width="776"/><br/>2019年4月16日、TVアニメ『ぼくたちは勉強ができない』から生まれた音楽ユニット・Studyによるニコニコ生放送「『ぼくたちは勉強ができない』ニコ生特番 ready STUDY go!」が配信された。白石晴香さん（古橋文乃役）、富田美憂さん（緒方理珠役）、鈴代紗弓さん（武本うるか役）から成るStudyがMCを務め、アニメ『ぼく勉』やStudyの魅力を紹介していく番組で、この日は記念すべき“1限目”。『ぼく勉』らしく授業の始まりを告げるチャイムとともに番組はスタートした。3月5日放送のお披露目ニコ生特番では、中山信宏プロデューサーや唯我成幸役の逢坂亮太さんから、MCの3人がいろいろ学んでいくという内容だったが、今回からは3人だけのオープニングということもあり、女子会的な雰囲気となっていた。<br/>　3月のお披露目から“AnimeJapan 2019”、そして特別先行上映会を軽く振り返ったオープニング・トークのあと、最初のコーナーは鈴代さんMCによる「アニメ『ぼくたちは勉強ができない』裏トーク」。これはすでに放送されたTVアニメ第1、2話のなかから、Studyの3人がチョイスした“ベストカット”をもとにトークしつつ、またスタッフこだわりのカットも紹介していくというもの。<br/>　まず第1話では白石さんが「ぽけーっと空を見上げる文乃」、富田さんが「成幸にボードゲームで負けて、ぐでる理珠」、鈴代さんは「文乃のいい匂いにドキドキする成幸」と、それぞれがラブコメらしくコミカルなカットをチョイス。またこうしたデフォルメされたキャラなどが出てくるコミカルなシーンは、アドリブを入れやすいらしく、アフレコでも1話からバンバンとアドリブが飛び交っていたそう。<br/>　続いて第2話では、白石さんは「口から魂が出ている文乃」、富田さんは「暗いところを怖がる理珠」、鈴代さんは「廊下で成幸を待つうるかの乙女なアイキャッチ」をそれぞれチョイス。この回はうるかがフィーチャーされただけに「毎回お当番回というものがあるから、回によって“この子が好き！”ってなる」（富田）とのこと。<br/>　Study3人のベストカットを紹介したあとは、アニメスタッフこだわりのカットを紹介ということで、今回は話題を呼んだオープニング・アニメから。通常のオープニング・アニメの3倍近いという驚愕の動画枚数だけあって、ヒロインたちの細かい動きにも注目が集まるなか、今回紹介したのはヒロインたちが書いているノートの中身。これもただ適当に文字を羅列しているわけではなく、例えば理珠のノートは万葉集（古文）、うるかは英語とそれぞれの不得意科目やキャラクターを打ち出した内容となっているところがポイント。また第2話では、文乃の小論文が見えるシーンがあるが、そこもちゃんと小論文の内容になっている。そこで、その論文を富田さんが読み上げてみると、たしかに先生が号泣するほど（？）、しっかりまとまった文章になっていた。こうした細かいこだわりひとつひとつが『ぼく勉』のアニメーションには盛り込まれているのだ。<br/>　ちなみに、小論文を見事読み上げた富田さんには、ご褒美に劇中でも登場する理珠の実家「緒方うどん」のどんぶりに入ったうどんが…出ず、エアでうどんを食べるエアうどんを披露いただいた。このどんぶりは底にSDの理珠の顔が描かれているもので、通信販売サイト「ANIPLEX＋」にて受注生産販売されるとのこと。急いでチェックしよう。<br/>　さて、続いてのコーナーは『ぼく勉』になぞらえて、Studyの3人が勉強するというコーナー。ここではあの“クイズ王”古川洋平氏を招いて、クイズ形式で3人がスタディしていくようだ。まさかのビッグネーム登場にスタジオはざわつきつつも、クイズ王はまず3人がどれだけ勉強ができるか、中学生までに学ぶ範囲の一般常識的学問からの問題を早押しクイズ形式でチェックしていく。中学生レベルとタカを括っていた3人だったが、最初の問題で「発明王と呼ばれたアメリカの科学者の名前は？」という問いに対して、鈴代さんが即座に「ニーチェ！」とハイブロウな回答を繰り出す。<br/>　このように、中学生レベルの問題に苦戦を強いられ、なかなかの接戦となったクイズ大会。それを見事制したのは、早押しでも抜群の瞬発力を見せた白石さん。このクイズコーナーはレギュラー化されるようで、次回からは事前にテーマを用意して3人は挑む模様。気になる次回のテーマはズバリ、『ぼくたちは勉強できない』に決定。珍回答も続出するこのクイズコーナー、次回も目が離せないところだ。<br/>　次は富田さんが司会となるゲームコーナー「Studyと[X]はゲームを楽しむ」。これは“AnimeJapan”2日目のイベントでも好評を博した、アナログゲームをみんなで遊ぼうというコーナーだ。今回はStudyの3人にクイズ王を加えて「ニムト」をプレイ。ニムトとはドイツで生まれた、幅広いプレイ人数とシンプルながら奥深いルールで大人気のカードゲーム。詳しいルールは割愛するが、運だけあるいは技術だけで左右されるルールではなく、いわば4人の実力は拮抗した状態でゲームはスタートした。しかし、最終的にビリになったのは……アナログゲームが苦手な劇中の理珠と同じく富田さん。さすがにショックの色の隠せない富田さんが次回リベンジを果たせるのか、また次回のゲームにも期待したいところだ。<br/>　さて、長らく続いた番組もエンディング・コーナーへ。Studyのデビュー・シングル「セイシュンゼミナール／Never Give It Up!!」リリースを記念して、発売日の5月29日前後に各種イベントの開催が発表された。またこの日は「セイシュンゼミナール」MVのフル・バージョンも公開され、いよいよ約1ヶ月後と迫ったStudyの“[X]デイ”に向けての気運も高まっているようだ。<br/>　さて、この日はクイズにゲームで競ったStudyの3人。まだまだ伸び代があるということを強調していたが、勉強も時には反省も必要。というわけで番組最後には2競技ともに最下位だった富田さんとクイズ王による“補修”がボーナストラック的に行われた。次回この席に座るのは果たして誰なのか？　「『ぼくたちは勉強ができない』ニコ生特番 ready STUDY Go!」2限目もお楽しみに！<br/>番組を終えたキャストからのコメントも紹介いたします！<br/><br/>■古橋文乃役　白石晴香さん<br/>今回は古川ティーチャーのクイズに挑戦したり、作中でりずりんがやっているアナログゲームをやったりと、盛りだくさんで楽しかったです。<br/>始まる前は古川ティーチャーのクイズにちゃんと答えられるか不安だったのですが、ヒントをもらいみんなで切磋琢磨しながら答え、何とか正解できたので、安心しました。<br/>次回は「ぼく勉」からの出題という事なので、宿題・予習をしないと…！！<br/>ニムト初挑戦だったのですが、あまりにも楽しくて、アナログゲームにハマってしまいそうです。<br/>次回もみんなで楽しく成長出来るように頑張ります。<br/>&nbsp;<br/>■緒方理珠役　富田美憂さん<br/>初めての月イチニコ生ということで3人で古川ティーチャーからのクイズに挑戦したのですが結果は、、、汗<br/>そしてニムトではリハーサルでも負け、本番でも圧倒的な負け札の数でした。まるで1話の理珠のようでした、、、！<br/>クイズもゲームも自分の伸びしろを信じて頑張りたいと思います！<br/>これからのニコ生でたくさんのクイズ、ゲームに挑戦していきますので、<br/>ティーチャーのみなさんも私達と一緒に考えながら楽しんでいただけたらと思います！<br/>あらためてどうぞよろしくお願いします！<br/>&nbsp;<br/>■武元うるか役　鈴代紗弓さん<br/>一限目から内容盛りだくさんで、本当に楽しかったです！！<br/>古川さんには初めてお会いしたのですが「おさゆ」とあだ名で呼んでくださったり「古川ティーチャー」と呼ばせていただいたり。<br/>私の支離滅裂な言葉もちゃんと拾って面白くしてくださりました…そんなお優しい古川ティーチャーからのクイズも大盛り上がりで、質問内容や答えなどを聞いて懐かしい感じもしました。<br/>ニムトもとても面白かったのでオススメですし、1話、2話の振り返りもみんなで出来て良かったです！二限目はどんな勉強ができるのか今からワクワク…！補修にならないように次回も頑張ります！<br/><br/>&nbsp;<br/>
-            </div>
-          </div>
-          <div class="detail_back hover_bounce">
-            <div class="back_shadow"></div>
-            <div class="back_color"></div>
-            <p class="back_text">BACK TO LIST</p>
-            <a href="index.html?p=4"></a>
-          </div>
+        </div>
       </div>
-      </div>
-    </div>
-    <!-- footer -->
-    <footer class="c-footer effect_item">
-  <div class="footer_chara"><img src="../assets/img/common/footer/img_footer_0.png" alt=""></div>
+      <!-- footer -->
+      <footer class="c-footer effect_item">
+  <div class="footer_chara"><img src="../assets/img/common/footer/img_footer_rizu.png" alt=""></div>
   <ul class="footer_official">
     <li class="hover_bounce"><a href="https://www.aniplex.co.jp/help/privacy.html" target="_blank">PRIVACY POLICY</a></li>
     <li class="hover_bounce"><a href="https://www.aniplex.co.jp/support/user.html" target="_blank">CONTACT</a></li>
@@ -168,8 +170,8 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
     <p class="share_title">SHARE</p>
     <ul class="share_list">
       <li class="hover_bounce"><a href="https://www.facebook.com/sharer.php?u=https%3A%2F%2Fboku-ben.com%2F" target="_blank"><img src="../assets/img/common/footer/icon_facebook.svg" alt="Facebook"></a></li>
-      <li class="hover_bounce"> <a href="https://twitter.com/intent/tweet?text=TV%e3%82%a2%e3%83%8b%e3%83%a1%e3%80%8c%23%e3%81%bc%e3%81%8f%e3%81%9f%e3%81%a1%e3%81%af%e5%8b%89%e5%bc%b7%e3%81%8c%e3%81%a7%e3%81%8d%e3%81%aa%e3%81%84%e3%80%8d%0d%0a2019%e5%b9%b44%e6%9c%88%e3%82%88%e3%82%8a%e6%94%be%e9%80%81%e9%96%8b%e5%a7%8b%e2%9d%97%0d%0a%0d%0a%e3%80%8c%e3%81%a7%e3%81%8d%e3%81%aa%e3%81%84%e3%80%8d%e5%a8%98%e3%81%9f%e3%81%a1%e3%81%b8%e3%81%ae%e6%95%99%e8%82%b2%e7%9a%84%e6%8c%87%e5%b0%8e%e3%80%81%e3%81%af%e3%81%98%e3%81%be%e3%82%8b%ef%bc%81%0d%0a%20https%3a%2f%2fboku%2dben%2ecom%2f%0d%0a%0d%0a%23%e3%81%bc%e3%81%8f%e5%8b%89" target="_blank"><img src="../assets/img/common/footer/icon_twitter.svg" alt="Twitter"></a></li>
-      <li class="hover_bounce"><a href="https://line.me/R/msg/text/?TV%e3%82%a2%e3%83%8b%e3%83%a1%e3%80%8c%e3%81%bc%e3%81%8f%e3%81%9f%e3%81%a1%e3%81%af%e5%8b%89%e5%bc%b7%e3%81%8c%e3%81%a7%e3%81%8d%e3%81%aa%e3%81%84%e3%80%8d%0d%0a2019%e5%b9%b44%e6%9c%88%e3%82%88%e3%82%8a%e6%94%be%e9%80%81%e9%96%8b%e5%a7%8b%e2%9d%97%0d%0a%0d%0a%e3%80%8c%e3%81%a7%e3%81%8d%e3%81%aa%e3%81%84%e3%80%8d%e5%a8%98%e3%81%9f%e3%81%a1%e3%81%b8%e3%81%ae%e6%95%99%e8%82%b2%e7%9a%84%e6%8c%87%e5%b0%8e%e3%80%81%e3%81%af%e3%81%98%e3%81%be%e3%82%8b%ef%bc%81%0d%0a%20https%3a%2f%2fboku%2dben%2ecom%2f" target="_blank"><img src="../assets/img/common/footer/icon_line.svg" alt="LINE"></a></li>
+      <li class="hover_bounce"> <a href="https://twitter.com/intent/tweet?text=TV%e3%82%a2%e3%83%8b%e3%83%a1%e3%80%8c%23%e3%81%bc%e3%81%8f%e3%81%9f%e3%81%a1%e3%81%af%e5%8b%89%e5%bc%b7%e3%81%8c%e3%81%a7%e3%81%8d%e3%81%aa%e3%81%84%ef%bc%81%e3%80%8d%0d%0a2019%e5%b9%b410%e6%9c%885%e6%97%a5%28%e5%9c%9f%2924%3a30%e3%82%88%e3%82%8a%e6%94%be%e9%80%81%e9%96%8b%e5%a7%8b%f0%9f%8e%89%0d%0a%0d%0a%5b%e6%9c%80%e7%b5%82%e5%95%8f%e9%a1%8c%5d%e3%80%80%e3%81%8d%e3%81%bf%e3%81%8c%e9%81%b8%e3%81%b6%e3%81%ae%e3%81%af%e3%80%81%e3%81%a0%e3%82%8c%e3%81%a7%e3%81%99%e3%81%8b%e3%80%82%0d%0a%20https%3a%2f%2fboku%2dben%2ecom%2f%0d%0a%0d%0a%23%e3%81%bc%e3%81%8f%e5%8b%89" target="_blank"><img src="../assets/img/common/footer/icon_twitter.svg" alt="Twitter"></a></li>
+      <li class="hover_bounce"><a href="https://line.me/R/msg/text/?TV%E3%82%A2%E3%83%8B%E3%83%A1%E3%80%8C%E3%81%BC%E3%81%8F%E3%81%9F%E3%81%A1%E3%81%AF%E5%8B%89%E5%BC%B7%E3%81%8C%E3%81%A7%E3%81%8D%E3%81%AA%E3%81%84%EF%BC%81%E3%80%8D%0A2019%E5%B9%B410%E6%9C%885%E6%97%A5(%E5%9C%9F)24%3A30%E3%82%88%E3%82%8A%E6%94%BE%E9%80%81%E9%96%8B%E5%A7%8B%F0%9F%8E%89%0A%0A%5B%E6%9C%80%E7%B5%82%E5%95%8F%E9%A1%8C%5D%E3%80%80%E3%81%8D%E3%81%BF%E3%81%8C%E9%81%B8%E3%81%B6%E3%81%AE%E3%81%AF%E3%80%81%E3%81%A0%E3%82%8C%E3%81%A7%E3%81%99%E3%81%8B%E3%80%82%0A%20https%3A%2F%2Fboku-ben.com%2F" target="_blank"><img src="../assets/img/common/footer/icon_line.svg" alt="LINE"></a></li>
     </ul>
   </div>
   <p class="footer_copy">
@@ -178,29 +180,93 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
   </p>
   <div class="footer_pagetop hover_bounce">
   </div>
-</footer>    <!-- footer -->
-  </div>
-  <!-- twitter -->
-  <div class="l-fixedtwitter">
-    <div class="c-fixedtwitter_inner">
-      <div class="fixedtwitter_left">
-        <img src="../assets/img/top/txt_tw_follow.svg" alt="FOLLOW!">
-      </div>
-      <div class="fixedtwitter_right">
-        <p>OFFICIAL<br>Twitter</p>
-      </div>
+</footer>      <!-- footer -->
     </div>
-    <a href="https://twitter.com/bokuben_anime" target="_blank"></a>
-  </div>  <!-- twitter -->
-</div>
-<!-- script -->
-<script src="https://code.jquery.com/jquery-3.3.1.min.js"></script>
+    <!-- twitter -->
+    <div class="l-fixedtwitter">
+  <div class="c-fixedtwitter_inner c-color_txt">
+    <div class="fixedtwitter_left c-color_svg">
+      <!-- <img src="/assets/img/top/txt_tw_follow.svg" alt="FOLLOW!"> -->
+      <svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+        x="0px" y="0px" width="20.9px" height="140.1px" viewBox="0 0 20.9 140.1"
+        style="enable-background:new 0 0 20.9 140.1;" xml:space="preserve">
+        <g>
+          <g>
+            <path class="st0" d="M16.4,15h3.9V0.5H0.7v5h7.2v8.8h3.9V5.5h4.5V15z" />
+            <path
+              d="M20.8,15.5h-4.9V6h-3.5v8.8H7.4V6H0.2V0h20.5V15.5z M16.9,14.5h2.9V1H1.2v4h7.2v8.8h2.9V5h5.5V14.5z" />
+          </g>
+          <g>
+            <path class="st0"
+              d="M20.4,28.3c0-6-4.2-10.6-9.9-10.6c-5.7,0-10,4.5-10,10.6c0,6.1,4.3,10.6,10,10.6
+			C16.2,38.9,20.4,34.4,20.4,28.3z M16.3,28.4c0,3-2.5,5.4-5.8,5.4s-5.8-2.4-5.8-5.4c0-3,2.5-5.5,5.8-5.5S16.3,25.4,16.3,28.4z" />
+            <path d="M10.5,39.4C4.5,39.4,0,34.6,0,28.3C0,22,4.5,17.3,10.5,17.3c5.9,0,10.4,4.8,10.4,11.1C20.9,34.6,16.5,39.4,10.5,39.4z
+			 M10.5,18.3C5.1,18.3,1,22.6,1,28.3c0,5.7,4.1,10.1,9.5,10.1c5.4,0,9.4-4.3,9.4-10.1C19.9,22.6,15.9,18.3,10.5,18.3z M10.5,34.3
+			c-3.6,0-6.3-2.6-6.3-5.9c0-3.3,2.8-6,6.3-6c3.5,0,6.3,2.6,6.3,6C16.8,31.7,14,34.3,10.5,34.3z M10.5,23.3c-2.9,0-5.3,2.3-5.3,5
+			c0,2.8,2.3,4.9,5.3,4.9c3,0,5.3-2.2,5.3-4.9C15.8,25.5,13.5,23.3,10.5,23.3z" />
+          </g>
+          <g>
+            <path class="st0" d="M4.9,48.2h15.4v-5H0.7v13.3h4.2V48.2z" />
+            <path d="M5.4,57H0.2V42.7h20.5v6H5.4V57z M1.2,56h3.2v-8.3h15.4v-4H1.2V56z" />
+          </g>
+          <g>
+            <path class="st0" d="M4.9,65.5h15.4v-5H0.7v13.3h4.2V65.5z" />
+            <path d="M5.4,74.3H0.2V60h20.5v6H5.4V74.3z M1.2,73.3h3.2V65h15.4v-4H1.2V73.3z" />
+          </g>
+          <g>
+            <path class="st0"
+              d="M20.4,86.5c0-6-4.2-10.6-9.9-10.6c-5.7,0-10,4.5-10,10.6c0,6.1,4.3,10.6,10,10.6
+			C16.2,97.1,20.4,92.6,20.4,86.5z M16.3,86.6c0,3-2.5,5.4-5.8,5.4s-5.8-2.4-5.8-5.4c0-3,2.5-5.5,5.8-5.5S16.3,83.6,16.3,86.6z" />
+            <path d="M10.5,97.6C4.5,97.6,0,92.9,0,86.5c0-6.3,4.5-11.1,10.5-11.1c5.9,0,10.4,4.8,10.4,11.1C20.9,92.9,16.5,97.6,10.5,97.6z
+			 M10.5,76.5C5.1,76.5,1,80.8,1,86.5c0,5.7,4.1,10.1,9.5,10.1c5.4,0,9.4-4.3,9.4-10.1C19.9,80.8,15.9,76.5,10.5,76.5z M10.5,92.5
+			c-3.6,0-6.3-2.6-6.3-5.9c0-3.3,2.8-6,6.3-6c3.5,0,6.3,2.6,6.3,6C16.8,89.9,14,92.5,10.5,92.5z M10.5,81.6c-2.9,0-5.3,2.3-5.3,5
+			c0,2.8,2.3,4.9,5.3,4.9c3,0,5.3-2.2,5.3-4.9C15.8,83.8,13.5,81.6,10.5,81.6z" />
+          </g>
+          <g>
+            <path class="st0" d="M0.7,123.4l19.5,6.5v-5.1L5.9,121l14.4-3.8v-4.9l-14.4-3.7l14.4-3.8v-5.3l-19.5,6.4v5.1l13.5,3.7l-13.5,3.6
+			V123.4z" />
+            <path d="M20.8,130.5l-20.5-6.8v-5.9l12.1-3.2l-12.1-3.3v-5.9l20.5-6.7v6.4l-12.9,3.4l12.9,3.4v5.6L7.8,121l12.9,3.4V130.5z
+			 M1.2,123l18.5,6.1v-4L3.9,121l15.8-4.2v-4.1l-15.8-4.1l15.8-4.2v-4.2l-18.5,6.1v4.4l14.9,4.1l-14.9,4V123z" />
+          </g>
+          <g>
+            <path class="st0" d="M15.2,139.6h5V135h-5l-7.8,0.8v2.9L15.2,139.6z M5.2,137.2c0-1.3-0.9-2.3-2.3-2.3c-1.4,0-2.3,1-2.3,2.3
+			c0,1.4,0.9,2.3,2.3,2.3C4.2,139.6,5.2,138.6,5.2,137.2z" />
+            <path d="M20.7,140.1l-5.5,0l-8.2-0.9v-3.8l8.2-0.9l5.5,0V140.1z M15.2,139.1h4.4v-3.6h-4.5l-7.3,0.8v2L15.2,139.1z M2.8,140.1
+			c-1.6,0-2.8-1.2-2.8-2.8c0-1.6,1.2-2.8,2.8-2.8c1.6,0,2.8,1.2,2.8,2.8C5.7,138.9,4.5,140.1,2.8,140.1z M2.8,135.4
+			c-1.1,0-1.8,0.7-1.8,1.8c0,1.1,0.7,1.8,1.8,1.8c1.1,0,1.8-0.7,1.8-1.8C4.7,136.1,3.9,135.4,2.8,135.4z" />
+          </g>
+        </g>
+      </svg>
+    </div>
+    <div class="fixedtwitter_right">
+      <div class="fixedtwitter_right_icon c-color_svg">
+        <svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+          x="0px" y="0px" width="28.3px" height="22.7px" viewBox="0 0 28.3 22.7"
+          style="enable-background:new 0 0 28.3 22.7;" xml:space="preserve">
+          <path class="st0"
+            d="M28.3,2.7c-1,0.5-2.1,0.7-3.3,0.9c1.2-0.7,2.1-1.9,2.6-3.1c-1.1,0.6-2.4,1.1-3.7,1.4C22.7,0.7,21.2,0,19.6,0
+         c-3.2,0-5.8,2.6-5.8,5.7c0,0.5,0,0.9,0.1,1.2C9,6.7,4.8,4.5,2,1C1.5,1.9,1.2,2.9,1.2,4c0,1.9,1,3.7,2.5,4.7C2.8,8.7,1.8,8.3,1.1,8
+         c0,0,0,0,0,0.1c0,2.7,2,5.1,4.6,5.6c-0.5,0.1-1,0.2-1.5,0.2c-0.4,0-0.7,0-1.1-0.1c0.7,2.2,2.9,4,5.5,4c-2,1.5-4.5,2.5-7.2,2.5
+         c-0.5,0-0.9,0-1.4-0.1c2.6,1.6,5.6,2.6,8.9,2.6c10.7,0,16.5-8.7,16.5-16.2c0-0.2,0-0.5,0-0.7C26.4,4.8,27.4,3.8,28.3,2.7z" />
+        </svg>
+      </div>
+      <p>OFFICIAL<br>Twitter</p>
+    </div>
+  </div>
+  <a href="https://twitter.com/bokuben_anime" target="_blank"></a>
+</div>    <!-- twitter -->
+  </div>
+  <!-- script -->
+  <script src="https://code.jquery.com/jquery-3.3.1.min.js"></script>
 <script>window.jQuery || document.write('<script src="../assets/js/vender/jquery-3.3.1.min.js"><\/script>')</script>
 <script src="../assets/js/vender/jquery.easing.1.3.js"></script>
 <script src="../assets/js/js-scroll-effect-module.js"></script>
-<script src="../assets/js/bokuben.common.js"></script><!-- script -->
-<!-- catalyst -->
-<!-- ANIPLEX -->
-<!-- catalyst -->
+<script src="../assets/js/createjs.min.js"></script>
+<script src="../assets/js/particlejs.min.js"></script>
+<script src="../assets/js/bokuben.common.js"></script>  <!-- script -->
+  <!-- catalyst -->
+  <!-- ANIPLEX -->
+  <!-- catalyst -->
 </body>
+
 </html>

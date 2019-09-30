@@ -13,7 +13,7 @@ $('.staff_comment').click(function () {
       top: st + 200 + 'px'
     }).stop();
   }
-  $('.modal_content .content_comment').append('<ul class="deco_item"><li></li><li></li></ul><h3 class="comment_catch">COMMENT</h3><p class="comment_position">' + $this.data(position) + '</p><div class="comment_name">'+ $this.data(name) +'</div><p class="comment_text">' + $this.data(comment) + '</p>');
+  $('.modal_content .content_comment').append('<ul class="deco_item"><li class="c-color_bg"></li><li class="c-color_bg"></li></ul><h3 class="comment_catch">COMMENT</h3><p class="comment_position">' + $this.data(position) + '</p><div class="comment_name">'+ $this.data(name) +'</div><p class="comment_text">' + $this.data(comment) + '</p>');
   var ua = window.navigator.userAgent.toLowerCase();
   if(w > 769) {
     if(ua.indexOf('safari')  !== -1 && ua.indexOf('chrome') === -1) {
