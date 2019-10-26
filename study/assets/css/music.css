@@ -44,6 +44,16 @@
   max-width: 400px;
   margin: 0 auto 30px;
 }
+.cd_pacage .music_bnrarea a {
+  display: block;
+  width: 700px;
+  margin: 60px auto 0;
+  -webkit-transition: all .3s ease;
+  transition: all .3s ease;
+}
+.cd_pacage .music_bnrarea a:hover {
+  opacity: .7;
+}
 .cd_pacage .bnr {
   position: relative;
   z-index: 1;
@@ -201,6 +211,34 @@
 .cd_pacage .version_pacage dd {
   padding-left: 1em;
   text-indent: -1em;
+}
+.cd_pacage .version_pacage dd ul {
+  padding-left: 0;
+  text-indent: 0;
+}
+.cd_pacage .version_pacage dd ul li {
+  margin-top: 14px;
+  padding-left: 1em;
+  padding-top: 4px;
+  border-left: 2px solid #c63156;
+  font-size: 13px;
+}
+.cd_pacage .version_pacage dd ul li .course {
+  font-weight: bold;
+  margin-bottom: 4px
+}
+.cd_pacage .version_pacage dd ul li .course strong {
+  color: #c63156;
+  font-size: 13px;
+  margin-right: 0.5em;
+  padding: 3px 4px 2px;
+  border: 1px solid #c63156;
+}
+.cd_pacage .version_pacage dd ul li p {
+  line-height: 1.8;
+}
+.cd_pacage .version_pacage dd ul li p span {
+  font-size: 11px;
 }
 .cd_pacage .version_pacage_list {
   margin: 25px 0 1em;
@@ -454,7 +492,7 @@
 }
 
 .store_tgl_ttl::before {
-  content: "åº—åã¯ã“ã¡ã‚‰";
+  content: "ÃƒÂ¥Ã‚ÂºÃ¢â‚¬â€ÃƒÂ¥Ã‚ÂÃ‚ÂÃƒÂ£Ã‚ÂÃ‚Â¯ÃƒÂ£Ã‚ÂÃ¢â‚¬Å“ÃƒÂ£Ã‚ÂÃ‚Â¡ÃƒÂ£Ã¢â‚¬Å¡Ã¢â‚¬Â°";
   display: block;
   position: absolute;
   bottom: 11px;
@@ -548,6 +586,11 @@
   .cd_pacage .buy_btn {
     margin-bottom: 26px;
   }
+  .cd_pacage .music_bnrarea a {
+    display: block;
+    width: 100%;
+    margin: 30px auto 0;
+  }
   .cd_pacage .buy_btn a {
     padding: 10px 8%;
     font-size: 13px;
@@ -588,6 +631,31 @@
   .cd_pacage .cd_price, .cd_pacage .version_pacage dt {
     font-size: 15px;
   }
+
+.cd_pacage .version_pacage dd ul {
+
+}
+.cd_pacage .version_pacage dd ul li {
+  margin-top: 14px;
+  padding-left: 1em;
+  padding-top: 4px;
+  font-size: 12px;
+}
+.cd_pacage .version_pacage dd ul li .course {
+  margin-bottom: 4px
+}
+.cd_pacage .version_pacage dd ul li .course strong {
+  font-size: 13px;
+  margin-bottom: 3px;
+  display: inline-block;
+}
+.cd_pacage .version_pacage dd ul li p {
+  line-height: 1.8;
+  font-size: 11px;
+}
+.cd_pacage .version_pacage dd ul li p span {
+  font-size: 11px;
+}
   .cd_pacage .cd_version_title {
     margin-bottom: 20px;
     font-size: 18px;

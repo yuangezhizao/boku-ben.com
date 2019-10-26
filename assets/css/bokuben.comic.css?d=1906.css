@@ -1,0 +1,207 @@
+.content_inner.comics {
+  padding-bottom: 322px;
+}
+
+.content_inner.comics .content_title {
+  margin-bottom: 40px;
+}
+
+.content_inner.comics .comic_text {
+  font-weight: 600;
+  font-size: 20px;
+  line-height: 44px;
+  letter-spacing: .15em;
+}
+
+.content_inner.comics .comic_text span {
+  position: relative;
+  font-size: 26px;
+  letter-spacing: .1em;
+}
+
+.content_inner.comics .comic_text span::before {
+  content: "";
+  -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=0)";
+  opacity: 0;
+  position: absolute;
+  bottom: -4px;
+  left: 0;
+  width: 100%;
+  width: 0;
+  height: 2px;
+  background: #ffff4f;
+  border: 2px solid #000;
+  line-height: 1px;
+}
+
+.content_inner.comics .comic_text.active span::before {
+  -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=100)";
+  opacity: 1;
+  width: 100%;
+  -webkit-transition: all .7s cubic-bezier(.23, 1, .32, 1) 1s;
+  transition: all .7s cubic-bezier(.23, 1, .32, 1) 1s;
+}
+
+.content_inner.comics .comic_list {
+  margin-top: 50px;
+  font-size: 0;
+  letter-spacing: -.4em;
+}
+
+.content_inner.comics .comic_list li {
+  display: inline-block;
+  position: relative;
+  width: 175px;
+  margin-right: 50px;
+  margin-bottom: 63px;
+  vertical-align: top;
+  letter-spacing: normal;
+}
+
+.content_inner.comics .comic_list li a {
+  display: block;
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+}
+
+.content_inner.comics .comic_list li::before {
+  content: "";
+  -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=70)";
+  opacity: .7;
+  position: absolute;
+  top: 20px;
+  left: 20px;
+  width: 100%;
+  height: 100%;
+  background: #ffff4f;
+}
+
+.content_inner.comics .comic_list li.bnr  {
+  position: relative;
+  margin: 0;
+}
+
+.content_inner.comics .comic_list li.bnr:before  {
+  content: none;
+}
+
+.content_inner.comics .comic_banner {
+  position: absolute;
+  top: -79px;
+  left: 470px;
+  width: 190px;
+  height: 190px;
+  margin: 0;
+  transform: rotate(30deg);
+  -webkit-transform: rotate(30deg);
+}
+
+.content_inner.comics .comic_list li .comic_img {
+  position: relative;
+  border: 4px solid #000;
+}
+
+.content_inner.comics .comic_list li:nth-child(4n) {
+  margin-right: 0;
+}
+
+@media screen and (min-width: 768px) {
+  .content_inner.comics .comic_list li::before {
+    -webkit-transform: translate(0, 0);
+            transform: translate(0, 0);
+    -webkit-transition: -webkit-transform .6s cubic-bezier(.215, .61, .355, 1);
+    transition: -webkit-transform .6s cubic-bezier(.215, .61, .355, 1);
+    transition: transform .6s cubic-bezier(.215, .61, .355, 1);
+    transition: transform .6s cubic-bezier(.215, .61, .355, 1), -webkit-transform .6s cubic-bezier(.215, .61, .355, 1);
+  }
+  .content_inner.comics .comic_list li .comic_img {
+    position: relative;
+    overflow: hidden;
+    border: 4px solid #000;
+  }
+  .content_inner.comics .comic_list li .comic_img::before {
+    content: "";
+    -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=30)";
+    opacity: .3;
+    position: absolute;
+    top: 0;
+    left: 0;
+    -webkit-transform: translate(0%, 11%) rotate(45deg);
+            transform: translate(0%, 11%) rotate(45deg);
+    width: 350%;
+    height: 350%;
+    background: #ffff4f;
+    -webkit-transition: -webkit-transform .6s cubic-bezier(.215, .61, .355, 1);
+    transition: -webkit-transform .6s cubic-bezier(.215, .61, .355, 1);
+    transition: transform .6s cubic-bezier(.215, .61, .355, 1);
+    transition: transform .6s cubic-bezier(.215, .61, .355, 1), -webkit-transform .6s cubic-bezier(.215, .61, .355, 1);
+  }
+  .content_inner.comics .comic_list li:hover::before {
+    -webkit-transform: translate(10px, 10px);
+            transform: translate(10px, 10px);
+    -webkit-transition: -webkit-transform .6s cubic-bezier(.215, .61, .355, 1);
+    transition: -webkit-transform .6s cubic-bezier(.215, .61, .355, 1);
+    transition: transform .6s cubic-bezier(.215, .61, .355, 1);
+    transition: transform .6s cubic-bezier(.215, .61, .355, 1), -webkit-transform .6s cubic-bezier(.215, .61, .355, 1);
+  }
+  .content_inner.comics .comic_list li:hover .comic_img::before {
+    -webkit-transform: translate(0%, -38%) rotate(45deg);
+            transform: translate(0%, -38%) rotate(45deg);
+    -webkit-transition: -webkit-transform .6s cubic-bezier(.215, .61, .355, 1);
+    transition: -webkit-transform .6s cubic-bezier(.215, .61, .355, 1);
+    transition: transform .6s cubic-bezier(.215, .61, .355, 1);
+    transition: transform .6s cubic-bezier(.215, .61, .355, 1), -webkit-transform .6s cubic-bezier(.215, .61, .355, 1);
+  }
+}
+
+@media screen and (max-width: 768px) {
+  .content_inner.comics {
+    padding-bottom: 52px;
+  }
+  .content_inner.comics .content_title {
+    margin-bottom: 22px;
+  }
+  .content_inner.comics .comic_text {
+    font-size: 15px;
+    line-height: 33px;
+    letter-spacing: .1em;
+  }
+  .content_inner.comics .comic_text span {
+    font-size: 20px;
+    letter-spacing: .1em;
+  }
+  .content_inner.comics .comic_text span::before {
+    bottom: -5px;
+    border: 2px solid #000;
+  }
+  .content_inner.comics .comic_list {
+    margin-top: 30px;
+  }
+  .content_inner.comics .comic_list li {
+    width: 42.4%;
+    margin-right: 10%;
+    margin-bottom: 40px;
+  }
+  .content_inner.comics .comic_list li::before {
+    top: 10%;
+    left: 12%;
+  }
+
+  .content_inner.comics .comic_banner {
+    position: relative;
+    top: 0;
+    left: -1%;
+    width: 50%;
+    height: auto;
+    margin: -45% 0 0 auto;
+  }
+  .content_inner.comics .comic_list li .comic_img {
+    border: 3px solid #000;
+  }
+  .content_inner.comics .comic_list li:nth-child(even) {
+    margin-right: 0;
+  }
+}

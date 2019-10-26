@@ -1,0 +1,125 @@
+@charset "UTF-8";
+.special_report {
+  width: 90%;
+  max-width: 1080px;
+  margin: 45px auto 0;
+}
+.special_report h3 {
+  margin-top: 25px;
+  font-size: 20px;
+  line-height: 2;
+  font-weight: bold;
+}
+.special_report h3 span {
+  padding: 0 0 3px;
+  background: -webkit-gradient(linear, left top, left bottom, color-stop(40%, transparent), color-stop(0%, #ffebd3));
+  background: linear-gradient(transparent 40%, #ffebd3 0%);
+}
+
+.report_in {
+  margin: 45px auto 0;
+  text-align: left;
+}
+.report_in .lead {
+  font-size: 14px;
+  line-height: 1.6;
+}
+.report_in .report_item .txt_q {
+  position: relative;
+  margin: 30px auto 0;
+  padding: 0 0 0 2em;
+  color: #9e9e9e;
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 1.6;
+}
+.report_in .report_item .txt_q:before {
+  content: "――";
+  position: absolute;
+  left: 0;
+  letter-spacing: -4px;
+}
+.report_in .report_item .txt_a {
+  position: relative;
+  font-size: 14px;
+  line-height: 1.7;
+  margin-top: 20px;
+}
+.report_in .report_item .txt_a .name {
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+.report_in .report_item .txt_a .name span {
+  font-size: 80%;
+  color: #000;
+}
+.report_in .report_item .txt_a .text {
+  margin-left: 110px;
+  border-left: 2px solid #c63156;
+  padding-left: 20px;
+}
+.report_in .report_item .txt_a.n_nakayama .text, .report_in .report_item .txt_a.n_hosoi .text {
+  border-color: #c63156;
+}
+.report_in .report_item .txt_a.n_yamanouchi .text, .report_in .report_item .txt_a.n_a2c .text {
+  border-color: #fbae75;
+}
+.report_in .report_item .txt_a.n_adaniya .text {
+  border-color: #ffe400;
+}
+.report_in .report_item .txt_a.n_kayamori .text {
+  border-color: #e456ab;
+}
+
+@media screen and (max-width: 750px) {
+  .special_report {
+    margin-top: 30px;
+  }
+  .special_report h3 {
+    margin-top: 15px;
+    padding: 0 4%;
+    font-size: 15px;
+    font-size: 4vw;
+    line-height: 1.9;
+  }
+  .special_report h3 span {
+    padding: 0 0 1px;
+  }
+
+  .report_in {
+    margin: 30px auto 0;
+  }
+  .report_in .report_item .lead {
+    font-size: 13px;
+    font-size: 3.4666666667vw;
+  }
+  .report_in .report_item .txt_q {
+    margin: 30px auto 20px;
+    padding: 0 0 0 7em;
+    padding: 0;
+    font-size: 13px;
+    font-size: 3.4666666667vw;
+  }
+  .report_in .report_item .txt_q:before {
+    content: "――――――";
+    content: none;
+    position: absolute;
+    left: 0;
+    letter-spacing: -4px;
+  }
+  .report_in .report_item .txt_a {
+    font-size: 13px;
+    font-size: 3.4666666667vw;
+  }
+  .report_in .report_item .txt_a .name {
+    width: 5em;
+  }
+  .report_in .report_item .txt_a .name span {
+    font-size: 70%;
+  }
+  .report_in .report_item .txt_a .text {
+    margin-left: 6em;
+    padding-left: 1em;
+  }
+}

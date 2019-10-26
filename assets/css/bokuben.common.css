@@ -474,7 +474,7 @@ body {
   position: relative;
   width: 207px;
   height: 100vh;
-  min-height: 860px;
+  min-height: 1030px;
   margin: 0 auto;
   padding: 13px 0 333px;
 }
@@ -496,6 +496,10 @@ body {
 
 .l-header .c-header_menu .menu_onair {
   margin: 15px 0 40px;
+}
+
+.l-header .c-header_menu .menu_bnr {
+  margin-top: 13px;
 }
 
 .l-header .c-header_menu .menu_list {

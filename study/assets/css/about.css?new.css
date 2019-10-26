@@ -1,0 +1,340 @@
+.intro {
+  margin-top: 30px;
+}
+
+.intro .intro_img {
+  width: 92%;
+  max-width: 690px;
+  margin: 40px auto 0;
+}
+
+.intro .intro_txt {
+  margin-top: 25px;
+  font-size: 20px;
+  line-height: 2;
+}
+
+.intro .intro_txt span {
+  padding: 0 0 3px;
+  background: -webkit-gradient(linear, left top, left bottom, color-stop(40%, transparent), color-stop(0%, #ffebd3));
+  background: linear-gradient(transparent 40%, #ffebd3 0%);
+}
+
+.profile {
+  margin-top: 120px;
+}
+
+.profile .profile_list {
+  width: 90%;
+  max-width: 1080px;
+  margin: 40px auto 0;
+  text-align: left;
+}
+
+.profile .profile_list .profile_item {
+  -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=0)";
+  opacity: 0;
+  position: relative;
+  -webkit-transform: translate(-1.5%, -2%);
+          transform: translate(-1.5%, -2%);
+  min-height: 354px;
+  margin-bottom: 60px;
+  padding: 40px 40px 40px 342px;
+  background: url(../img/intro-prof/bg_prof.jpg) top center;
+  border: 1px solid #c63156;
+}
+
+.profile .profile_list .profile_item:before {
+  content: "";
+  position: absolute;
+  right: -1px;
+  bottom: -1px;
+  width: 40px;
+  height: 40px;
+  background: url(../img/intro-prof/bg_crease_prof_pc.jpg) no-repeat right bottom;
+}
+
+.profile .profile_list .profile_item .prof_name_img:after {
+  content: "";
+  display: block;
+  -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=0)";
+  opacity: 0;
+  width: 1px;
+  height: 1px;
+  margin-top: 20px;
+  background-color: #c63156;
+}
+
+.profile .profile_list .profile_item .prof_img {
+  -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=0)";
+  opacity: 0;
+  position: absolute;
+  top: -30px;
+  left: 40px;
+  z-index: 1;
+  -webkit-transform: translate(-2%, -2%);
+          transform: translate(-2%, -2%);
+  width: 260px;
+}
+
+.profile .profile_list .profile_item .prof_img:before {
+  content: "";
+  position: absolute;
+  top: 6px;
+  left: 6px;
+  z-index: -1;
+  width: 100%;
+  height: 100%;
+  background-color: #c63156;
+}
+
+.profile .profile_list .profile_item .prof_name {
+  display: inline-block;
+}
+
+.profile .profile_list .profile_item .prof_name p {
+  display: inline-block;
+  vertical-align: bottom;
+}
+
+.profile .profile_list .profile_item .prof_name .name {
+  margin-left: 1px;
+  font-size: 0;
+  letter-spacing: -.4em;
+}
+
+.profile .profile_list .profile_item .prof_name .name span {
+  display: inline-block;
+  -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=0)";
+  opacity: 0;
+  -webkit-transform: rotate(-45deg);
+          transform: rotate(-45deg);
+  margin-left: -1px;
+  padding: 7px;
+  background-color: #fff;
+  border: 1px solid #c63156;
+  font-size: 24px;
+  letter-spacing: normal;
+  text-align: center;
+
+  -webkit-transform-origin: left top;
+
+          transform-origin: left top;
+}
+
+.profile .profile_list .profile_item .prof_name .chara {
+  -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=0)";
+  opacity: 0;
+  padding-left: 5px;
+  color: #c63156;
+  font-weight: bold;
+  letter-spacing: .05em;
+}
+
+.profile .profile_list .profile_item .prof_txt {
+  -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=0)";
+  opacity: 0;
+  margin-top: 25px;
+  font-size: 15px;
+  line-height: 1.6;
+}
+
+.profile .profile_list .profile_item .prof_txt p {
+  margin-bottom: .7em;
+}
+
+.profile .profile_list .profile_item .prof_txt p:last-child {
+  margin-bottom: 0;
+}
+
+.profile .profile_list .profile_item.in {
+  -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=100)";
+  opacity: 1;
+  -webkit-transform: translate(0, 0);
+          transform: translate(0, 0);
+  -webkit-transition: opacity .7s ease, -webkit-transform .8s cubic-bezier(.19, .88, .32, 1.03);
+  transition: opacity .7s ease, -webkit-transform .8s cubic-bezier(.19, .88, .32, 1.03);
+  transition: transform .8s cubic-bezier(.19, .88, .32, 1.03), opacity .7s ease;
+  transition: transform .8s cubic-bezier(.19, .88, .32, 1.03), opacity .7s ease, -webkit-transform .8s cubic-bezier(.19, .88, .32, 1.03);
+}
+
+.profile .profile_list .profile_item.in .prof_name_img:after {
+  -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=100)";
+  opacity: 1;
+  width: 100%;
+  -webkit-transition: width .9s ease 2.2s, opacity .01s ease 2.2s;
+  transition: width .9s ease 2.2s, opacity .01s ease 2.2s;
+}
+
+.profile .profile_list .profile_item.in .prof_img {
+  -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=100)";
+  opacity: 1;
+  -webkit-transform: translate(0, 0);
+          transform: translate(0, 0);
+  -webkit-transition: opacity .7s ease .6s, -webkit-transform .7s cubic-bezier(.19, .88, .32, 1.03) .6s;
+  transition: opacity .7s ease .6s, -webkit-transform .7s cubic-bezier(.19, .88, .32, 1.03) .6s;
+  transition: transform .7s cubic-bezier(.19, .88, .32, 1.03) .6s, opacity .7s ease .6s;
+  transition: transform .7s cubic-bezier(.19, .88, .32, 1.03) .6s, opacity .7s ease .6s, -webkit-transform .7s cubic-bezier(.19, .88, .32, 1.03) .6s;
+}
+
+.profile .profile_list .profile_item.in .prof_name .name span {
+  -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=100)";
+  opacity: 1;
+  -webkit-transform: rotate(0deg);
+          transform: rotate(0deg);
+}
+
+.profile .profile_list .profile_item.in .prof_name .name span:nth-child(1) {
+  -webkit-transition: opacity .7s ease 1s, -webkit-transform .7s ease 1s;
+  transition: opacity .7s ease 1s, -webkit-transform .7s ease 1s;
+  transition: transform .7s ease 1s, opacity .7s ease 1s;
+  transition: transform .7s ease 1s, opacity .7s ease 1s, -webkit-transform .7s ease 1s;
+}
+
+.profile .profile_list .profile_item.in .prof_name .name span:nth-child(2) {
+  -webkit-transition: opacity .7s ease 1.15s, -webkit-transform .7s ease 1.15s;
+  transition: opacity .7s ease 1.15s, -webkit-transform .7s ease 1.15s;
+  transition: transform .7s ease 1.15s, opacity .7s ease 1.15s;
+  transition: transform .7s ease 1.15s, opacity .7s ease 1.15s, -webkit-transform .7s ease 1.15s;
+}
+
+.profile .profile_list .profile_item.in .prof_name .name span:nth-child(3) {
+  -webkit-transition: opacity .7s ease 1.3s, -webkit-transform .7s ease 1.3s;
+  transition: opacity .7s ease 1.3s, -webkit-transform .7s ease 1.3s;
+  transition: transform .7s ease 1.3s, opacity .7s ease 1.3s;
+  transition: transform .7s ease 1.3s, opacity .7s ease 1.3s, -webkit-transform .7s ease 1.3s;
+}
+
+.profile .profile_list .profile_item.in .prof_name .name span:nth-child(4) {
+  -webkit-transition: opacity .7s ease 1.45s, -webkit-transform .7s ease 1.45s;
+  transition: opacity .7s ease 1.45s, -webkit-transform .7s ease 1.45s;
+  transition: transform .7s ease 1.45s, opacity .7s ease 1.45s;
+  transition: transform .7s ease 1.45s, opacity .7s ease 1.45s, -webkit-transform .7s ease 1.45s;
+}
+
+.profile .profile_list .profile_item.in .prof_name .name span:nth-child(5) {
+  -webkit-transition: opacity .7s ease 1.6s, -webkit-transform .7s ease 1.6s;
+  transition: opacity .7s ease 1.6s, -webkit-transform .7s ease 1.6s;
+  transition: transform .7s ease 1.6s, opacity .7s ease 1.6s;
+  transition: transform .7s ease 1.6s, opacity .7s ease 1.6s, -webkit-transform .7s ease 1.6s;
+}
+
+.profile .profile_list .profile_item.in .prof_name .name span:nth-child(6) {
+  -webkit-transition: opacity .7s ease 1.75s, -webkit-transform .7s ease 1.75s;
+  transition: opacity .7s ease 1.75s, -webkit-transform .7s ease 1.75s;
+  transition: transform .7s ease 1.75s, opacity .7s ease 1.75s;
+  transition: transform .7s ease 1.75s, opacity .7s ease 1.75s, -webkit-transform .7s ease 1.75s;
+}
+
+.profile .profile_list .profile_item.in .prof_name .name span:nth-child(7) {
+  -webkit-transition: opacity .7s ease 1.9s, -webkit-transform .7s ease 1.9s;
+  transition: opacity .7s ease 1.9s, -webkit-transform .7s ease 1.9s;
+  transition: transform .7s ease 1.9s, opacity .7s ease 1.9s;
+  transition: transform .7s ease 1.9s, opacity .7s ease 1.9s, -webkit-transform .7s ease 1.9s;
+}
+
+.profile .profile_list .profile_item.in .prof_name .chara {
+  -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=100)";
+  opacity: 1;
+  -webkit-transition: opacity .7s ease 1.9s;
+  transition: opacity .7s ease 1.9s;
+}
+
+.profile .profile_list .profile_item.in .prof_txt {
+  -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=100)";
+  opacity: 1;
+  -webkit-transition: opacity .7s ease 2.5s;
+  transition: opacity .7s ease 2.5s;
+}
+
+@media screen and (max-width: 750px) {
+  .intro .intro_img {
+    margin-top: 7%;
+  }
+  .intro .intro_txt {
+    margin-top: 15px;
+    padding: 0 4%;
+    font-size: 15px;
+    line-height: 1.9;
+  }
+  .intro .intro_txt span {
+    padding: 0 0 1px;
+  }
+  .profile {
+    margin-top: 15%;
+  }
+  .profile .profile_list {
+    margin-top: 60px;
+  }
+  .profile .profile_list .profile_item {
+    margin-bottom: 50px;
+    padding: 35% 5% 15px;
+    background-size: 19px auto;
+  }
+  .profile .profile_list .profile_item:before {
+    width: 20px;
+    height: 20px;
+    background: url(../img/intro-prof/bg_crease_prof_sp.jpg) no-repeat right bottom;
+    background-size: contain;
+  }
+  .profile .profile_list .profile_item .prof_name_img {
+    position: relative;
+    padding-bottom: 20px;
+    padding-left: 40%;
+    text-align: right;
+  }
+  .profile .profile_list .profile_item .prof_name_img:after {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    margin-top: 0;
+  }
+  .profile .profile_list .profile_item .prof_img {
+    top: auto;
+    bottom: 20px;
+    left: 0;
+    width: 51.5%;
+  }
+  .profile .profile_list .profile_item .prof_img:before {
+    top: 3px;
+    left: 3px;
+  }
+  .profile .profile_list .profile_item .prof_name {
+    text-align: left;
+  }
+  .profile .profile_list .profile_item .prof_name p {
+    display: block;
+  }
+  .profile .profile_list .profile_item .prof_name .name span {
+    padding: 5px;
+    font-size: 20px;
+    font-size: 3.5vw;
+    font-weight: 600;
+  }
+  .profile .profile_list .profile_item .prof_name .chara {
+    padding-top: 10px;
+    padding-left: 0;
+  }
+  .profile .profile_list .profile_item .prof_txt {
+    margin-top: 20px;
+    font-size: 13px;
+    line-height: 1.7;
+  }
+  .profile .profile_list .profile_item.in .prof_name_img:after {
+    -webkit-transition: width .6s ease 2.2s, opacity .01s ease 2.2s;
+    transition: width .6s ease 2.2s, opacity .01s ease 2.2s;
+  }
+}
+
+@media screen and (min-width: 751px) {
+  .profile .profile_list .profile_item:before {
+    -webkit-transition: -webkit-transform .3s ease;
+    transition: -webkit-transform .3s ease;
+    transition: transform .3s ease;
+    transition: transform .3s ease, -webkit-transform .3s ease;
+
+    -webkit-transform-origin: right bottom;
+
+            transform-origin: right bottom;
+  }
+}

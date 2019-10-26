@@ -1,0 +1,322 @@
+@charset "UTF-8";
+.wrapper {
+  position: relative;
+}
+.wrapper hr {
+  width: 100%;
+  height: 3px;
+  padding: 0;
+  margin: 80px auto 68px;
+  background: #B5EFE0;
+  border: 0;
+  border-top: 4px solid #000;
+  border-bottom: 2px solid #000;
+}
+.wrapper .att_list li {
+  text-indent: -1em;
+  padding-left: 1em;
+  font-size: 12px;
+  font-weight: 600;
+  line-height: 1.7;
+}
+.wrapper .deco_item li {
+  position: absolute;
+  left: 0;
+  width: 100%;
+  height: 6px;
+  background: #a2ebda;
+}
+.wrapper .deco_item li::before, .wrapper .deco_item li::after {
+  content: "";
+  position: absolute;
+  left: 0;
+  width: 100%;
+  background: #000;
+}
+.wrapper .deco_item li::before {
+  top: 0;
+  height: 3px;
+}
+.wrapper .deco_item li::after {
+  bottom: 0;
+  height: 1px;
+}
+.wrapper .deco_item li:first-child {
+  top: 0;
+}
+.wrapper .deco_item li:last-child {
+  bottom: 0;
+}
+.wrapper .deco_item li:last-child::before {
+  height: 1px;
+}
+.wrapper .deco_item li:last-child::after {
+  height: 3px;
+}
+
+.item_head {
+  display: inline-block;
+  position: relative;
+  margin-bottom: 14px;
+  font-size: 42px;
+  font-family: "Montserrat", sans-serif;
+}
+.item_head::before {
+  content: "";
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+  height: 24px;
+  background: #ffff4f;
+  border: 1px solid #000;
+  -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=0)";
+}
+.item_head h2, .item_head h3 {
+  display: inline-block;
+  position: relative;
+  width: auto;
+  padding: 0 10px 10px;
+  color: #fff;
+  font-weight: 800;
+  letter-spacing: .075em;
+  -webkit-text-stroke: 1px #000;
+}
+
+.main_cont {
+  width: 980px;
+  margin: auto;
+}
+.main_cont h1 {
+  width: 842px;
+  margin: 102px auto 38px;
+}
+.main_cont .top_lead {
+  font-size: 21px;
+  font-weight: 600;
+  line-height: 1.7;
+}
+.main_cont .top_poster {
+  margin: 48px 0 68px;
+  letter-spacing: -.4em;
+}
+.main_cont .top_poster li {
+  display: inline-block;
+  margin: 0 12.5px;
+}
+.main_cont .chap01 .chap_box {
+  position: relative;
+  padding: 15px 0;
+  background: #fff;
+  border: 5px solid #000;
+}
+.main_cont .chap01 .chap_box .chap_inner {
+  position: relative;
+  padding: 42px 0 55px 65px;
+  font-weight: 600;
+  font-size: 16px;
+  letter-spacing: .075em;
+}
+.main_cont .chap01 .chap_box:before {
+  content: "";
+  -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=70)";
+  opacity: .7;
+  position: absolute;
+  top: 20px;
+  left: 20px;
+  width: 100%;
+  height: 100%;
+  background: #ffff4f;
+  z-index: -1;
+}
+.main_cont .chap01 .chap_box:after {
+  content: "";
+  position: absolute;
+  top: 50%;
+  left: -18px;
+  -webkit-transform: translateY(-50%);
+  transform: translateY(-50%);
+  width: 36px;
+  height: 95%;
+  background: url(../img/bg_note_repeat.svg) top left repeat-y;
+  background-size: contain;
+  z-index: 9;
+}
+.main_cont .chap01 .chap_item {
+  text-align: left;
+}
+.main_cont .chap01 .chap_item .att {
+  font-size: 13px;
+  color: #000;
+}
+.main_cont .chap01 .chap_item .txt_box {
+  line-height: 1.7;
+}
+.main_cont .chap01 .chap_item .info dt {
+  margin: 30px 0 14px;
+  font-size: 0;
+  letter-spacing: -.4em;
+}
+.main_cont .chap01 .chap_item .info dt span {
+  display: inline-block;
+  width: 39px;
+  margin-bottom: 0;
+  padding: 5px 0 6px;
+  background: #fff;
+  border: 3px solid #ececec;
+  vertical-align: top;
+  font-weight: 700;
+  font-size: 21px;
+  font-family: "Noto Sans JP", "游ゴシック", YuGothic, "Helvetica", "ヒラギノ角ゴ ProN W3", "Hiragino Kaku Gothic ProN", "メイリオ", Meiryo, "Helvetica Neue", Arial, sans-serif;
+  letter-spacing: normal;
+  text-align: center;
+  border-right: none;
+}
+.main_cont .chap01 .chap_item .info dt span:last-child {
+  border-right: 3px solid #ececec;
+}
+.main_cont .chap01 .chap_item .info dd .day {
+  font-size: 20px;
+  color: #f5588b;
+  line-height: 1.3;
+}
+.main_cont .chap01 .chap_item .info dd .day span.end {
+  text-decoration: line-through;
+}
+.main_cont .chap02 {
+  text-align: left;
+}
+.main_cont .chap02 .txt_box {
+  padding-bottom: 16px;
+  line-height: 1.7;
+  font-size: 16px;
+  font-weight: 600;
+}
+.main_cont .chap02 .txt_box strong {
+  color: #f5588b;
+}
+
+@media only screen and (max-width: 768px) {
+  .wrapper hr {
+    height: 2px;
+    margin: 40px auto 42px;
+    border-top: 2px solid #000;
+    border-bottom: 1px solid #000;
+  }
+  .wrapper .att_list li {
+    font-size: 11px;
+    font-size: 2.9333333333vw;
+    letter-spacing: -0.01em;
+  }
+
+  .item_head {
+    margin-bottom: 20px;
+    font-size: 24px;
+    font-size: 6.4vw;
+    line-height: 1;
+  }
+  .item_head::before {
+    height: 15px;
+  }
+  .item_head h2, .item_head h3 {
+    padding: 0 6px 4px;
+  }
+
+  .main_cont {
+    width: 88.2%;
+  }
+  .main_cont h1 {
+    width: 100%;
+    margin: 17px auto 26px;
+  }
+  .main_cont .top_lead {
+    font-size: 16px;
+    font-size: 4.2666666667vw;
+  }
+  .main_cont .top_poster {
+    margin: 35px auto 40px;
+  }
+  .main_cont .top_poster li {
+    width: 33.3%;
+    margin: 0;
+  }
+  .main_cont .chap01 {
+    margin: auto;
+  }
+  .main_cont .chap01 .chap_box {
+    padding: 8px 0;
+    border: 3px solid #000;
+  }
+  .main_cont .chap01 .chap_box:before {
+    top: 8px;
+    left: 8px;
+  }
+  .main_cont .chap01 .chap_box:after {
+    left: -2.8%;
+    width: 5.6%;
+    height: 95%;
+  }
+  .main_cont .chap01 .chap_box .chap_inner {
+    padding: 30px 5.9% 38px 10%;
+    font-size: 13px;
+    font-size: 3.4666666667vw;
+    line-height: 30px;
+  }
+  .main_cont .chap01 .chap_box .chap_inner .has_line::before {
+    bottom: -4px;
+    height: 4px;
+  }
+  .main_cont .chap01 .chap_box .chap_inner .has_line.is_big {
+    font-size: 25px;
+    line-height: 45px;
+  }
+  .main_cont .chap01 .chap_box .chap_inner::before {
+    left: -12px;
+    width: 32px;
+    height: 97%;
+  }
+  .main_cont .chap01 .chap_box .chap_inner::after {
+    position: absolute;
+    bottom: 6px;
+    left: 0;
+    width: 100%;
+    height: 270px;
+    background: url(https://boku-ben.com/special/contest/assets/img/common/bg_grid_repeat.jpg) top left repeat;
+  }
+  .main_cont .chap01 .chap_item .att {
+    font-size: 11px;
+    font-size: 2.9333333333vw;
+    line-height: 1.3;
+    letter-spacing: -0.01em;
+  }
+  .main_cont .chap01 .chap_item .info dt {
+    margin: 25px 0 10px;
+  }
+  .main_cont .chap01 .chap_item .info dt span {
+    width: 30px;
+    height: 30px;
+    line-height: 29px;
+    padding: 0;
+    border: 1.5px solid #ececec;
+    font-size: 16px;
+    font-size: 4.2666666667vw;
+    border-left: none;
+  }
+  .main_cont .chap01 .chap_item .info dt span:first-child {
+    border-left: 1.5px solid #ececec;
+  }
+  .main_cont .chap01 .chap_item .info dt span:last-child {
+    border-right: 1.5px solid #ececec;
+  }
+  .main_cont .chap01 .chap_item .info dd .day {
+    font-size: 15px;
+    font-size: 4vw;
+    line-height: 1.3;
+  }
+  .main_cont .chap02 .txt_box {
+    padding-bottom: 16px;
+    line-height: 1.7;
+    font-size: 14px;
+    font-size: 3.7333333333vw;
+  }
+}

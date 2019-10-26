@@ -178,9 +178,8 @@ button {
 }
 
 .display_name {
-  font-family: -apple-system, BlinkMacSystemFont, "Helvetica Neue", "æ¸¸ã‚´ã‚·ãƒƒã‚¯", YuGothic, "ãƒ’ãƒ©ã‚®ãƒŽè§’ã‚´ ProN W3", Hiragino Kaku Gothic ProN, Arial, "ãƒ¡ã‚¤ãƒªã‚ª", Meiryo, sans-serif;
-  position: absolute;
-  width: 420px;
+  font-family: YakuHanJP, "Noto Sans JP", "游ゴシック", YuGothic, "Helvetica", "ヒラギノ角ゴ ProN W3", "Hiragino Kaku Gothic ProN", "メイリオ", Meiryo, "Helvetica Neue", Arial, sans-serif;  position: absolute;
+  width: 500px;
   -webkit-animation: title_anxsoundplayer2_1 5s linear infinite;
   animation: title_anxsoundplayer2_1 5s linear infinite;
   color: #000;
