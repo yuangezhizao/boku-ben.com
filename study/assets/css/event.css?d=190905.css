@@ -21,6 +21,34 @@
 .event .event_lead {
   margin-top: 1.5em;
 }
+.event .scrBtn {
+  position: relative;
+  display: inline-block;
+  margin: 30px auto;
+  padding: 10px 30px 10px 20px;
+  border: 2px solid #c63156;
+  border-radius: 5px;
+  color: #c63156;
+}
+.event .scrBtn::before{
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    margin: auto;
+    vertical-align: middle;
+    content: "";
+    right: 10px;
+    width: 5px;
+    height: 5px;
+    border-top: 1.5px solid #c63156;
+    border-right: 1.5px solid #c63156;
+    -webkit-transform: rotate(135deg);
+    transform: rotate(135deg);
+}
+.event .scrBtn span {
+  letter-spacing: 0.1rem;
+  font-weight: 600;
+}
 .event .event_visual {
   opacity: 0;
   margin: 30px auto 0;
@@ -331,6 +359,22 @@
   line-height: 1.6em;
 }
 
+.tag {
+  display: inline-block;
+  margin-top: 6px;
+  padding: 5px 7px;
+  color: #fff;
+  font-size: 12px;
+  background-color: #c63156;
+  border: 1px solid #c63156;
+  line-height: 1;
+}
+
+.tag.re {
+  color: #c63156;
+  background-color: #fff;
+}
+
 a.buy_btn {
   display: block;
   width: 360px;
@@ -493,6 +537,7 @@ a.buy_btn:after {
     font-size: 14px;
     text-align: center;
     margin: auto;
+    /* background: none; */
   }
   .event_sub p.sub_left {
     text-align: center;
@@ -587,6 +632,9 @@ a.buy_btn:after {
   .event_sub.goods .goods_list li.goods_item .txt_area .detail_02 {
     font-size: 11px;
   }
+  .tag {
+    font-size: 9px;
+  }
   .event_sub.attention h4 {
     margin: 20px 0 6px;
     padding: 0 4px;
@@ -672,6 +720,32 @@ a.buy_btn:after {
   }
   a.buy_btn:hover:after {
     right: 20px;
+  }
+  .event .scrBtn {
+    cursor: pointer;
+    -webkit-transition: all .3s ease;
+    transition: all .3s ease;
+  }
+  .event .scrBtn:hover {
+    color: #fff;
+    background: #c63156;
+  }
+  .event .scrBtn {
+    position: relative;
+    display: inline-block;
+    margin: 30px auto;
+    padding: 10px 30px 10px 20px;
+    border: 2px solid #c63156;
+    border-radius: 5px;
+    color: #c63156;
+  }
+  .event .scrBtn::before{
+      -webkit-transition: all .3s ease;
+      transition: all .3s ease;
+  }
+  .event .scrBtn:hover::before{
+      border-top: 1.5px solid #fff;
+      border-right: 1.5px solid #fff;
   }
 }
 .floatcontents {

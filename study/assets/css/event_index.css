@@ -148,6 +148,9 @@
     height: 100%;
   }
 }
+.event_index .index_cont .event_list li.fin .event_info h4 {
+  color: #6f6f6f;
+}
 @media screen and (min-width: 751px) {
   .event_index .anchor_nav ul li:before {
     content: " ";

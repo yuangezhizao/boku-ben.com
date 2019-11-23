@@ -66,11 +66,32 @@ img {
   letter-spacing: .075em;
 }
 
+.galleryArea .slideArea .swiper-container .swiper-wrapper .swiper-slide .detail {
+  padding-top: 10px;
+  border-top: 2px solid #C8C8C8;
+  line-height: 1.4em;
+  color: #000;
+  font-weight: 800;
+  margin-top: 6px;
+  font-size: 13px;
+  letter-spacing: .075em;
+}
+
+.galleryArea .slideArea .swiper-container .swiper-wrapper .swiper-slide .detail a {
+  position: relative !important;
+  line-height: 1em;
+  color: #000;
+  font-size: 13px;
+}
+
 .galleryArea .slideArea .swiper-container .swiper-wrapper .swiper-slide .img {
   border: 4px solid #000;
 }
 
 @media screen and (min-width: 48.0625em) {
+.galleryArea .slideArea .swiper-container .swiper-wrapper .swiper-slide .detail a:hover {
+  text-decoration: none;
+}
   .galleryArea {
     position: relative;
     width: 760px;

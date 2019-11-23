@@ -117,6 +117,15 @@
   height: 29%;
   background: url(../img/common/bg_grid_repeat.jpg) top left repeat;
 }
+.content_inner.chara .chara_slide .swiper-slide.gakuenchou .slide_bg .bg_inner .bg_content::before {
+  content: "";
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+  height: 30%;
+  background: url(../img/common/bg_grid_repeat.jpg) top left repeat;
+}
 
 .content_inner.chara .chara_slide .slide_bg .bg_inner .bg_content::after {
   content: "";
@@ -148,6 +157,9 @@
   padding-top: 203px;
   font-size: 0;
   letter-spacing: -.4em;
+}
+.content_inner.chara .chara_slide .slide_content .swiper-wrapper .slide_inner .slide_text .text_name.name_line02 {
+  padding-top: 38px;
 }
 
 .content_inner.chara .chara_slide .slide_content .swiper-wrapper .slide_inner .slide_text .text_name p {
@@ -305,6 +317,19 @@
     top: 50px;
     right: -48px;
   }
+  .content_inner.chara .chara_slide .slide_content .swiper-wrapper .swiper-slide.kobayashi .slide_inner .slide_img1,
+  .content_inner.chara .chara_slide .slide_content .swiper-wrapper .swiper-slide.ohmori .slide_inner .slide_img1,
+  .content_inner.chara .chara_slide .slide_content .swiper-wrapper .swiper-slide.sekijo .slide_inner .slide_img1,
+  .content_inner.chara .chara_slide .slide_content .swiper-wrapper .swiper-slide.gakuenchou .slide_inner .slide_img1,
+  .content_inner.chara .chara_slide .slide_content .swiper-wrapper .swiper-slide.umihara .slide_inner .slide_img1,
+  .content_inner.chara .chara_slide .slide_content .swiper-wrapper .swiper-slide.kawase .slide_inner .slide_img1 {
+    top: 50px;
+    right: -100px;
+  }
+  .content_inner.chara .chara_slide .slide_content .swiper-wrapper .swiper-slide.mizuki .slide_inner .slide_img1 {
+    top: 70px;
+    right: -100px;
+  }
   .content_inner.chara .chara_slide .slide_content .swiper-wrapper .swiper-slide.rizu .slide_inner .slide_img1 {
     right: -140px;
   }
@@ -332,6 +357,9 @@
     position: relative;
     width: 100%;
     margin: 0 auto;
+  }
+  .content_inner.chara .chara_slide .slide_content .swiper-wrapper .swiper-slide.gakuenchou .slide_inner .slide_img2 {
+    margin-top: -110px;
   }
   .content_inner.chara .chara_slide .slide_list .slide_pagination .swiper-pagination-thumb .thumb_img::before {
     -webkit-transform: translate(0, 0);
@@ -394,6 +422,9 @@
     height: 65.7%;
     background-size: 16px auto;
   }
+  .content_inner.chara .chara_slide .swiper-slide.gakuenchou .slide_bg .bg_inner .bg_content::before {
+    height: 61%;
+  }
   .content_inner.chara .chara_slide .slide_bg .bg_inner .bg_content::after {
     left: -10px;
     width: 30px;
@@ -411,11 +442,41 @@
   .content_inner.chara .chara_slide .slide_content .swiper-wrapper .swiper-slide.nariyuki .slide_inner .slide_img2 {
     margin-top: -33%;
   }
+  .content_inner.chara .chara_slide .slide_content .swiper-wrapper .swiper-slide.sekijo .slide_inner .slide_img2 {
+    margin-top: -38%;
+  }
+  .content_inner.chara .chara_slide .slide_content .swiper-wrapper .swiper-slide.mizuki .slide_inner .slide_img2 {
+    margin-top: -46%;
+    margin-left: -3%;
+  }
+  .content_inner.chara .chara_slide .slide_content .swiper-wrapper .swiper-slide.gakuenchou .slide_inner .slide_img2 {
+    margin-top: -46%;
+    margin-left: -4%;
+  }
+  .content_inner.chara .chara_slide .slide_content .swiper-wrapper .swiper-slide.kobayashi .slide_inner .slide_img2 {
+    margin-top: -40%;
+    margin-left: -4%;
+  }
+  .content_inner.chara .chara_slide .slide_content .swiper-wrapper .swiper-slide.ohmori .slide_inner .slide_img2 {
+    margin-top: -40%;
+    margin-left: -4%;
+  }
+  .content_inner.chara .chara_slide .slide_content .swiper-wrapper .swiper-slide.kawase .slide_inner .slide_img2 {
+    margin-top: -37%;
+    margin-left: -3%;
+  }
+  .content_inner.chara .chara_slide .slide_content .swiper-wrapper .swiper-slide.umihara .slide_inner .slide_img2 {
+    margin-top: -42%;
+    margin-left: -3%;
+  }
   .content_inner.chara .chara_slide .slide_content .swiper-wrapper .slide_inner .slide_text {
     padding: 0 11% 0 15%;
   }
   .content_inner.chara .chara_slide .slide_content .swiper-wrapper .slide_inner .slide_text .text_name {
     padding-top: 94px;
+  }
+  .content_inner.chara .chara_slide .slide_content .swiper-wrapper .slide_inner .slide_text .text_name.name_line02 {
+    padding-top: 24px;
   }
   .content_inner.chara .chara_slide .slide_content .swiper-wrapper .slide_inner .slide_text .text_name p {
     width: 39px;
@@ -484,5 +545,93 @@
 @media screen and (max-width: 321px) {
   .content_inner.chara .chara_slide .slide_bg .bg_inner .bg_content::before {
     height: 60.7%;
+  }
+}
+
+
+.music_season {
+  /* margin-bottom: 40px; */
+  font-size: 0;
+  letter-spacing: -.4em;
+  text-align: center;
+}
+.music_season li {
+  display: inline-block;
+  position: relative;
+  width: 434px;
+  vertical-align: top;
+  font-weight: 800;
+  font-size: 20px;
+  font-family: "Montserrat", sans-serif;
+  letter-spacing: normal;
+  letter-spacing: .04em;
+  -webkit-text-stroke: 1px #000;
+}
+.music_season li + li {
+  margin-left: 10px;
+}
+.music_season li a {
+  display: block;
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+}
+.music_season li .music_season_btn {
+  position: relative;
+  overflow: hidden;
+  border: 3px solid #000;
+  border-radius: 8px;
+}
+.music_season li .music_season_btn p {
+  padding: 12px 0 12px;
+}
+.music_season li .music_season_btn .is-passiv {
+  color: #fff;
+}
+.music_season li .music_season_btn .is-active {
+  -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=0)";
+  opacity: 0;
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  background: #000;
+}
+.music_season li.is-current {
+  pointer-events: none;
+}
+.music_season li.is-current .music_season_btn .is-active {
+  -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=100)";
+  opacity: 1;
+}
+
+@media screen and (max-width: 768px) {
+  .music_season {
+    margin-bottom: 32px;
+  }
+  .music_season li {
+    width: 100%;
+    font-size: 17px;
+    letter-spacing: 0em;
+  }
+  .music_season li + li {
+    margin-top: 12px;
+    margin-left: 0;
+  }
+
+  .story_season_btn {
+    border-width: 2px;
+    border-radius: 5px;
+  }
+  .story_season_btn p {
+    padding: 8px 0 8px;
+  }
+}
+@media all and (-ms-high-contrast: none) {
+  .music_season li {
+    text-shadow: 1px 1px 0 #000, -1px 1px 0 #000, 1px -1px 0 #000, -1px -1px 0 #000;
+    -webkit-text-stroke: none;
   }
 }
