@@ -1,0 +1,90 @@
+/* 0101 */
+
+.l-modal.openingafter .modal_bg {
+  position: fixed;
+  background: #fbde95 !important;
+  -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=90)";
+}
+
+.l-modal.openingafter .modal_content {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  -webkit-transform: translate(-50%, -50%);
+}
+
+.l-modal.openingafter .txt_season02 {
+  position: absolute;
+  right: 0;
+  top: 50%;
+  width: 35px;
+  -webkit-transform: translateY(-50%);
+  transform: translateY(-50%);
+}
+
+.l-modal.openingafter .img_newyear {
+    position: relative;
+    width: 440px;
+    margin-right: 64px;
+    /* border-top: 2px solid #000; */
+    /* border-bottom: 2px solid #000; */
+}
+
+.l-modal.openingafter .img_newyear:before {
+  content: "";
+  position: absolute;
+  top: -8px;
+  display: block;
+  width: 440px;
+  height: 4px;
+  /* border-top: 4px solid #000; */
+  /* background: #ff564a; */
+}
+
+.l-modal.openingafter .img_newyear:after {
+  content: "";
+  position: absolute;
+  bottom: -8px;
+  display: block;
+  width: 440px;
+  height: 4px;
+  /* border-bottom: 4px solid #000; */
+  /* background: #ff564a; */
+}
+
+
+@media screen and (min-width: 769px) {
+
+}
+
+@media screen and (max-width: 768px) {
+  .l-modal.openingafter {
+    overflow-y: scroll;
+  }
+  .l-modal.openingafter .modal_content {
+    position: absolute;
+    top: 90px;
+    left: 50%;
+    transform: translate(-50%, 0);
+    -webkit-transform: translate(-50%, 0);
+  }
+  .l-modal.openingafter .txt_season02 {
+    position: absolute;
+    left: 3%;
+    right: auto;
+    top: 4%;
+    width: 7.6%;
+    -webkit-transform: unset;
+    transform: unset;
+    z-index: 5;
+  }
+  .l-modal.openingafter .img_newyear {
+    width: 100%;
+    /* border-top: 2px solid #000; */
+    /* border-bottom: 2px solid #000; */
+  }
+  .newyear_wrap {
+    padding-bottom: 40px;
+  }
+}
