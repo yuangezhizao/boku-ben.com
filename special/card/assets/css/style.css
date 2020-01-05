@@ -234,7 +234,7 @@ a {
   min-width: 1160px;
   margin: 0 auto;
   overflow: hidden;
-  background: url(https://boku-ben.com/special/card/assets/img/common/bg.jpg) repeat;
+  background: url(../img/common/bg.jpg) repeat;
   text-align: center;
 }
 
@@ -485,7 +485,7 @@ a {
 /* component */
 .c-header {
   position: relative;
-  background: #ffff4f url(https://boku-ben.com/special/card/assets/img/common/bg_header_pc.png) repeat-x center top;
+  background: #ffff4f url(../img/common/bg_header_pc.png) repeat-x center top;
 }
 
 .c-header__logo {
@@ -1457,7 +1457,7 @@ a {
   left: 0;
   width: 100%;
   height: 100%;
-  background: url(https://boku-ben.com/special/card/assets/img/card/btn_upload.png) no-repeat center 47%;
+  background: url(../img/card/btn_upload.png) no-repeat center 47%;
 }
 
 .p-form__main .p-in-form__img-text {
@@ -1557,12 +1557,12 @@ a {
 
 .p-form__main .p-in-form__range-control--small {
   left: 0;
-  background-image: url(https://boku-ben.com/special/card/assets/img/card/btn_minus.png);
+  background-image: url(../img/card/btn_minus.png);
 }
 
 .p-form__main .p-in-form__range-control--big {
   right: 0;
-  background-image: url(https://boku-ben.com/special/card/assets/img/card/btn_plus.png);
+  background-image: url(../img/card/btn_plus.png);
 }
 
 @media screen and (min-width: 751px) {
@@ -2173,7 +2173,7 @@ a {
     border: 2px solid #ea6ea4;
   }
   .p-form__main .p-in-form__img::before {
-    background: url(https://boku-ben.com/special/card/assets/img/card/btn_upload.png) no-repeat center 44%;
+    background: url(../img/card/btn_upload.png) no-repeat center 44%;
     background-size: 23px auto;
   }
   .p-form__main .p-in-form__img-text {
