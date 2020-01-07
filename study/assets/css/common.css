@@ -232,7 +232,7 @@ a:hover {
           transform: scale(1.2);
   width: 30px;
   height: 100%;
-  background: url(../img/common/menu_mark.png) no-repeat center center;
+  background: url(https://boku-ben.com/study/assets/img/common/menu_mark.png) no-repeat center center;
   background-size: contain;
   -webkit-transition: opacity .2s ease, -webkit-transform .01s ease .2s;
   transition: opacity .2s ease, -webkit-transform .01s ease .2s;
