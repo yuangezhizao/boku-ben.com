@@ -70,7 +70,7 @@
   right: 0;
   width: 25px;
   height: 100%;
-  background: url(../img/common/arrow_right.svg) left center no-repeat;
+  background: url(https://boku-ben.com/assets/img/common/arrow_right.svg) left center no-repeat;
   background-size: 15px auto;
 }
 
@@ -316,7 +316,7 @@
 
 .content_inner.top .top_section.top_banner {
   padding: 33px 0 30px;
-  background: url(../img/common/bg_grid_repeat.jpg) top left repeat;
+  background: url(https://boku-ben.com/assets/img/common/bg_grid_repeat.jpg) top left repeat;
 }
 
 .content_inner.top .top_section.top_banner .non_swiper {
@@ -469,7 +469,7 @@
   left: 0;
   width: 100%;
   height: 36px;
-  background: url(../img/top/img_monthly_note.svg) center top no-repeat;
+  background: url(https://boku-ben.com/assets/img/top/img_monthly_note.svg) center top no-repeat;
   background-size: contain;
 }
 
@@ -495,7 +495,7 @@
   position: relative;
   padding: 67px 0 93px;
   overflow: hidden;
-  background: url(../img/common/bg_grid_repeat.jpg) top left repeat;
+  background: url(https://boku-ben.com/assets/img/common/bg_grid_repeat.jpg) top left repeat;
 }
 
 .content_inner.top .top_section.top_movie .movie_content {
@@ -629,7 +629,7 @@
   left: 0;
   width: 100%;
   height: 100%;
-  background: url(../img/movie/icon_play.svg) center center no-repeat;
+  background: url(https://boku-ben.com/assets/img/movie/icon_play.svg) center center no-repeat;
   background-size: 70px auto;
 }
 
@@ -796,7 +796,7 @@
   right: 0;
   width: 25px;
   height: 100%;
-  background: url(../img/common/arrow_right.svg) left center no-repeat;
+  background: url(https://boku-ben.com/assets/img/common/arrow_right.svg) left center no-repeat;
   background-size: 15px auto;
 }
 
@@ -830,7 +830,7 @@
   left: 0;
   width: 35px;
   height: 100%;
-  background: url(../img/top/icon_jump.svg) center left no-repeat;
+  background: url(https://boku-ben.com/assets/img/top/icon_jump.svg) center left no-repeat;
   background-size: 25px auto;
 }
 
@@ -1409,29 +1409,4 @@
   }
 }
 
-@media screen and (min-width: 380px) and (max-width: 409px) {
-  .l-content .c-content_wrap .content_inner.top .top_section.top_schedule .schedule_calender .calender_box {
-    padding-bottom: 150%;
-  }
-}
-
-@media screen and (min-width: 410px) and (max-width: 768px) {
-  .l-content .c-content_wrap .content_inner.top .top_section.top_schedule .schedule_calender .calender_box {
-    padding-bottom: 139%;
-  }
-  .l-content .c-content_wrap .content_inner.top .top_section.top_schedule .schedule_calender .calender_box iframe {
-    top: -20.5%;
-  }
-}
-
-@media screen and (max-width: 321px) {
-  .l-content .c-content_wrap .content_inner.top .top_section.top_schedule .schedule_calender .calender_box {
-    padding-bottom: 177%;
-  }
-  .l-content .c-content_wrap .content_inner.top .top_section.top_link .link_jump p {
-    font-size: 12px;
-  }
-  .l-content .c-content_wrap .content_inner.top .top_section.top_movie .movie_wrap .title {
-    font-size: 11px;
-  }
-}
+@media screen and (min-width: 380px) and (max-width:

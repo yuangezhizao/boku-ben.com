@@ -57,24 +57,24 @@
           transform: translate(-20px, 20px);
   width: 70.5vh;
   height: 100%;
-  background: url(../img/top/loading/img_fumino.jpg) center left no-repeat;
+  background: url(https://boku-ben.com/assets/img/top/loading/img_fumino.jpg) center left no-repeat;
   background-size: 100%;
 }
 
 .c-heroine_rizu .l-loading_img {
-  background-image: url(../img/top/loading/img_rizu.jpg);
+  background-image: url(https://boku-ben.com/assets/img/top/loading/img_rizu.jpg);
 }
 
 .c-heroine_uruka .l-loading_img {
-  background-image: url(../img/top/loading/img_uruka.jpg);
+  background-image: url(https://boku-ben.com/assets/img/top/loading/img_uruka.jpg);
 }
 
 .c-heroine_mafuyu .l-loading_img {
-  background-image: url(../img/top/loading/img_mafuyu.jpg);
+  background-image: url(https://boku-ben.com/assets/img/top/loading/img_mafuyu.jpg);
 }
 
 .c-heroine_asumi .l-loading_img {
-  background-image: url(../img/top/loading/img_asumi.jpg);
+  background-image: url(https://boku-ben.com/assets/img/top/loading/img_asumi.jpg);
 }
 
 .active .l-loading_img {
