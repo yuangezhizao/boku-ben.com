@@ -166,19 +166,19 @@ ol, ul {
 }
 
 .c-bg_rizu .l-content {
-  background-image: url(../img/common/bg/rizu/pc_bg_top.png), url(https://boku-ben.com/assets/img/common/bg/rizu/pc_bg_under.png);
+  background-image: url(../img/common/bg/rizu/pc_bg_top.png), url(../img/common/bg/rizu/pc_bg_under.png);
 }
 
 .c-bg_uruka .l-content {
-  background-image: url(https://boku-ben.com/assets/img/common/bg/uruka/pc_bg_top.png), url(https://boku-ben.com/assets/img/common/bg/uruka/pc_bg_under.png);
+  background-image: url(../img/common/bg/uruka/pc_bg_top.png), url(../img/common/bg/uruka/pc_bg_under.png);
 }
 
 .c-bg_mafuyu .l-content {
-  background-image: url(https://boku-ben.com/assets/img/common/bg/mafuyu/pc_bg_top.png), url(https://boku-ben.com/assets/img/common/bg/mafuyu/pc_bg_under.png);
+  background-image: url(../img/common/bg/mafuyu/pc_bg_top.png), url(../img/common/bg/mafuyu/pc_bg_under.png);
 }
 
 .c-bg_asumi .l-content {
-  background-image: url(https://boku-ben.com/assets/img/common/bg/asumi/pc_bg_top.png), url(https://boku-ben.com/assets/img/common/bg/asumi/pc_bg_under.png);
+  background-image: url(../img/common/bg/asumi/pc_bg_top.png), url(../img/common/bg/asumi/pc_bg_under.png);
 }
 
 .c-bg_area--top {
@@ -196,15 +196,15 @@ ol, ul {
 }
 
 .c-bg_uruka .c-bg_area--top {
-  background-image: url(https://boku-ben.com/assets/img/common/bg/uruka/pc_bg_top.png);
+  background-image: url(../img/common/bg/uruka/pc_bg_top.png);
 }
 
 .c-bg_mafuyu .c-bg_area--top {
-  background-image: url(https://boku-ben.com/assets/img/common/bg/mafuyu/pc_bg_top.png);
+  background-image: url(../img/common/bg/mafuyu/pc_bg_top.png);
 }
 
 .c-bg_asumi .c-bg_area--top {
-  background-image: url(https://boku-ben.com/assets/img/common/bg/asumi/pc_bg_top.png);
+  background-image: url(../img/common/bg/asumi/pc_bg_top.png);
 }
 
 .c-bg_fumino .c-color_bg {
@@ -534,7 +534,7 @@ body {
   transform: translateX(10px);
   width: 16px;
   height: 100%;
-  background: url(https://boku-ben.com/assets/img/common/menu/pc/img_pencil.png) left center no-repeat;
+  background: url(../img/common/menu/pc/img_pencil.png) left center no-repeat;
   background-size: contain;
 
   -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=0)";
@@ -783,7 +783,7 @@ body {
   left: 0;
   width: 100%;
   height: 100%;
-  background: url(https://boku-ben.com/assets/img/common/footer/arrow_pagetop.svg) center center no-repeat;
+  background: url(../img/common/footer/arrow_pagetop.svg) center center no-repeat;
   background-size: 19px auto;
 }
 
@@ -1024,7 +1024,7 @@ body {
   transform: translateY(-50%);
   width: 36px;
   height: 95%;
-  background: url(https://boku-ben.com/assets/img/chara/bg_note_repeat.svg) top center repeat-y;
+  background: url(../img/chara/bg_note_repeat.svg) top center repeat-y;
   background-size: contain;
 
   -webkit-transform: translateY(-50%);
@@ -1189,19 +1189,19 @@ img {
     background-position: top 250vw left 0;
   }
   .c-bg_fumino .l-content {
-    background-image: url(https://boku-ben.com/assets/img/common/bg/fumino/sp_bg_repeat.jpg);
+    background-image: url(../img/common/bg/fumino/sp_bg_repeat.jpg);
   }
   .c-bg_rizu .l-content {
-    background-image: url(https://boku-ben.com/assets/img/common/bg/rizu/sp_bg_repeat.jpg);
+    background-image: url(../img/common/bg/rizu/sp_bg_repeat.jpg);
   }
   .c-bg_uruka .l-content {
-    background-image: url(https://boku-ben.com/assets/img/common/bg/uruka/sp_bg_repeat.jpg);
+    background-image: url(../img/common/bg/uruka/sp_bg_repeat.jpg);
   }
   .c-bg_mafuyu .l-content {
-    background-image: url(https://boku-ben.com/assets/img/common/bg/mafuyu/sp_bg_repeat.jpg);
+    background-image: url(../img/common/bg/mafuyu/sp_bg_repeat.jpg);
   }
   .c-bg_asumi .l-content {
-    background-image: url(https://boku-ben.com/assets/img/common/bg/asumi/sp_bg_repeat.jpg);
+    background-image: url(../img/common/bg/asumi/sp_bg_repeat.jpg);
   }
   .c-bg_area--top {
     background: none !important;
@@ -1302,7 +1302,7 @@ img {
   }
   .l-header .c-header_menu .menu_list li a::before {
     width: 17px;
-    background-image: url(https://boku-ben.com/assets/img/common/menu/sp/img_pencil.png);
+    background-image: url(../img/common/menu/sp/img_pencil.png);
   }
   .l-header .c-header_menu .menu_list li a span {
     display: none;

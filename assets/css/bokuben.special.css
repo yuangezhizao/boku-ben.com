@@ -219,7 +219,7 @@
   left: 0;
   width: 25px;
   height: 100%;
-  background: url(../img/common/arrow_left.svg) center right no-repeat;
+  background: url(https://boku-ben.com/assets/img/common/arrow_left.svg) center right no-repeat;
   background-size: 15px auto;
 }
 
@@ -502,7 +502,7 @@ input[type="button"]::focus {
   border: none;
   width:365px;
   height:75px;
-  background: url(../img/special/stamp/btn_submit.png) left top no-repeat;
+  background: url(https://boku-ben.com/assets/img/special/stamp/btn_submit.png) left top no-repeat;
   text-indent: -99999px;
 }
 @media only screen and (min-width: 769px) {
