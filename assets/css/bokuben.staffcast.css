@@ -53,7 +53,7 @@
   width: 24px;
   height: 24px;
   margin-top: -12px;
-  background: url(https://boku-ben.com/assets/img/staff/icon_balloon.svg) center center no-repeat;
+  background: url(../img/staff/icon_balloon.svg) center center no-repeat;
   background-size: contain;
   cursor: pointer;
 }

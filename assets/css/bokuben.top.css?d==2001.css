@@ -1415,4 +1415,23 @@
   }
 }
 
-@media screen and (min-
+@media screen and (min-width: 410px) and (max-width: 768px) {
+  .l-content .c-content_wrap .content_inner.top .top_section.top_schedule .schedule_calender .calender_box {
+    padding-bottom: 139%;
+  }
+  .l-content .c-content_wrap .content_inner.top .top_section.top_schedule .schedule_calender .calender_box iframe {
+    top: -20.5%;
+  }
+}
+
+@media screen and (max-width: 321px) {
+  .l-content .c-content_wrap .content_inner.top .top_section.top_schedule .schedule_calender .calender_box {
+    padding-bottom: 177%;
+  }
+  .l-content .c-content_wrap .content_inner.top .top_section.top_link .link_jump p {
+    font-size: 12px;
+  }
+  .l-content .c-content_wrap .content_inner.top .top_section.top_movie .movie_wrap .title {
+    font-size: 11px;
+  }
+}

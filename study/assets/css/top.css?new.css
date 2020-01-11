@@ -31,7 +31,7 @@
   left: 0;
   width: 0;
   height: 80%;
-  background: url(https://boku-ben.com/study/assets/img/top/bg_main.jpg);
+  background: url(../img/top/bg_main.jpg);
 }
 
 .main_area .main_area_in {
@@ -316,7 +316,7 @@
           transform: scale(1);
   width: 24px;
   height: 24px;
-  background: url(https://boku-ben.com/study/assets/img/top/bg_crease_news_pc.jpg) no-repeat right bottom;
+  background: url(../img/top/bg_crease_news_pc.jpg) no-repeat right bottom;
 }
 
 .top_news .news_list .news_list_item .date {
@@ -361,7 +361,7 @@
 .top_news .news_list .news_list_item .title span {
   position: relative;
   padding: 3px 0;
-  background: url(https://boku-ben.com/study/assets/img/top/line.png) repeat-x left bottom;
+  background: url(../img/top/line.png) repeat-x left bottom;
   background-size: 40px auto;
 }
 
@@ -387,7 +387,7 @@
           transform: translate(-1.5%, -2%);
   margin-top: 100px;
   padding: 70px 0 45px;
-  background: url(https://boku-ben.com/study/assets/img/top/bg_movie.jpg) center center;
+  background: url(../img/top/bg_movie.jpg) center center;
   text-align: center;
 }
 
@@ -462,7 +462,7 @@
   left: 0;
   width: 100%;
   height: 100%;
-  background: url(https://boku-ben.com/study/assets/img/top/btn_play.png) no-repeat center center;
+  background: url(../img/top/btn_play.png) no-repeat center center;
 }
 
 .top_movie .movie_cap {
@@ -484,7 +484,7 @@
           transform: translate(-1.5%, -2%);
   margin: 100px auto 0;
   padding: 40px 0;
-  background: url(https://boku-ben.com/study/assets/img/top/bg_bnr.jpg) center top;
+  background: url(../img/top/bg_bnr.jpg) center top;
 }
 
 .top_banner.in {
@@ -538,7 +538,7 @@
   left: 0;
   width: 100%;
   height: 100%;
-  background: url(https://boku-ben.com/study/assets/img/top/pager_off.png) no-repeat center center;
+  background: url(../img/top/pager_off.png) no-repeat center center;
   background-size: contain;
   -webkit-transition: opacity .5s ease;
   transition: opacity .5s ease;
@@ -552,7 +552,7 @@
   left: 0;
   width: 100%;
   height: 100%;
-  background: url(https://boku-ben.com/study/assets/img/top/pager_atv.png) no-repeat center center;
+  background: url(../img/top/pager_atv.png) no-repeat center center;
   background-size: contain;
   -webkit-transition: opacity .5s ease;
   transition: opacity .5s ease;
@@ -583,7 +583,7 @@
     right: 0;
     width: 100%;
     height: 100%;
-    background: url(https://boku-ben.com/study/assets/img/top/img_main02_pc.jpg) no-repeat center 70%;
+    background: url(../img/top/img_main02_pc.jpg) no-repeat center 70%;
     background-size: cover;
   }
   .main_area .main_img img {
@@ -683,7 +683,7 @@
     left: 0;
     width: 0;
     height: 90%;
-    background: url(https://boku-ben.com/study/assets/img/top/bg_main.jpg);
+    background: url(../img/top/bg_main.jpg);
     opacity: 0;
   }
   .main_area .main_img:after {
@@ -780,7 +780,7 @@
   .top_news .news_list .news_list_item:before {
     width: 16px;
     height: 16px;
-    background: url(https://boku-ben.com/study/assets/img/top/bg_crease_news_sp.jpg) no-repeat right bottom;
+    background: url(../img/top/bg_crease_news_sp.jpg) no-repeat right bottom;
     background-size: contain;
   }
   .top_news .news_list .news_list_item .date {
