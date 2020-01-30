@@ -264,6 +264,19 @@ select,
   text-align: center;
   min-height: 0;
 }
+.maru .slide_dots li button {
+  cursor: pointer;
+  outline: none;
+  border: none;
+  width: 7px;
+  height: 7px;
+  margin: 0 1.5px;
+  padding: 1px 0px 0;
+  font-size: 0;
+  background: rgba(0, 0, 0, .25);
+  text-align: center;
+  min-height: 0;
+}
 
 .slide_dots li.slick-active button {
   color: #fff;
@@ -275,6 +288,13 @@ select,
     position: absolute;
     right: 0;
     bottom: -19px;
+    min-height: 0;
+    line-height: 1;
+  }
+  .maru .slide_dots {
+    position: absolute;
+    right: 0;
+    bottom: -12px;
     min-height: 0;
     line-height: 1;
   }
