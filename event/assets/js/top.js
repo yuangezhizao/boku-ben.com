@@ -6,14 +6,14 @@ jQuery.extend( jQuery.easing,{
 
 $(window).on('load', function() {
 
-  // var quer = location.search;
-  // if(quer){
-  //   quer = quer.replace('?','.');
-  //   var targetY = $(quer).offset().top;
-  //   $('html, body').animate({
-  //     scrollTop: targetY - 20
-  //   }, { duration: 1500, easing: 'easeOutQuart'});
-  // }
+  var quer = location.search;
+  if(quer){
+  quer = quer.replace('?','.');
+  var targetY = $(quer).offset().top;
+  $('html, body').animate({
+      scrollTop: targetY - 20
+    }, { duration: 1500, easing: 'easeOutQuart'});
+  }
 
   // loaded
   $('body').animate({"opacity": "1"}, "800", "easeOutQuart");
