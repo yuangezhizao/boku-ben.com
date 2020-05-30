@@ -31,7 +31,7 @@
   left: 0;
   width: 0;
   height: 80%;
-  background: url(../img/top/bg_main.jpg);
+  background: url(/study/assets/img/top/bg_main.jpg);
 }
 
 .main_area .main_area_in {
@@ -683,7 +683,7 @@
     left: 0;
     width: 0;
     height: 90%;
-    background: url(../img/top/bg_main.jpg);
+    background: url(/study/assets/img/top/bg_main.jpg);
     opacity: 0;
   }
   .main_area .main_img:after {
