@@ -36,7 +36,7 @@
   -webkit-transform: translate(-440px, -50%);
       -ms-transform: translate(-440px, -50%);
           transform: translate(-440px, -50%);
-  background: url(https://boku-ben.com/assets/img/top/point_left.png) no-repeat center center #f00909;
+  background: url(../img/top/point_left.png) no-repeat center center #f00909;
 }
 
 [dir="rtl"] .slick-prev {
@@ -57,7 +57,7 @@
   -webkit-transform: translate(440px, -50%);
       -ms-transform: translate(440px, -50%);
           transform: translate(440px, -50%);
-  background: url(https://boku-ben.com/assets/img/top/point_right.png) no-repeat center center #f00909;
+  background: url(../img/top/point_right.png) no-repeat center center #f00909;
 }
 
 [dir="rtl"] .slick-next {
