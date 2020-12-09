@@ -145,7 +145,7 @@ img {
     margin: auto;
     width: 14px;
     height: 11px;
-    background: url("https://boku-ben.com/assets/img/news/ar_back.png") center center no-repeat;
+    background: url("../img/news/ar_back.png") center center no-repeat;
     background-size: contain;
   }
   .galleryArea .btnBack a {
@@ -206,7 +206,7 @@ img {
     margin: auto;
     width: 12px;
     height: 10px;
-    background: url("https://boku-ben.com/assets/img/news/ar_back.png") center center no-repeat;
+    background: url("../img/news/ar_back.png") center center no-repeat;
     background-size: contain;
   }
   .galleryArea .btnBack a {
