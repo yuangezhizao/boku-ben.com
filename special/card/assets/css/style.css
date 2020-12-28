@@ -406,7 +406,7 @@ a {
   transform: translateY(-50%);
   width: 36px;
   height: 95%;
-  background: url(../img/chara/bg_note_repeat.svg) top center repeat-y;
+  background: url(https://boku-ben.com/special/card/assets/img/chara/bg_note_repeat.svg) top center repeat-y;
   background-size: contain;
 
   -webkit-transform: translateY(-50%);
@@ -590,7 +590,7 @@ a {
   left: 0;
   width: 100%;
   height: 100%;
-  background: url(/assets/img/movie/icon_play.svg) center center no-repeat;
+  background: url(../../../../assets/img/movie/icon_play.svg) center center no-repeat;
   background-size: 70px auto;
 }
 
@@ -745,7 +745,7 @@ a {
   right: 0;
   width: 25px;
   height: 100%;
-  background: url(/assets/img/common/arrow_right.svg) left center no-repeat;
+  background: url(../../../../assets/img/common/arrow_right.svg) left center no-repeat;
   background-size: 15px auto;
 }
 
@@ -832,7 +832,7 @@ a {
   right: 0;
   width: 25px;
   height: 100%;
-  background: url(/assets/img/common/arrow_right.svg) left center no-repeat;
+  background: url(../../../../assets/img/common/arrow_right.svg) left center no-repeat;
   background-size: 15px auto;
 }
 
@@ -922,7 +922,7 @@ a {
           transform: translateY(-50%);
   width: 36px;
   height: 80%;
-  background: url(/assets/img/chara/bg_note_repeat.svg) top left repeat-y;
+  background: url(../../../../assets/img/chara/bg_note_repeat.svg) top left repeat-y;
   background-size: contain;
 }
 
@@ -999,7 +999,7 @@ a {
 
 .p-top__main {
   padding: 35px 0 35px;
-  background: url(/assets/img/common/bg_grid_repeat.jpg);
+  background: url(../../../../assets/img/common/bg_grid_repeat.jpg);
 }
 
 .p-top__main .p-in-title {
@@ -1076,7 +1076,7 @@ a {
 
 .p-error__main {
   padding: 59px 0 59px;
-  background: url(/assets/img/common/bg_grid_repeat.jpg);
+  background: url(../../../../assets/img/common/bg_grid_repeat.jpg);
 }
 
 .p-error__main .p-in-title {
@@ -1129,7 +1129,7 @@ a {
 
 .p-check__main {
   padding: 59px 0 59px;
-  background: url(/assets/img/common/bg_grid_repeat.jpg);
+  background: url(../../../../assets/img/common/bg_grid_repeat.jpg);
 }
 
 .p-check__main .p-in-card-wrap {
@@ -1258,7 +1258,7 @@ a {
 
 .p-form__main {
   padding: 59px 0 59px;
-  background: url(/assets/img/common/bg_grid_repeat.jpg);
+  background: url(../../../../assets/img/common/bg_grid_repeat.jpg);
 }
 
 .p-form__main .p-in-card-wrap {
